@@ -3,7 +3,31 @@ layout: default
 permalink: /
 ---
 
-# Fork U Resource Page
+# Fork U! Resource Page
+
+Adam Croom
+University of Oklahoma
+[@acroom](https://twitter.com/acroom)
+
+John Stewart
+University of Oklahoma
+[@jstew511](https://twitter.com/jstew511)
+
+**Session Title**
+
+FORK U! A GITHUB APPROACH TO LEARNING AND COLLABORATION 
+
+**Abstract**
+
+You've heard the Git terminology ("fork," "repo," "pull") but you haven't dared to venture into the land of Github, the online network with 9 million users, more than 21.1 million repositories, and the largest host of source code in the world. While Github is a platform dominated by open source developers, it's worth understanding the use cases within higher education for courses, peer review, OER textbooks, syllabi, instructional design, and more.
+
+We want to examine how this idea of individual ownership of one's work with a centralized hub, termed "federated" by Ward Cunningham, can alter student experience with texts and created a shared environment for faculty.
+
+Since Fall 2014, the University of Oklahoma has been supporting learning through a Domain's of One's Own project, OU Create, which affords students with domains and open source powered web space. This has led to the creation of more than 2,000 webspaces built by students, faculty, and staff powered by tools like Wordpress and Omeka. As this primarily residential-based research institution has tip toed into the open web, the project has provided an opportunity for the OU Digital Learning team to explore platforms that allow for sharing of user-generated content amongst users (and beyond) with Github.
+
+This workshop will provide a basic literacy of Github as well as a hands-on component where participants will work within Github to build out their first repository. These group-based activities will lay a foundation for participants to reflect on the affordances of open teaching and scholarship.
+
+
 
 ## Group Project 1: Fork the Syllabus
 
