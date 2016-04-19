@@ -48,26 +48,26 @@ As you are working through this demonstration, please keep the instructions open
 
 1. If you haven't yet, please create a GitHub account.
 
-2. Open the Keywords folder (above if you are viewing this in a browser) and click on the file labeled remix.md  
+2. In a new tab, follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at  Group2-peer_review/keywords/remix.md.
 
 3. Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 
-![screenshot](images/draftStatus-Screenshot.png)
+  ![screenshot](images/draftStatus-Screenshot.png)
 
-The article itself is divided into two sections: a "Curatorial Statement" about remixing and a "Curated Artifact" section which desribes several examples of remixing.
+  The article itself is divided into two sections: a "Curatorial Statement" about remixing and a "Curated Artifact" section which desribes several examples of remixing.
 
 4. Click on the edit button (a pencil in the gray menu bar) at the top of the screen
 
-![screenshot](images/gitEdit-Screenshot.png)
+  ![screenshot](images/gitEdit-Screenshot.png)
 
-Because you don't have administrative privileges for this file, when you clicked on the edit button, GitHub created a new "forked" copy of the repository in your account's repositories. When you get done with your edits, you will save your copy of the repository and suggest that we adopt those changes through a "pull-request."  
+  Because you don't have administrative privileges for this file, when you clicked on the edit button, GitHub created a new "forked" copy of the repository in your account's repositories. When you get done with your edits, you will save your copy of the repository and suggest that we adopt those changes through a "pull-request."  
 5. In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**. To bold something you use <code>two astericks *</code> before and after the word. For a full cheat sheet of markdown coding, please follow this link [**Markdown Cheat Sheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 6. Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions
 
 7. When you get done making your edits, scroll to the bottom of the screen to see the "Propose File Change" section.  Add some information about your changes in the optional extended description text box. Then click the green "Propose File Change" button.
 
-![screenshot](images/proposeFileChange.png)
+  ![screenshot](images/proposeFileChange.png)
 
 8. After you have clicked "Propose File Change" a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository. 
 
