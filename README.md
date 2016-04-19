@@ -52,13 +52,13 @@ As you are working through this demonstration, please keep the instructions open
 
 3. Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 
-![screenshot](keywords/images/draftStatus-Screenshot.png)
+![screenshot](images/draftStatus-Screenshot.png)
 
 The article itself is divided into two sections: a "Curatorial Statement" about remixing and a "Curated Artifact" section which desribes several examples of remixing.
 
 4. Click on the edit button (a pencil in the gray menu bar) at the top of the screen
 
-![screenshot](keywords/images/gitEdit-Screenshot.png)
+![screenshot](images/gitEdit-Screenshot.png)
 
 Because you don't have administrative privileges for this file, when you clicked on the edit button, GitHub created a new "forked" copy of the repository in your account's repositories. When you get done with your edits, you will save your copy of the repository and suggest that we adopt those changes through a "pull-request."  
 5. In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**. To bold something you use <code>two astericks *</code> before and after the word. For a full cheat sheet of markdown coding, please follow this link [**Markdown Cheat Sheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -67,11 +67,11 @@ Because you don't have administrative privileges for this file, when you clicked
 
 7. When you get done making your edits, scroll to the bottom of the screen to see the "Propose File Change" section.  Add some information about your changes in the optional extended description text box. Then click the green "Propose File Change" button.
 
-![screenshot](keywords/images/proposeFileChange.png)
+![screenshot](images/proposeFileChange.png)
 
 8. After you have clicked "Propose File Change" a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository. 
 
-![screenshot](keywords/images/compareChanges.png)
+![screenshot](images/compareChanges.png)
 
 ## Group Project 3: Github Pages
 
@@ -280,7 +280,7 @@ Users are personal GitHub accounts. Each user has a personal profile, and can ow
 ## Other Resources
 Zagalsky, Alexey, et al. ["The emergence of GitHub as a collaborative platform for education."](http://alexeyza.com/pdf/cscw15.pdf) Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing. ACM, 2015.
 
-**Chroncile Series "Github 101"**
+**Chronicle Series "Github 101"**
 
 - [Getting Started With a GitHub Repository](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)
 
