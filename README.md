@@ -120,7 +120,7 @@ As mentioned earlier, Github can simply host HTML as well. Here are some directi
 #### Create a gh-pages branch
 Create a new repository, or go to an existing one. In the repository overview, click the branch drop-down on the left-hand side. Type in gh-pages and press enter.
 
-![New Branch](images/newbranch.png)
+![New Branch](forku/images/newbranch.png)
 
 #### Create an index file
 Use the plus icon next to the repository name to create a new file.
