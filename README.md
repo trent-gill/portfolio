@@ -3,215 +3,112 @@ layout: default
 permalink: /
 ---
 
-# Course Syllabus
+# Fork U Resource Page
 
-**University of xxx**
+## Group Project 1: Fork the Syllabus
 
-**College**
+## Group Project 2: Peer-Review
 
-**Unit**
+## Group Project 3: Github Pages
 
-## Course Number: Course Title
+## Glossary
 
-**Semester Year**
+**Blame**
 
+The "blame" feature in Git describes the last modification to each line of a file, which generally displays the revision, author and time. This is helpful, for example, in tracking down when a feature was added, or which commit led to a particular bug.
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
-**Email**:  
+**Branch**
 
-**Phone**:  
-**Office Hours**: Date, Time, Location  
+A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the master branch to publish your changes.
 
-[Every Tuesday at 4:00 p.m. CST
-or by appointment or Virtual office hours available]
+**Clone**
 
-**Learning Management System**:  
+A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. With your clone you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. It is, however, connected to the remote version so that changes can be synced between the two. You can push your local changes to the remote to keep them synced when you're online.
 
-**Other**: [Action Center, Course Web Site, Other contact
-information]  
+**Collaborator**
 
-  
-**Course Meeting Time and Location**: _Online_
+A collaborator is a person with read and write access to a repository who has been invited to contribute by the repository owner.
 
-**Course Prerequisite**: _None_
+**Commit**
 
-**Course Delivery**: _Online, Blended, Flipped_  
+A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes were made when and by who. Commits usually contain a commit message which is a brief description of what changes were made.
 
-**Course Description**:  
+**Contributor**
 
-_In about five sentences, describe why this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
+A contributor is someone who has contributed to a project by having a pull request merged but does not have collaborator access.
 
-**Course Goals**:  
+**Diff**
 
-_What are the general outcomes the course designed to achieve? How will they contribute to the students professionally? Course goals are usually broad and general._
+A diff is the difference in changes between two commits, or saved changes. The diff will visually describe what was added or removed from a file since its last commit.
 
-**Learning Outcomes**:  
-_Learning outcomes are specific and measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
+**Fetch**
 
-·     
-_Use Bloom’s taxonomy (http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/) to identify the focus of your learning outcomes, then select appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**_
+Fetching refers to getting the latest changes from an online repository (like GitHub.com) without merging them in. Once these changes are fetched you can compare them to your local branches (the code residing on your local machine).
 
-·     
-_Do not use verbs such as “understand,” “learn” and “know” in your learning objectives because these words are too broad and cannot be measured._  
+**Fork**
 
-·     
-_Put learning outcomes under categories if you have a long list of outcomes._
+A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original. Forks remain attached to the original, allowing you to submit a pull request to the original's author to update with your changes. You can also keep your fork up to date by pulling in updates from the original.
 
-·     
-_Consider including how each Learning Outcome will be assessed._
+**Git**
 
-### Texts and Materials:
+Git is an open source program for tracking changes in text files. It was written by the author of the Linux operating system, and is the core technology that GitHub, the social and user interface, is built on top of.
 
-_List all of the text(s), materials, and any software for the course.  Be specific as to whether the item is required, recommended, or optional. It is not mandatory to have a required text for your course.  Follow the format customary to your discipline._
+**Issue**
 
-_If you have a long list of readings, please use an Appendix at the back of the syllabus._  
-  
+Issues are suggested improvements, tasks or questions related to the repository. Issues can be created by anyone (for public repositories), and are moderated by repository collaborators. Each issue contains its own discussion forum, can be labeled and assigned to a user.
 
-### Teaching Philosophy:
+**Markdown**
 
-_Telling students what teaching methods you will use in class and the rationale behind them will help them set realistic expectations. Providing your rationale can decrease student resistance to teaching methods that they may be less familiar and can increase their confidence in the processes in the course._
+Markdown is an incredibly simple semantic file format, not too dissimilar from .doc, .rtf and .txt. Markdown makes it easy for even those without a web-publishing background to write prose (including with links, lists, bullets, etc.) and have it displayed like a website. GitHub supports Markdown, and you can learn about the semantics here.
 
-### Expectations:
+**Merge**
 
-_Consider telling students what you expect them to do, both in class and outside of class. Although some expectations may seem self-evident, you are more likely to have students meet your expectations when you state them explicitly. Students have a better chance of being successful when they know precisely what you expect.  Instructors usually include their expectations regarding attendance, class workload, when students should complete the assigned readings, and participation._
+Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a Pull Request (which can be thought of as a request to merge), or via the command line. A merge can be done automatically via a Pull Request via the GitHub.com web interface if there are no conflicting changes, or can always be done via the command line. See Merging a pull request.
 
-_Consider discussing classroom expectations with the students during the first day of class and having the entire class come up with a set of classroom policies or expectations._
+**Open Source**
 
-_In addition to your expectations for the students consider including what they can expect from you.  Specifically expectation for responding to e-mails (example: Up to 24 hours on weekdays and 48 hours on weekends) and time to return graded assignments._
+Open source software is software that can be freely used, modified, and shared (in both modified and unmodified form) by anyone. Today the concept of "open source" is often extended beyond software, to represent a philosophy of collaboration in which working materials are made available online for anyone to fork, modify, discuss, and contribute to.
 
-### Learning Activities and Assessment
+**Organizations**
 
-_Provide a short description of the learning activities and assessments that will be used in the course._
- 
+Organizations are a group of two or more users that typically mirror real-world organizations. They are administered by users and can contain both repositories and teams.
 
-**Assessments** 
+**Private Repository**
 
- 
+Private repositories are repositories that can only be viewed or contributed to by their creator and collaborators the creator specified.
 
-**Learning Outcomes**
+**Pull**
 
- 
+Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date.
 
-**Learning Activities**
+**Pull Request**
 
- 
+Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum. See Using Pull Requests.
 
-**Quiz (every 2 Weeks)**
+**Push**
 
- 
+Pushing refers to sending your committed changes to a remote repository such as GitHub.com. For instance, if you change something locally, you'd want to then push those changes so that others may access them.
 
-** Journal or Blogs**
+**Remote**
 
- 
+This is the version of something that is hosted on a server, most likely GitHub.com. It can be connected to local clones so that changes can be synced.
 
-**Online Discussions**
+**Repository**
 
- 
+A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
 
-**Reaction Papers (Monthly)**
+**SSH Key**
 
- 
+SSH keys are a way to identify yourself to an online server, using an encrypted message. It's as if your computer has its own unique password to another service. GitHub uses SSH keys to securely transfer information from GitHub.com to your computer.
 
-**Lab Reports**
+**Upstream**
 
- 
+When talking about a branch or a fork, the primary branch on the original repository is often referred to as the "upstream", since that is the main place that other changes will come in from. The branch/fork you are working on is then called the "downstream".
 
-**Research Paper**
+**User**
 
- 
+Users are personal GitHub accounts. Each user has a personal profile, and can own multiple repositories, public or private. They can create or be invited to join organizations or collaborate on another user's repository.
 
-**Final Exam**
 
- 
 
-**Written Project**
-
- 
-
-**Presentation**
-
-
-* _The quality of all written assignments and presentation should be evaluated using a rubric._
-
-* _It is important to provide information on the deadlines for any learning activities.  Including a table with all of the due dates can help students plan out their semester.  This can also be included in the calendar feature of the learning management system._
- 
-
-### Final Grade:
-
-_It is important to be specific about your grading system.  Avoid long paragraphs; use headings, numbers, and bullets to chunk information._
-
-_Clarify whether your system is point based, weighted, percentage, letter based, and whether there will be any adjustment to the final grade, either linear or Gaussian distribution (curved).  Be specific about the cutoff for each letter grade and whether these are predetermined or may be adjusted._
-
-### Additional Support for Learning
-
-_As appropriate, list additional services that the students in your course might wish to use to support their learning.(Action Tutoring, Action Center, Writing Center…)_
-
-### Course Policies
-
-_In this section, spell out what are your expectations for late work, attendance, and other course specific policies._
-
-#### Make-up Policy 
-
-_In this section, you should clearly state a make-up policy._
-
-#### Absences
-
-_In this section, you should clearly state an attendance policy._ 
-
-**Other Policies:** Civility, Emergency Contact, Late Assignments
-
-### University Policies
-
-_In this section, include the mandatory University policies. (Examples are provided below.)_
-
-#### Academic Integrity
-
-_There is not specific language for the Academic Integrity policy to be included in the syllabus. It is good to become familiar with the policy and describe it in your own words._
-
-Cheating is strictly prohibited, because it devalues the degree you are working hard to get. It is your responsibility to protect your educational investment by knowing and following the rules. For specific definitions on what constitutes cheating, review the Student’s Guide to Academic Integrity.
- 
-
-To be successful in this class, all work on exams and quizzes must be yours and yours alone.  You may not receive outside help. On examinations and quizzes you will never be permitted to use your notes, textbooks, calculators, or any other study aids. Should you see someone else engaging in this behavior, I encourage you to report it to myself or directly to the Office of Academic Integrity Programs. That student is devaluing not only their degree, but yours, too. Be aware that it is my professional obligation to report academic misconduct, which I will not hesitate to do. Sanctions for academic misconduct can include expulsion from the University and an F in this course, so don’t cheat. It’s simply not worth it.
-
-
-#### Religious Observance
-
-It is the policy of the University to excuse the absences of students that result from religious observances and to reschedule examinations and additional required classwork that may fall on religious holidays, without penalty.
-
-#### Reasonable Accommodation Policy
-
-_There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encouraged.
-
-
-Any student in this course who has a disability that may prevent him or her from fully demonstrating his or her abilities should contact me personally as soon as possible so we can discuss accommodations necessary to ensure full participation and facilitate your educational opportunities.
-
-
-**Title IX Resources and Reporting Requirement**
-
-For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office. Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  
-
-**Adjustments for Pregnancy/Childbirth Related Issues**
-
-Should you need modifications or adjustments to your course requirements because of documented pregnancy-related or childbirth-related issues, please contact your professor or the Disability Resource Center.
-
-### Tentative Schedule  
-  
-
-**Date(s)**
-
- 
-
-**Unit**
-
- 
-
-**Topics or Activities**
-
- 
-
-**Learning Outcomes Addressed**
-
- 
-
-**Assignments, Exams, or Readings**
+## Other Resources
