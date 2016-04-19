@@ -10,11 +10,12 @@ permalink: /
 [View the Presentation](http://oudiglearn.github.io/olcinnovate-github/)
 
 [Fork the Presentation](https://github.com/oudiglearn/olcinnovate-github/tree/master/presentation)
-**Presenters
 
-Adam Croom | University of Oklahoma | [@acroom](https://twitter.com/acroom)
+**Presenters**
 
-John Stewart | University of Oklahoma | [@jstew511](https://twitter.com/jstew511)
+Adam Croom, Director of Digital Learning, University of Oklahoma, [@acroom](https://twitter.com/acroom)
+
+John Stewart, Asst Director of Digital Learning, University of Oklahoma, [@jstew511](https://twitter.com/jstew511)
 
 **Session Title**
 
