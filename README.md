@@ -278,3 +278,12 @@ Users are personal GitHub accounts. Each user has a personal profile, and can ow
 
 
 ## Other Resources
+Zagalsky, Alexey, et al. ["The emergence of GitHub as a collaborative platform for education."](http://alexeyza.com/pdf/cscw15.pdf) Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing. ACM, 2015.
+
+**Chroncile Series "Github 101"**
+* [Getting Started With a GitHub Repository](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)
+* [Direct Editing and Zen Mode in GitHub](http://chronicle.com/blogs/profhacker/direct-editing-and-zen-mode-in-github/47497)
+* [Forks and Pull Requests in GitHub](http://chronicle.com/blogs/profhacker/forks-and-pull-requests-in-github/47753)
+* [File and Repository History in GitHub](http://chronicle.com/blogs/profhacker/file-and-repository-history-in-github/48047)
+* [Resources for Learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
+* [The Limitations of GitHub for Writers](http://chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299)
