@@ -48,7 +48,7 @@ As you are working through this demonstration, please keep the instructions open
 
 1. If you haven't yet, please create a GitHub account.
 
-2. Open the Keywords folder (above if you are viewing this in a browser) and click on the file labeled remix.md  
+2. Follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at  Group2-peer_review/keywords/remix.md.
 
 3. Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 
