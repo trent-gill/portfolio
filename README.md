@@ -5,13 +5,16 @@ permalink: /
 
 # Fork U! Resource Page
 
-Adam Croom
-University of Oklahoma
-[@acroom](https://twitter.com/acroom)
+## Session Resources
 
-John Stewart
-University of Oklahoma
-[@jstew511](https://twitter.com/jstew511)
+[View the Presentation](http://oudiglearn.github.io/olcinnovate-github/)
+
+[Fork the Presentation](https://github.com/oudiglearn/olcinnovate-github/tree/master/presentation)
+**Presenters
+
+Adam Croom | University of Oklahoma | [@acroom](https://twitter.com/acroom)
+
+John Stewart | University of Oklahoma | [@jstew511](https://twitter.com/jstew511)
 
 **Session Title**
 
