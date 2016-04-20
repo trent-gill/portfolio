@@ -40,11 +40,11 @@ For this project, we want you to get to experience what it's like to create a br
 
 ### Directions
 
-1. If you haven't yet, create a Github account and verify your email address.
+**Step 1:** If you haven't yet, create a Github account and verify your email address.
 
-2. Go to [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus) and click on "Fork." This will create your own branch of the repository and name it `github.com/YOURUSERNAME/syllabus`.
+**Step 2:** Go to [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus) and click on "Fork." This will create your own branch of the repository and name it `github.com/YOURUSERNAME/syllabus`.
 
-![Fork the Repository](images/fork.jpg)
+![Fork the Repository](images/fork.png)
 
 3. Find and click on the file labeled `README.md`. Once you have opened `README.md` click the Edit icon.
 
@@ -83,11 +83,7 @@ As you are working through this demonstration, please keep the instructions open
 
 1. If you haven't yet, please create a GitHub account.
 
-<<<<<<< HEAD
-2. In the repository labeled Group2-peer_review, open the Keywords folder and click on the file labeled remix.md: https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md.  
-=======
 2. In a new tab, follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at  Group2-peer_review/keywords/remix.md.
->>>>>>> origin/gh-pages
 
 3. Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 
