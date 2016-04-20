@@ -293,3 +293,6 @@ Zagalsky, Alexey, et al. ["The emergence of GitHub as a collaborative platform f
 - [Resources for Learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
 
 - [The Limitations of GitHub for Writers](http://chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299)
+ 
+## Suggest a Resource
+Use the following linked form to suggest courses or other resources that you know of that use GitHub in higher education: [Google Form](http://goo.gl/forms/qgKZ8OlqZD)
