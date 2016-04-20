@@ -46,31 +46,33 @@ For this project, we want you to get to experience what it's like to create a br
 
 ![Fork the Repository](images/fork.png)
 
-3. Find and click on the file labeled `README.md`. Once you have opened `README.md` click the Edit icon.
+**Step 3:** Find and click on the file labeled `README.md`. Once you have opened `README.md` click the Edit icon.
 
 ![Fork the Repository](images/editfork.jpg)
 
-4. You'll find that the Syllabus is written in Markdown. Feel free to utilize [this Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to decipher the codes for headers, lists, bold, etc.
+**Step 4:** You'll find that the Syllabus is written in Markdown. Feel free to utilize [this Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to decipher the codes for headers, lists, bold, etc.
 
-5. Begin to customize the syllabus to either a specific course that you've taught or a fictional course (or possibly appropriate one of those fancy massive open-licensed courses).
+**Step 5:** Begin to customize the syllabus to either a specific course that you've taught or a fictional course (or possibly appropriate one of those fancy massive open-licensed courses).
 
-6. Once you have made a significant amount of edits, COMMIT your changes.
+**Step 6:** Once you have made a significant amount of edits, COMMIT your changes.
 
-7. Once you've completed your changes, view them live on your repositories webpage. The address will be `YOURUSERNAME.github.io/syllabus`.
+**Step 7:** Once you've completed your changes, view them live on your repositories webpage. The address will be `YOURUSERNAME.github.io/syllabus`.
 
 ###Bonus Materials
 
 Do you feel like there we could be our syllabus template? Contribute to the centralized syllabus by starting a PULL REQUEST! 
 
-1. Go back to the original repository for the syllabus: [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus). Make the changes to the README.md file that you think would help make a better template, and then instead of commiting your changes, select `Create a new branch for this commit and start a pull request` and then click `Propose file change`.
+**Step 1:** Go back to the original repository for the syllabus: [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus). Make the changes to the README.md file that you think would help make a better template, and then instead of commiting your changes, select `Create a new branch for this commit and start a pull request` and then click `Propose file change`.
 
 ![Propose File Change](images/propose.png)
 
-2. On the next page, you are able to had labels, milestones, or assign the pull request to a member of the original repository.
+**Step 2:** On the next page, you are able to had labels, milestones, or assign the pull request to a member of the original repository.
 
 ![Assign Tasks](images/assign.png)
 
 ## Group Project 2: Peer-Review
+
+### Objective
 
 In this group project, you are going to use GitHub to provide peer review and editing for an article manuscript. The article manuscript is currently in the review phase for publication in [*Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*](https://digitalpedagogy.commons.mla.org/). This project describes itself as:
 >a curated collection of reusable and remixable pedagogical artifacts for humanities scholars in development by the Modern Language Association. 
@@ -81,30 +83,30 @@ As you are working through this demonstration, please keep the instructions open
 
 ### Instructions
 
-1. If you haven't yet, please create a GitHub account.
+**Step 1:** If you haven't yet, please create a GitHub account.
 
-2. In a new tab, follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at  Group2-peer_review/keywords/remix.md.
+**Step 2:** In a new tab, follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at  Group2-peer_review/keywords/remix.md.
 
-3. Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
+**Step 3:** Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 
   ![screenshot](images/draftStatus-Screenshot.png)
 
   The article itself is divided into two sections: a "Curatorial Statement" about remixing and a "Curated Artifact" section which desribes several examples of remixing.
 
-4. Click on the edit button (a pencil in the gray menu bar) at the top of the screen
+**Step 4:** Click on the edit button (a pencil in the gray menu bar) at the top of the screen
 
   ![screenshot](images/gitEdit-Screenshot.png)
 
   Because you don't have administrative privileges for this file, when you clicked on the edit button, GitHub created a new "forked" copy of the repository in your account's repositories. When you get done with your edits, you will save your copy of the repository and suggest that we adopt those changes through a "pull-request."  
-5. In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**. To bold something you use <code>two astericks *</code> before and after the word. For a full cheat sheet of markdown coding, please follow this link [**Markdown Cheat Sheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+**Step 5:** In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**. To bold something you use <code>two astericks *</code> before and after the word. For a full cheat sheet of markdown coding, please follow this link [**Markdown Cheat Sheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-6. Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions
+**Step 6:** Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions
 
-7. When you get done making your edits, scroll to the bottom of the screen to see the "Propose File Change" section.  Add some information about your changes in the optional extended description text box. Then click the green "Propose File Change" button.
+**Step 7:** When you get done making your edits, scroll to the bottom of the screen to see the "Propose File Change" section.  Add some information about your changes in the optional extended description text box. Then click the green "Propose File Change" button.
 
   ![screenshot](images/proposeFileChange.png)
 
-8. After you have clicked "Propose File Change" a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository. 
+**Step 8:** After you have clicked "Propose File Change" a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository. 
 
 ![screenshot](images/compareChanges.png)
 
@@ -121,11 +123,13 @@ Seriously. That's it. Fork another website. So let's fork this one called [Clean
 This template uses a CMS called Jekyll, which generates static HTML pages. This means that to blog we won't have to write actual HTML, instead we will write in a Github flavor of Markdown. If necessary, feel free to use this [Markdown Cheatset](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
 
 #### Is this thing already live?!
-Yes! To find your web address, click on Settings.
+Yes! 
+
+**Step 1:**To find your web address, click on Settings.
 
 ![Settings](images/settings.png)
 
-Now scroll down to the Github Pages section to see where your site has been published.
+**Step 2:** Now scroll down to the Github Pages section to see where your site has been published.
 
 ![Here's the link](images/link.png)
 
@@ -134,11 +138,12 @@ This is because Github automatically publishes repositories that have a special 
 ![ghpages branch](images/ghpagesbranch.png)
 
 #### How can I write a post?
-Click on the folder in your repository labeled "_posts".
+
+**Step 1:**Click on the folder in your repository labeled "_posts".
 
 ![Click posts](images/clickposts.png)
 
-You'll find a set of posts already in there labeled in a format of YYYY-MM-DD-title-goes-here.markdown. Let's go ahead and edit one of them to see how this works. Click on the file label "2015-06-10-hello-world.markdown" and then click the pencil icon to edit the file.
+**Step 2:** You'll find a set of posts already in there labeled in a format of YYYY-MM-DD-title-goes-here.markdown. Let's go ahead and edit one of them to see how this works. Click on the file label "2015-06-10-hello-world.markdown" and then click the pencil icon to edit the file.
 
 ![Click file](images/clickfile.png)
 
@@ -157,21 +162,27 @@ header-img: "img/post-bg-01.jpg"
 ---
 ```
 
-This is called YAML (yet another markup language). This theme has HTML templates that know to associate specific fields styling. For instance, it knows this is a post because the layout associated with it is "post." It also knows the title, subtitle, data, author, and header image. Play around with changing the title and subtitle as well as the date. 
+This is called YAML (yet another markup language). This theme has HTML templates that know to associate specific fields styling. For instance, it knows this is a post because the layout associated with it is "post." It also knows the title, subtitle, data, author, and header image. 
+
+**Step 3:** Play around with changing the title and subtitle as well as the date. 
 
 *Warning: do not change the layout or it will no longer know that it's a post!
 
-Similarly, add content your blog post by replacing "Hello?" located directly below the YAML content.
+**Step 4:** Similarly, add content your blog post by replacing "Hello?" located directly below the YAML content.
 
-Once you are done, you'll want to Commit your change.
+**Step 5:** Once you are done, you'll want to Commit your change.
 
 ![Commit change](images/commitchange.png)
 
-Now go back to Settings recover that link and you'll see the changes take place (you may need to refresh the page).
+**Step 6:** (Optional) Now go back to Settings recover that link and you'll see the changes take place (you may need to refresh the page).
 
 ![Edited blog post](images/cleanblogedit.png)
 
-You can, of course, create new blog posts too. To do that, go back into your _posts folder and create a new file. Make sure you stick with the file format `YYYY-MM-DD-title.markdown`. You'll also want to add the YAML at the top of the post:
+You can, of course, create new blog posts too.
+
+**Step 1:** Go back into your _posts folder and create a new file. Make sure you stick with the file format `YYYY-MM-DD-title.markdown`. 
+
+**Step 2:** Add the YAML at the top of the post:
 
 
 ```
@@ -188,28 +199,26 @@ header-img:
 ### Hosting HTML
 As mentioned earlier, Github can simply host HTML as well. Here are some directions on how to do that.
 
-#### Create a gh-pages branch
-Create a new repository, or go to an existing one. In the repository overview, click the branch drop-down on the left-hand side. Type in gh-pages and press enter.
+**Step 1:** Create a new repository, or go to an existing one. 
+
+**Step 2:** In the repository overview, click the branch drop-down on the left-hand side. Type in gh-pages and press enter.
 
 ![New Branch](images/newbranch.png)
 
-#### Create an index file
-Use the plus icon next to the repository name to create a new file.
+**Step 3:** Use the plus icon next to the repository name to create a new file.
 
 ![New file](images/plusicon.png)
 
-Name the file `index.html` and type in `Hello World` for the content.
+**Step 4:** Name the file `index.html` and type in `Hello World` for the content.
 
 ![Hello World](images/indexhtml.png)
 
-#### Commit the file
-Scroll to the bottom of the page, write a commit message, and commit the new file.
+**Step 5:** Scroll to the bottom of the page, write a commit message, and commit the new file.
 
 ![Hello World](images/commithtml.png)
 
 #### ...and you're done!
 Go to http://username.github.io/repository.
-
 
 
 ## Glossary
