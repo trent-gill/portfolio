@@ -35,9 +35,44 @@ This workshop will provide a basic literacy of Github as well as a hands-on comp
 
 ## Group Project 1: Fork the Syllabus
 
+### Objective
+For this project, we want you to get to experience what it's like to create a branch off of a central repository. You'll do this by editing information on a syllabus template.
+
+### Directions
+
+1. If you haven't yet, create a Github account and verify your email address.
+
+2. Go to [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus) and click on "Fork." This will create your own branch of the repository and name it `github.com/YOURUSERNAME/syllabus`.
+
+![Fork the Repository](images/fork.jpg)
+
+3. Find and click on the file labeled `README.md`. Once you have opened `README.md` click the Edit icon.
+
+![Fork the Repository](images/editfork.jpg)
+
+4. You'll find that the Syllabus is written in Markdown. Feel free to utilize [this Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to decipher the codes for headers, lists, bold, etc.
+
+5. Begin to customize the syllabus to either a specific course that you've taught or a fictional course (or possibly appropriate one of those fancy massive open-licensed courses).
+
+6. Once you have made a significant amount of edits, COMMIT your changes.
+
+7. Once you've completed your changes, view them live on your repositories webpage. The address will be `YOURUSERNAME.github.io/syllabus`.
+
+###Bonus Materials
+
+Do you feel like there we could be our syllabus template? Contribute to the centralized syllabus by starting a PULL REQUEST! 
+
+1. Go back to the original repository for the syllabus: [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus). Make the changes to the README.md file that you think would help make a better template, and then instead of commiting your changes, select `Create a new branch for this commit and start a pull request` and then click `Propose file change`.
+
+![Propose File Change](images/propose.png)
+
+2. On the next page, you are able to had labels, milestones, or assign the pull request to a member of the original repository.
+
+![Assign Tasks](images/assign.png)
+
 ## Group Project 2: Peer-Review
 
-In this group, you are going to use GitHub to provide peer review and editing for an article manuscript. The article manuscript is currently in the review phase for publication in [*Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*](https://digitalpedagogy.commons.mla.org/). This project describes itself as:
+In this group project, you are going to use GitHub to provide peer review and editing for an article manuscript. The article manuscript is currently in the review phase for publication in [*Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*](https://digitalpedagogy.commons.mla.org/). This project describes itself as:
 >a curated collection of reusable and remixable pedagogical artifacts for humanities scholars in development by the Modern Language Association. 
 
 Kim Middelton's article "Remix" is an apt choice for this demonstration, both in terms of its content and its current phase of production. Still in draft form, Kim's article is awaiting peer review. We will put the article into peer review and provide line-by-line feedback. Feel free to provide commentary, substantive suggestions for the text, or copy-editing notes. The point of the demonstration is to write a few lines in markdown and submit your commentary through GitHub. 
@@ -48,7 +83,7 @@ As you are working through this demonstration, please keep the instructions open
 
 1. If you haven't yet, please create a GitHub account.
 
-2. Open the Keywords folder (above if you are viewing this in a browser) and click on the file labeled remix.md  
+2. In the repository labeled Group2-peer_review, open the Keywords folder and click on the file labeled remix.md: https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md.  
 
 3. Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 
@@ -279,6 +314,8 @@ Users are personal GitHub accounts. Each user has a personal profile, and can ow
 
 ## Other Resources
 Zagalsky, Alexey, et al. ["The emergence of GitHub as a collaborative platform for education."](http://alexeyza.com/pdf/cscw15.pdf) Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing. ACM, 2015.
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 **Chronicle Series "Github 101"**
 
