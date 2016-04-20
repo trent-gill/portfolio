@@ -19,7 +19,7 @@ img {
     width: 100%;
 }
 
-img button {
+img.button {
   width: absolute;
 }
 
