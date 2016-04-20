@@ -5,7 +5,7 @@ permalink: /
 
 # Fork U! Resource Page
 
-## Session Resources
+## Session Information
 
 [View the Presentation](http://oudiglearn.github.io/olcinnovate-github/)
 
@@ -58,7 +58,7 @@ For this project, we want you to get to experience what it's like to create a br
 
 **Step 7:** Once you've completed your changes, view them live on your repositories webpage. The address will be `YOURUSERNAME.github.io/syllabus`.
 
-###Bonus Materials
+### Bonus Materials
 
 Do you feel like there we could be our syllabus template? Contribute to the centralized syllabus by starting a PULL REQUEST! 
 
@@ -85,7 +85,7 @@ As you are working through this demonstration, please keep the instructions open
 
 **Step 1:** If you haven't yet, please create a GitHub account.
 
-**Step 2:** In a new tab, follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at  Group2-peer_review/keywords/remix.md.
+**Step 2:** In a new tab, follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at `Group2-peer_review/keywords/remix.md`.
 
 **Step 3:** Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
 
@@ -93,20 +93,21 @@ As you are working through this demonstration, please keep the instructions open
 
   The article itself is divided into two sections: a "Curatorial Statement" about remixing and a "Curated Artifact" section which desribes several examples of remixing.
 
-**Step 4:** Click on the edit button (a pencil in the gray menu bar) at the top of the screen
+**Step 4:** Click on the `edit` icon (a pencil in the gray menu bar) at the top of the screen
 
   ![screenshot](images/gitEdit-Screenshot.png)
 
   Because you don't have administrative privileges for this file, when you clicked on the edit button, GitHub created a new "forked" copy of the repository in your account's repositories. When you get done with your edits, you will save your copy of the repository and suggest that we adopt those changes through a "pull-request."  
+
 **Step 5:** In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**. To bold something you use <code>two astericks *</code> before and after the word. For a full cheat sheet of markdown coding, please follow this link [**Markdown Cheat Sheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 **Step 6:** Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions
 
-**Step 7:** When you get done making your edits, scroll to the bottom of the screen to see the "Propose File Change" section.  Add some information about your changes in the optional extended description text box. Then click the green "Propose File Change" button.
+**Step 7:** When you get done making your edits, scroll to the bottom of the screen to see the "Propose File Change" section.  Add some information about your changes in the optional extended description text box. Then click the green `Propose File Change` button.
 
   ![screenshot](images/proposeFileChange.png)
 
-**Step 8:** After you have clicked "Propose File Change" a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository. 
+**Step 8:** After you have clicked `Propose File Change` a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository. 
 
 ![screenshot](images/compareChanges.png)
 
@@ -120,12 +121,12 @@ Seriously. That's it. Fork another website. So let's fork this one called [Clean
 ![Clean Blog](images/cleanblogorig.png)
 
 #### Jekyll
-This template uses a CMS called Jekyll, which generates static HTML pages. This means that to blog we won't have to write actual HTML, instead we will write in a Github flavor of Markdown. If necessary, feel free to use this [Markdown Cheatset](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
+This template uses a CMS called Jekyll, which generates static HTML pages. This means that to blog we won't have to write actual HTML, instead we will write in a Github flavor of Markdown. If necessary, feel free to use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
 
 #### Is this thing already live?!
 Yes! 
 
-**Step 1:**To find your web address, click on Settings.
+**Step 1:** To find your web address, click on Settings.
 
 ![Settings](images/settings.png)
 
@@ -139,7 +140,7 @@ This is because Github automatically publishes repositories that have a special 
 
 #### How can I write a post?
 
-**Step 1:**Click on the folder in your repository labeled "_posts".
+**Step 1:** Click on the folder in your repository labeled "_posts".
 
 ![Click posts](images/clickposts.png)
 
@@ -174,7 +175,7 @@ This is called YAML (yet another markup language). This theme has HTML templates
 
 ![Commit change](images/commitchange.png)
 
-**Step 6:** (Optional) Now go back to Settings recover that link and you'll see the changes take place (you may need to refresh the page).
+**Step 6:** *(Optional)* Now go back to Settings recover that link and you'll see the changes take place (you may need to refresh the page).
 
 ![Edited blog post](images/cleanblogedit.png)
 
@@ -197,7 +198,7 @@ header-img:
 ```
 
 ### Hosting HTML
-As mentioned earlier, Github can simply host HTML as well. Here are some directions on how to do that.
+You may just be looking to host your site, and Github can simply host HTML as well. Here are some directions on how to do that.
 
 **Step 1:** Create a new repository, or go to an existing one. 
 
@@ -218,7 +219,7 @@ As mentioned earlier, Github can simply host HTML as well. Here are some directi
 ![Hello World](images/commithtml.png)
 
 #### ...and you're done!
-Go to http://username.github.io/repository.
+Go to `http://username.github.io/repository`.
 
 
 ## Glossary
@@ -319,14 +320,12 @@ When talking about a branch or a fork, the primary branch on the original reposi
 
 Users are personal GitHub accounts. Each user has a personal profile, and can own multiple repositories, public or private. They can create or be invited to join organizations or collaborate on another user's repository.
 
+[Source](https://help.github.com/articles/github-glossary/)
 
 
 ## Other Resources
-Zagalsky, Alexey, et al. ["The emergence of GitHub as a collaborative platform for education."](http://alexeyza.com/pdf/cscw15.pdf) Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work & Social Computing. ACM, 2015.
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-**Chronicle Series "Github 101"**
+**Chronicle ProfHacker Series "Github 101"**
 
 - [Getting Started With a GitHub Repository](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)
 
@@ -339,6 +338,24 @@ Zagalsky, Alexey, et al. ["The emergence of GitHub as a collaborative platform f
 - [Resources for Learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
 
 - [The Limitations of GitHub for Writers](http://chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299)
- 
+
+[Github for Education](https://education.github.com/)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Kris Shaffer. ["Publishing with GitHub Pages"](http://kris.shaffermusic.com/2013/09/publishing-with-github-pages/)
+
+Kris Shaffer. ["Push, Pull, Fork: Github for Academics."](http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/)
+
+["Digital Pedagogy in the Humanities: Concepts, Models, and Experiments."](https://github.com/curateteaching/digitalpedagogy).
+
+Audrey Watters. ["Using GitHub to Power a Web Project: How and Why"]("http://audreywatters.com/2013/07/07/how-to-run-your-site-on-github/")
+
+Audrey Watters. [Github 101](http://audreywatters.github.io/github-101/)
+
+Karl Stolley. ["Why and how I put syllabi on GitHub"](http://blog.karlstolley.com/post/28067343150/why-and-how-i-put-syllabi-on-github)
+
+Alexey Zagalsky. ["The emergence of GitHub as a collaborative platform for education."](http://alexeyza.com/pdf/cscw15.pdf)
+
 ## Suggest a Resource
 Use the following linked form to suggest courses or other resources that you know of that use GitHub in higher education: [Google Form](http://goo.gl/forms/qgKZ8OlqZD). View the suggestions here: [Suggestions in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1E2UUn6lOfqBR4UbWhaXGmvJnZ-b5GgJgwzCHWXYRzXY/edit?usp=sharing).
