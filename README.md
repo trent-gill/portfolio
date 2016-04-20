@@ -218,9 +218,11 @@ You may just be looking to host your site, and Github can simply host HTML as we
 
 ![Hello World](images/commithtml.png)
 
-#### ...and you're done!
+*...and you're done!*
 Go to `http://username.github.io/repository`.
 
+### Using the Github Automatic Page Generator
+We ran out of time and didn't write this directions! :-( But there are simple to follow directions for this at [https://pages.github.com/](https://pages.github.com/). Just select `Project site` and `Generate a site`.
 
 ## Glossary
 
