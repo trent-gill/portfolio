@@ -339,6 +339,8 @@ Users are personal GitHub accounts. Each user has a personal profile, and can ow
 
 - [The Limitations of GitHub for Writers](http://chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299)
 
+["Digital Pedagogy in the Humanities: Concepts, Models, and Experiments."](https://github.com/curateteaching/digitalpedagogy).
+
 [Github for Education](https://education.github.com/)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -346,14 +348,11 @@ Users are personal GitHub accounts. Each user has a personal profile, and can ow
 Kris Shaffer. ["Publishing with GitHub Pages"](http://kris.shaffermusic.com/2013/09/publishing-with-github-pages/)
 
 Kris Shaffer. ["Push, Pull, Fork: Github for Academics."](http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/)
-
-["Digital Pedagogy in the Humanities: Concepts, Models, and Experiments."](https://github.com/curateteaching/digitalpedagogy).
+Karl Stolley. ["Why and how I put syllabi on GitHub"](http://blog.karlstolley.com/post/28067343150/why-and-how-i-put-syllabi-on-github)
 
 Audrey Watters. ["Using GitHub to Power a Web Project: How and Why"]("http://audreywatters.com/2013/07/07/how-to-run-your-site-on-github/")
 
 Audrey Watters. [Github 101](http://audreywatters.github.io/github-101/)
-
-Karl Stolley. ["Why and how I put syllabi on GitHub"](http://blog.karlstolley.com/post/28067343150/why-and-how-i-put-syllabi-on-github)
 
 Alexey Zagalsky. ["The emergence of GitHub as a collaborative platform for education."](http://alexeyza.com/pdf/cscw15.pdf)
 
