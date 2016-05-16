@@ -77,7 +77,7 @@ Students who need special accommodations or have special needs are invited to sh
 
 ## Course Blog roll
 
-(View the Blogs)[https://prpubs.us/summer16/]
+**[View the Blogs](https://prpubs.us/summer16/)**
 
 This will be a place you visit quite often. As you and your fellow students blog about your work, it will get aggregated here, allowing you to see everyone's work. Where most courses are different, in that you work in individual silos, you'll be encouraged in this course to actually learn from each other and not just from me. Given that this course is ultimately based in creativity, this will allow you the opportunity to see how other students have interpreted and reflected the course assignments.
 
