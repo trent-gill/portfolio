@@ -35,3 +35,27 @@ img.button {
     display: none;
   }
 }
+
+li{
+    list-style:none;
+}
+.submit-btn{
+    margin-top: 20px;
+    border-radius: 0px;
+    background: rgb(255,0,0);
+    color: #ccc;
+}
+.fa-mobile{
+    font-size: 20px;
+}
+input[type="text"]{
+    border-radius: 0px;
+}
+textArea{
+   border-radius: 0px;
+   resize: vertical;
+}
+.input-group-addon{
+    border-radius: 0px;
+    color: rgb(255,0,0);
+}
