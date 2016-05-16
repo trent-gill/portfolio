@@ -75,7 +75,7 @@ This course focuses heavily on some paid tools that exist in Adobe Creative Suit
 
 Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Disability Resource Center, Goddard Health Center, 620 Elm Avenue, Suite 166, (405) 325-3852, TDD (405) 325-4173, Fax (405) 325-4491 or ods@ou.edu.
 
-## Course Blog roll
+## Course Blogs
 
 **[View the Blogs](https://prpubs.us/summer16/)**
 
