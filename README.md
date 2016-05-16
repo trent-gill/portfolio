@@ -77,7 +77,7 @@ Students who need special accommodations or have special needs are invited to sh
 
 ## Week 1
 
-<div class="alert alert-warning" role="alert"><b>Quiz Due Date</b>: Thursday, May 19, 2016</div>
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 19, 2016</div>
 
 ### Introduction
 
@@ -114,7 +114,9 @@ This is touched on heavily about in the syllabus. Go ahead and get Adobe Creativ
 
 ### 6. What the heck is a PR Publication?
 
-Let's go with a good ol' definition:** PR publications** provide a free, controlled media designed for publics who share characteristics and interest. Read that definition again. There's a lot there that's worth unpacking.
+Alright, now that we've got some of the housekeeping out the way. It's time to get into the content of the course.
+
+Let's start with a good ol' definition:** PR publications** provide a free, controlled media designed for publics who share characteristics and interest. Read that definition again. There's a lot there that's worth unpacking.
 
 #### 1. **PR publications** provide a **free**, controlled media designed for publics who share characteristics and interest.
 
@@ -153,7 +155,7 @@ Last, you'll find a video from Ira Glass, the host of This American Life. Before
 
 ### 8. Complete a design blitz!
 
-**(Blog Post Required)**
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 Through the presentations above, you've learned about several design concepts:
 
@@ -170,9 +172,9 @@ Through the presentations above, you've learned about several design concepts:
 
 After reading and reviewing the slides, you should be able to provide a basic explanation of each of these concepts. To reinforce your understanding, I want you to undertake a “Design Blitz”. Carry your camera with you this unit and take photos of objects, ads, signs, etc. that illustrate one of these concepts. When you have completed your Design Blitz, **write a blog post** that embeds the photos and your analysis of the design elements and what makes them effective or not. (You can do this in one single post if you like, or in several.) **Provide an example of at least five of the concepts listed above. Make sure to tag your blog post "Design Blitz.** **PRO TIP:** Sometimes we can learn just as much from badly designed things as we can from well-designed things! So feel free to include bad elements as examples to avoid.
 
-### 9. Play these games on typography
+### 9. Typography Games
 
-**(Blog post required)**
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 Typography is a CRITICAL part of how we tell stories. To practice some of our typography skillz (with a emphasized Z!) we are going to play some typography games. For this assignment, you are to choose three of these font games and play them for a little bit. **Write a short blog post about this experience (don't be afraid to include screenshots!). Tag your blog post "Typography."** Of course, you are more than welcome to play all of them if you want.
 
@@ -193,7 +195,7 @@ Instructions (from the website): Your mission is simple: achieve pleasant and re
 
 ### 10. Finally, take the quiz!
 
-At the end of each unit you will take a quiz on D2L (learn.ou.edu) that is worth a total of 10 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently.When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
+At the end of each unit you will take a quiz on D2L [learn.ou.edu](learn.ou.edu) that is worth a total of 20 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently. When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
 
 ## Week 2
 
