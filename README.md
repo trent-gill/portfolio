@@ -60,6 +60,50 @@ This course focuses heavily on some paid tools that exist in Adobe Creative Suit
 
 Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Disability Resource Center, Goddard Health Center, 620 Elm Avenue, Suite 166, (405) 325-3852, TDD (405) 325-4173, Fax (405) 325-4491 or ods@ou.edu.
 
+## Week 1
+
+**Quiz Due Date**: Wednesday, January 27, 2016 at noon
+
+Howdy! I'm glad you've made it to the course content area for PR Pubs. You'll see a unit for each week of the course similar to this one. In short, each week you will have some course content as well as assignments that you complete (more below on how that is graded). This week is slightly different as we are just easing into the course, so we are going to be spending the week prepping for the rest of the semester by building our toolkit. One thing to know, there is a LOT of things we want to get started this week. With that, things I want you to do: [su_box title="Assignments for Orientation Week:"] [su_accordion] [su_spoiler title="1. Read the Syllabus" style="fancy"]
+
+### 1. Read the syllabus.
+
+It's above. Please read through and make sure everything about the course is clear. If you have any questions, please email me.
+
+### 2. Build your domain / blog
+
+For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use Wordpress, Blogger, Tumblr, or OU Create (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
+
+If you choose to use OU Create, below are two videos. One walks your through how to sign up with OU Create and the other shows you how to install Wordpress. Take about half an hour and complete these tutorials. You can also read more on Wordpress on the [OU Create support documentation page](http://create.ou.edu/support/applications/wordpress). http://youtu.be/U-AUqrmXJDI https://www.youtube.com/watch?v=Av8rTd3HC0Q
+
+### 3. Submit your web address
+
+<iframe src="https://docs.google.com/forms/d/10AiBcyHkrtehSh_m2SzYCKDFzKV4KVqYpDiOr0M0LPA/viewform?embedded=true" width="760" height="500" frameborder="0" marginwidth="0" marginheight="0">Loading...</iframe>
+
+### 4. Write your first post
+
+This activity is designed so that you have a creative way of introducing yourself to the rest of class as well as begin to understand how your blog technically functions. We are going to create a post that I'm going to call a "Professional Portrait." In your blog post, attempt to answer the following questions:
+
+*   <span style="font-weight: 400;">Who are you?</span>
+*   <span style="font-weight: 400;">What do you believe?</span>
+*   <span style="font-weight: 400;">What do you do?</span>
+*   <span style="font-weight: 400;">What guides you?</span>
+*   <span style="font-weight: 400;">What motivates you?</span>
+*   <span style="font-weight: 400;">Where does design fit in your life? </span>
+
+You are required to have at least **one picture** in your post and it's preferable that you take it yourself. Taking this with your smartphone or any camera for that matter is fine. If you don't have access to camera and are on campus, cameras are available for checkout in Gaylord.
+
+### 5. Build your technology toolkit
+
+This is touched on heavily about in the syllabus. Go ahead and get Adobe Creative Cloud installed this week. You can also forgo the expense and use the Gaylord labs but it is recommended that you purchase a subscription, even if it's just for this semester.
+
+### 7. Finally, take the quiz!
+
+At the end of each unit you will take a quiz on D2L (learn.ou.edu) that is worth a total of 10 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently.When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
+
+
+
+
 **Push**
 
 Pushing refers to sending your committed changes to a remote repository such as GitHub.com. For instance, if you change something locally, you'd want to then push those changes so that others may access them.
