@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# Fork U! Resource Page
+# PR Pubs :: Summer 2016
 
 ## Session Information
 
@@ -19,7 +19,7 @@ John Stewart, Asst Director of Digital Learning, University of Oklahoma, [@jstew
 
 **Session Title**
 
-FORK U! A GITHUB APPROACH TO LEARNING AND COLLABORATION 
+FORK U! A GITHUB APPROACH TO LEARNING AND COLLABORATION
 
 **Abstract**
 
@@ -60,7 +60,7 @@ For this project, we want you to get to experience what it's like to create a br
 
 ### Bonus Materials
 
-Do you feel like there we could be our syllabus template? Contribute to the centralized syllabus by starting a PULL REQUEST! 
+Do you feel like there we could be our syllabus template? Contribute to the centralized syllabus by starting a PULL REQUEST!
 
 **Step 1:** Go back to the original repository for the syllabus: [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus). Make the changes to the README.md file that you think would help make a better template, and then instead of commiting your changes, select `Create a new branch for this commit and start a pull request` and then click `Propose file change`.
 
@@ -75,9 +75,9 @@ Do you feel like there we could be our syllabus template? Contribute to the cent
 ### Objective
 
 In this group project, you are going to use GitHub to provide peer review and editing for an article manuscript. The article manuscript is currently in the review phase for publication in [*Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*](https://digitalpedagogy.commons.mla.org/). This project describes itself as:
->a curated collection of reusable and remixable pedagogical artifacts for humanities scholars in development by the Modern Language Association. 
+>a curated collection of reusable and remixable pedagogical artifacts for humanities scholars in development by the Modern Language Association.
 
-Kim Middelton's article "Remix" is an apt choice for this demonstration, both in terms of its content and its current phase of production. Still in draft form, Kim's article is awaiting peer review. We will put the article into peer review and provide line-by-line feedback. Feel free to provide commentary, substantive suggestions for the text, or copy-editing notes. The point of the demonstration is to write a few lines in markdown and submit your commentary through GitHub. 
+Kim Middelton's article "Remix" is an apt choice for this demonstration, both in terms of its content and its current phase of production. Still in draft form, Kim's article is awaiting peer review. We will put the article into peer review and provide line-by-line feedback. Feel free to provide commentary, substantive suggestions for the text, or copy-editing notes. The point of the demonstration is to write a few lines in markdown and submit your commentary through GitHub.
 
 As you are working through this demonstration, please keep the instructions open in either a second window or next to you as a printout.
 
@@ -107,7 +107,7 @@ As you are working through this demonstration, please keep the instructions open
 
   ![screenshot](images/proposeFileChange.png)
 
-**Step 8:** After you have clicked `Propose File Change` a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository. 
+**Step 8:** After you have clicked `Propose File Change` a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository.
 
 ![screenshot](images/compareChanges.png)
 
@@ -124,7 +124,7 @@ Seriously. That's it. Fork another website. So let's fork this one called [Clean
 This template uses a CMS called Jekyll, which generates static HTML pages. This means that to blog we won't have to write actual HTML, instead we will write in a Github flavor of Markdown. If necessary, feel free to use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
 
 #### Is this thing already live?!
-Yes! 
+Yes!
 
 **Step 1:** To find your web address, click on Settings.
 
@@ -163,9 +163,9 @@ header-img: "img/post-bg-01.jpg"
 ---
 ```
 
-This is called YAML (yet another markup language). This theme has HTML templates that know to associate specific fields styling. For instance, it knows this is a post because the layout associated with it is "post." It also knows the title, subtitle, data, author, and header image. 
+This is called YAML (yet another markup language). This theme has HTML templates that know to associate specific fields styling. For instance, it knows this is a post because the layout associated with it is "post." It also knows the title, subtitle, data, author, and header image.
 
-**Step 3:** Play around with changing the title and subtitle as well as the date. 
+**Step 3:** Play around with changing the title and subtitle as well as the date.
 
 *Warning: do not change the layout or it will no longer know that it's a post!
 
@@ -181,7 +181,7 @@ This is called YAML (yet another markup language). This theme has HTML templates
 
 You can, of course, create new blog posts too.
 
-**Step 1:** Go back into your _posts folder and create a new file. Make sure you stick with the file format `YYYY-MM-DD-title.markdown`. 
+**Step 1:** Go back into your _posts folder and create a new file. Make sure you stick with the file format `YYYY-MM-DD-title.markdown`.
 
 **Step 2:** Add the YAML at the top of the post:
 
@@ -200,7 +200,7 @@ header-img:
 ### Hosting HTML
 You may just be looking to host your site, and Github can simply host HTML as well. Here are some directions on how to do that.
 
-**Step 1:** Create a new repository, or go to an existing one. 
+**Step 1:** Create a new repository, or go to an existing one.
 
 **Step 2:** In the repository overview, click the branch drop-down on the left-hand side. Type in gh-pages and press enter.
 
