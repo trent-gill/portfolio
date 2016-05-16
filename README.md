@@ -7,11 +7,11 @@ permalink: /
 
 **Instructor**
 
-Adam Croom
-**Location**: Old Science Hall, Room 224
-**Phone**: (405) 325-2960
-**E-mail**: a.croom (d0t) ou.edu
-**Twitter**:[@acroom](http://twitter.com/acroom)
+Adam Croom<br>
+**Location**: Old Science Hall, Room 224<br>
+**Phone**: (405) 325-2960<br>
+**E-mail**: a.croom (d0t) ou.edu<br>
+**Twitter**:[@acroom](http://twitter.com/acroom)<br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 
 ## Syllabus
@@ -42,11 +42,11 @@ There will be four projects throughout the summer semester and they are worth 60
 
 ### Grade Mix
 
-**Weekly Quizzes** (32% of final grade) 8 x 10 points Total = 160 points
-**Design Projects (56% of final grade)**
-Business Card and Letterhead Project - 70 points
-Direct Mailer - 70 points
-Social Media - 70 points
+**Weekly Quizzes** (32% of final grade) 8 x 10 points Total = 160 points<br>
+**Design Projects (56% of final grade)**<br>
+Business Card and Letterhead Project - 70 points<br>
+Direct Mailer - 70 points<br>
+Social Media - 70 points<br>
 Newsletter - 70 points
 
 **Final Project** (12% of final grade)
@@ -58,24 +58,26 @@ A: 450 - 500 points B: 400 - 449 points C: 350 - 399 points D: 300 - 349 point
 
 ### Toolbox
 
-*   Blog - As mentioned earlier, one of your assignments will be building and maintaining a personal blog with the platform of your choice. There's more information about how to technically set this up in Week 1.
-*   Course Website - If you are reading this, you're on the course website! Hooray. Here is where you'll find the majority of course content. Each week has a corresponding module which will tell you what you are expected to do that week. That may include watching videos, reading material, working on a project, a Google Hangout, etc.
-*   Course Hub - These are where you'll be able to see all the different blog posts from all your peers. This will be helpful in seeing what everyone else is up to. You'll be asked periodically throughout the semester to comment on various posts from other students.
-*   Software - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are [currently available for $19.99](http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s) as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
+*   **Blog** - As mentioned earlier, one of your assignments will be building and maintaining a personal blog with the platform of your choice. There's more information about how to technically set this up in Week 1.
+*   **Course Website** - If you are reading this, you're on the course website! Hooray. Here is where you'll find the majority of course content. Each week has a corresponding module which will tell you what you are expected to do that week. That may include watching videos, reading material, working on a project, a Google Hangout, etc.
+*   **Course Hub** - These are where you'll be able to see all the different blog posts from all your peers. This will be helpful in seeing what everyone else is up to. You'll be asked periodically throughout the semester to comment on various posts from other students.
+*   **Software** - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are [currently available for $19.99](http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s) as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
 
 ### Gaylord Computer Lab
 
 This course focuses heavily on some paid tools that exist in Adobe Creative Suite. If you are located in Norman, you can access all of these programs for free in the Gaylord Computer labs. Your initial login uses your OU NetID (4x4) as your user name, and “changeme” as your password.  You will be prompted to change your password on your first logon Their Gaylord College network login is distinct from your OU Ozone/email login and only applies to the Gaylord College network. You may not share their login information with anyone.  Doing so may result in their losing access to the network. Please log off when finished using a workstation, but never shut down the computers. Please be courteous of the other students who use these spaces by keeping lids on drinks and by being careful with food. Trash and recycling bins are available in all labs and throughout the College.
 
-### Lab Hours
+#### Lab Hours
 
-**GYLD 2150** 8 a.m. to 5 p.m. Monday through Friday Closed on Monday July 4th!
+**GYLD 2150** 8 a.m. to 5 p.m., Monday through Friday (Closed on Monday July 4th!)
 
 ### Special Needs
 
 Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Disability Resource Center, Goddard Health Center, 620 Elm Avenue, Suite 166, (405) 325-3852, TDD (405) 325-4173, Fax (405) 325-4491 or ods@ou.edu.
 
 ## Week 1
+
+<div class="alert alert-warning" role="alert">...</div>
 
 **Quiz Due Date**: Thursday, May 19, 2016
 
