@@ -7,7 +7,12 @@ permalink: /
 
 **Instructor**
 
-Adam Croom Old Science Hall, Room 224 **Phone**: (405) 325-2960 **E-mail**: a.croom (d0t) ou.edu **Twitter**:[@acroom]: http://twitter.com/acroom
+Adam Croom
+**Location**: Old Science Hall, Room 224
+**Phone**: (405) 325-2960
+**E-mail**: a.croom (d0t) ou.edu
+**Twitter**:[@acroom](http://twitter.com/acroom)
+**Office hours**: Please email me if you would like to meet either face-to-face or online!
 
 ## Syllabus
 
@@ -15,11 +20,11 @@ Below is the formal syllabus explaining what the course exactly is but these ten
 
 ### Course Description
 
-Institutional and industrial publications as an important means of internal and external communications with special emphasis on design, layout and content. Laboratory. **Prerequisites**: JMC 1013, 2033, 3413, and 3423 [one_half]
+Institutional and industrial publications as an important means of internal and external communications with special emphasis on design, layout and content. Laboratory. **Prerequisites**: JMC 1013, 2033, 3413, and 3423.
 
 ### Course Objectives
 
-Think **critically, creatively and independently**. Recognize how public relations publications differ from other publications in purpose, publics, funding and design. Apply **graphic design concepts** and apply appropriate visual communication theories in the effective use and presentation of images and information. Apply **web design concepts** and apply web communication techniques and theories in the effective use and presentation of images and information online. **Conduct research**, evaluate information and use that knowledge to select appropriate communication channel. Design for a target audience. Distinguish and demonstrate the **use a variety of publication production techniques** and options. [/one_half] [one_half_last]
+Think **critically, creatively and independently**. Recognize how public relations publications differ from other publications in purpose, publics, funding and design. Apply **graphic design concepts** and apply appropriate visual communication theories in the effective use and presentation of images and information. Apply **web design concepts** and apply web communication techniques and theories in the effective use and presentation of images and information online. **Conduct research**, evaluate information and use that knowledge to select appropriate communication channel. Design for a target audience. Distinguish and demonstrate the **use a variety of publication production techniques** and options.
 
 ### Course Outcomes
 
@@ -31,30 +36,40 @@ This course strives to train students to recognize and apply good publication de
 
 ### Assignments / Grading
 
-This course has a mix of Design projects assignments and weekly assignments. Weekly assignments will included course readings, watching tutorial videos, writing blog posts, and comment on other student's blogs. There will be 15 of these throughout the semester and they are worth 10 points each. This one is fairly straight forward: you do what is asked and you will complete an online quiz about those assignments. You will self assess how much of the work you did each week through the unit quiz. Projects are slightly more long term assignment where you will be submitting a completed design products through a learn.ou.edu dropbox. There will be four of these throughout the semester and they are worth 50-75 points per projects. I grade these against a rubric, which you will get at the beginning of each assignment ([click here to view a sample rubric](https://www.dropbox.com/s/9ge5xskau54ryb5/rubricsample.pdf?dl=0)). Assignments are expected to be turned in on time. Quizzes are due on Mondays and Thursday at noon. I do give a 24-hour grace period for all assignments and will accept work until the following day at noon. Absolutely no assignment will be accepted later than the 24-hour grace period. This is an online class meaning that you have an incredible luxury of being able to work ahead in a lot of cases. My suggestion is to completely take advantage of this and stay ahead of the course schedule. You'll thank me when finals roll around and you've got this class out of the way!
+This course has a mix of Design projects assignments and weekly assignments. Weekly assignments will included course readings, watching tutorial videos, writing blog posts, and comment on other student's blogs. There will be eight (8) quizzes throughout the summer semester and they are worth 20 points. This one is fairly straight forward: you do what is asked and you will complete an online quiz about those assignments. You will self assess how much of the work you did each week through the unit quiz.
+
+There will be four projects throughout the summer semester and they are worth 60 points per project. I grade these against a rubric, which you will get at the beginning of each assignment ([click here to view a sample rubric](https://www.dropbox.com/s/9ge5xskau54ryb5/rubricsample.pdf?dl=0)). Assignments are expected to be turned in on time. Quizzes are due on Thursdays at noon. I do give a 24-hour grace period for all assignments and will accept work until the following day at noon. Absolutely no assignment will be accepted later than the 24-hour grace period. This is an online class meaning that you have an incredible luxury of being able to work ahead in a lot of cases. My suggestion is to completely take advantage of this and stay ahead of the course schedule. You'll thank me when finals roll around and you've got this class out of the way!
 
 ### Grade Mix
 
-**Weekly Quizzes** (30% of final grade) 13 x 10 points each = 130 points 1 x 20 points = 20 points Total = 150 points **Design Projects _(50% of final grade)_** Business Card and Letterhead Project - 70 points Direct Mailer - 70 points Infographic - 40 points Newsletter - 70 points **Final Project** _(20% of final grade)_ Summary of Learning - 100 points **TOTAL POINTS POSSIBLE: 500** [/one_half] [one_half_last]
+**Weekly Quizzes** (32% of final grade) 8 x 10 points Total = 160 points
+**Design Projects (56% of final grade)**
+Business Card and Letterhead Project - 70 points
+Direct Mailer - 70 points
+Social Media - 70 points
+Newsletter - 70 points
+
+**Final Project** (12% of final grade)
+Summary of Learning - 60 points **TOTAL POINTS POSSIBLE: 500**
 
 ### Grading Scale
 
-A: 450 - 500 points B: 400 - 449 points C: 350 - 399 points D: 300 - 349 points F: 0 - 200 points [/one_half_last]  
+A: 450 - 500 points B: 400 - 449 points C: 350 - 399 points D: 300 - 349 points F: 0 - 200 points
 
 ### Toolbox
 
-*   Blog - As mentioned earlier, one of your assignments will be building and maintaining a personal blog with a platform called Wordpress. This will require you to get a web domain and server space. There's more information about how to technically set this up in Week 1.
+*   Blog - As mentioned earlier, one of your assignments will be building and maintaining a personal blog with the platform of your choice. There's more information about how to technically set this up in Week 1.
 *   Course Website - If you are reading this, you're on the course website! Hooray. Here is where you'll find the majority of course content. Each week has a corresponding module which will tell you what you are expected to do that week. That may include watching videos, reading material, working on a project, a Google Hangout, etc.
 *   Course Hub - These are where you'll be able to see all the different blog posts from all your peers. This will be helpful in seeing what everyone else is up to. You'll be asked periodically throughout the semester to comment on various posts from other students.
-*   Software - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are [currently available for $15.99](http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s) as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. Paying for four months is about $64 for the course. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
+*   Software - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are [currently available for $19.99](http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s) as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
 
 ### Gaylord Computer Lab
 
-This course focuses heavily on some paid tools that exist in Adobe Creative Suite. If you are located in Norman, you can access all of these programs for free in the Gaylord Computer labs. Your initial login uses your OU NetID (4x4) as your user name, and “changeme” as your password.  You will be prompted to change your password on your first logon Their Gaylord College network login is distinct from your OU Ozone/email login and only applies to the Gaylord College network. You may not share their login information with anyone.  Doing so may result in their losing access to the network. Please log off when finished using a workstation, but never shut down the computers. Please be courteous of the other students who use these spaces by keeping lids on drinks and by being careful with food. Trash and recycling bins are available in all labs and throughout the College. [/one_half] [one_half_last]
+This course focuses heavily on some paid tools that exist in Adobe Creative Suite. If you are located in Norman, you can access all of these programs for free in the Gaylord Computer labs. Your initial login uses your OU NetID (4x4) as your user name, and “changeme” as your password.  You will be prompted to change your password on your first logon Their Gaylord College network login is distinct from your OU Ozone/email login and only applies to the Gaylord College network. You may not share their login information with anyone.  Doing so may result in their losing access to the network. Please log off when finished using a workstation, but never shut down the computers. Please be courteous of the other students who use these spaces by keeping lids on drinks and by being careful with food. Trash and recycling bins are available in all labs and throughout the College.
 
 ### Lab Hours
 
-**GYLD 2150** 8 a.m. to 5 p.m. Monday through Friday Closed on Friday July 3rd!
+**GYLD 2150** 8 a.m. to 5 p.m. Monday through Friday Closed on Monday July 4th!
 
 ### Special Needs
 
@@ -62,7 +77,7 @@ Students who need special accommodations or have special needs are invited to sh
 
 ## Week 1
 
-**Quiz Due Date**: Wednesday, January 27, 2016 at noon
+**Quiz Due Date**: Thursday, May 19, 2016
 
 ### Introduction
 
@@ -74,9 +89,7 @@ It's above. Please read through and make sure everything about the course is cle
 
 ### 2. Build your domain / blog
 
-For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use Wordpress, Blogger, Tumblr, or OU Create (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
-
-If you choose to use OU Create, below are two videos. One walks your through how to sign up with OU Create and the other shows you how to install Wordpress. Take about half an hour and complete these tutorials. You can also read more on Wordpress on the [OU Create support documentation page](http://create.ou.edu/support/applications/wordpress). http://youtu.be/U-AUqrmXJDI https://www.youtube.com/watch?v=Av8rTd3HC0Q
+For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use [Wordpress](https://wordpress.com/), [Blogger](https://www.blogger.com), [Tumblr](http://tumblr.com), or OU Create (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
 
 ### 3. Submit your web address
 
@@ -184,17 +197,31 @@ At the end of each unit you will take a quiz on D2L (learn.ou.edu) that is worth
 
 ## Week 2
 
+Coming Soon!
+
 ## Week 3
+
+Coming Soon!
 
 ## Week 4
 
+Coming Soon!
+
 ## Week 5
+
+Coming Soon!
 
 ## Week 6
 
+Coming Soon!
+
 ## Week 7
 
+Coming Soon!
+
 ## Week 8
+
+Coming Soon!
 
 
 
