@@ -64,7 +64,9 @@ Students who need special accommodations or have special needs are invited to sh
 
 **Quiz Due Date**: Wednesday, January 27, 2016 at noon
 
-Howdy! I'm glad you've made it to the course content area for PR Pubs. You'll see a unit for each week of the course similar to this one. In short, each week you will have some course content as well as assignments that you complete (more below on how that is graded). This week is slightly different as we are just easing into the course, so we are going to be spending the week prepping for the rest of the semester by building our toolkit. One thing to know, there is a LOT of things we want to get started this week. With that, things I want you to do: [su_box title="Assignments for Orientation Week:"] [su_accordion] [su_spoiler title="1. Read the Syllabus" style="fancy"]
+### Introduction
+
+Howdy! I'm glad you've made it to the course content area for PR Pubs. You'll see a unit for each week of the course similar to this one. In short, each week you will have some course content as well as assignments that you complete (more below on how that is graded). This week is slightly different as we are just easing into the course, so we are going to be spending the week prepping for the rest of the semester by building our toolkit. One thing to know, there is a LOT of things we want to get started this week. With that, things I want you to do:
 
 ### 1. Read the syllabus.
 
@@ -97,10 +99,80 @@ You are required to have at least **one picture** in your post and it's prefera
 
 This is touched on heavily about in the syllabus. Go ahead and get Adobe Creative Cloud installed this week. You can also forgo the expense and use the Gaylord labs but it is recommended that you purchase a subscription, even if it's just for this semester.
 
-### 7. Finally, take the quiz!
+### 6. What the heck is a PR Publication?" style="fancy"] Let's go with a good ol' definition:** PR publications** provide a free, controlled media designed for publics who share characteristics and interest. Read that definition again. There's a lot there that's worth unpacking.
+
+#### 1. **PR publications** provide a **free**, controlled media designed for publics who share characteristics and interest.
+
+Who pays? How? Why? Organizational funds support public relations publications to improve or maintain positive relationships with target publics. Some accept advertising, but most do not. Some are partially funded by memberships or subscriptions, but many are not. Usually the organization funds the publication as an operating expense. Usually the beneficial relationships resulting from the communication are worth more to the company than the cost of producing or distributing the publication.
+
+#### 2. PR publications provide a free, **controlled media** designed for publics who share characteristics and interest.
+
+Controlled media? What does that mean? **Controlled media** means that the organization controls the message, when it appears, to whom, and how. Most PR publications are distributed directly to the reader either in-person, by mail, or electronically.
+
+#### 3.  PR publications provide a free, controlled media **designed for publics who share characteristics and interest**.
+
+PR Publications work best when you narrow your public. Know everything you can about the target public of each publication. You want to first learn what motivates your public to actually read the publication and to do this will require you to research your publics (which we will do in one of our next lessons).
+
+#### **Types of PR Publications**
+
+*   Identity Symbols (Logotypes, letterheads). **Identity symbols** combine verbal and visual communications to visually represent the organization.
+*   Flat publications (Flyers, posters, etc.) **Flat publications** consist of a single sheet of paper, unfolded, and usually printed on one side.
+*   Folded publications (Pamphlets brochures, some newsletters) **Folded publications** use folds to create format.
+*   Bound publications (Booklets, magazines, annual reports) **Bound publications** are those containing multiple sheets of paper, held together by binding.
+
+### 7. Design Theory and PR Publications. Watch these videos and view these slides.
+
+ First things first. Design is design. The theory and principles do not change whether its interior design, fashion, or landscaping because they are all visual communications. What is different is that every design decision is based on information about the publication's purpose, key message, and target public. Design decisions only work when they consider the effect of the design options on the target public. For most of your career as a PR student, you have focused on writing or verbal communication. You know how to structure verbal communications and how words form sentences which for paragraphs, etc. Effectively understanding writing doesn't happen if it doesn't have that structure to support it. Similarly, **visual communication** uses image and patterns to convey messages (as opposed to language with verbal communication). You'll notice up in the upper right hand corner a set of media. This is a collection of what you are required to watch for the unit. The first video is from Lynda.com and is titled "What makes design great?" and the second is called "Exploring the principles of layout and composition." Check that one out first as its very similar to my in-class presentation. My slides for the in class presentation are below.
+
+ <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/4zqb4t91QPhDPe" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+
+[What makes design great?](http://www.lynda.com/course/sharerevideodirect/161817/177322?org=ou.edu)
+
+Please watch the Lynda.com video If you aren't familiar with Lynda.com, it's a service that is newly available for free to the OU community (usually $30 a month!). Lynda.com specializes in a lot of technical tutorials and you can learn everything from Photoshop to programming languages like Ruby on Rails. We won't use it a ton, but more as a starting point of references. Of course, you are more than welcome to watch more videos through the course as you see fit.
+
+[Ira Glass on Being Creative](https://www.youtube.com/watch?v=3ResTHKVxf4&feature=youtu.be)
+
+Last, you'll find a video from Ira Glass, the host of This American Life. Before we get going too far, I think it's helpful to take a step back and breath again. Remember that creativity and design can be a little hard to grasp at first particularly because your taste is much more refined than your technique. Don't worry about too much about your "products" right now and let's focus on the "process." It's about the _process,_ not the _product_. It's about the _process_, not the _product_. This will slightly change throughout the semester, but, for now, let this be your mantra!
+
+### 8. Complete a design blitz! (Blog Post Required)
+
+Through the presentations above, you've learned about several design concepts:
+
+*   Color
+*   Typography
+*   Metaphors/symbols
+*   Minimalism & use of space
+*   Form/function/message
+*   Balance
+*   Rhythm
+*   Proportion
+*   Dominance
+*   Unity
+
+After reading and reviewing the slides, you should be able to provide a basic explanation of each of these concepts. To reinforce your understanding, I want you to undertake a “Design Blitz”. Carry your camera with you this unit and take photos of objects, ads, signs, etc. that illustrate one of these concepts. When you have completed your Design Blitz, **write a blog post** that embeds the photos and your analysis of the design elements and what makes them effective or not. (You can do this in one single post if you like, or in several.) **Provide an example of at least five of the concepts listed above. Make sure to tag your blog post "Design Blitz.** **PRO TIP:** Sometimes we can learn just as much from badly designed things as we can from well-designed things! So feel free to include bad elements as examples to avoid.
+
+### 9. Play these games on typography (Blog post required)
+
+Typography is a CRITICAL part of how we tell stories. To practice some of our typography skillz (with a emphasized Z!) we are going to play some typography games. For this assignment, you are to choose three of these font games and play them for a little bit. **Write a short blog post about this experience (don't be afraid to include screenshots!). Tag your blog post "Typography."** Of course, you are more than welcome to play all of them if you want.
+
+1. [Shoot the serif.](http://www.tothepoint.co.uk/more/fun/shoot_the_serif/)
+This is one of my favorites and if I was to say choose one it would be this one. It helps you practice identifying serif vs sans serif fonts.
+
+2. [Type Connection](http://www.typeconnection.com)
+In this game, you'll choose a font as a main character, give them a story, and then find them a partner or love interest. This is a great game for understanding how fonts can take on certain personality types that you can leverage. Have you ever thought a font looked girly? Or formal? Or hipster? How can you take advantage of that if your brand appeals to audiences with similar characteristics?
+
+3. [Poster Letters](http://www.empireonline.com/features/posterletters/)
+This is a fun game where you try to guess a movie based off of one letter from the movie title as it appears on its poster. I'll be honest. When I played this game, I expected to do better than I actually did. Bragging rights for the person who gets the most right on this one.
+
+4. [Type War](http://typewar.com)
+This is a sort of "this or that" game where you look at a letter and decide what font it is. Want to know how to beat this game? Cheat. I'm dead serious. I think this one worth knowing enough that I would actually recommend you open up a word processing application such as Microsoft Word and literally figure it out before you answer. You'll still learn the different looks of fonts and it will get you a little further. If you can make it through all 10 levels of this game and send me a screenshot, I'll throw in some extra points this week.
+
+5. [Kern Type](http://type.method.ac)
+Instructions (from the website): Your mission is simple: achieve pleasant and readable text by distributing the space between letters. Typographers call this activity _kerning_. Your solution will be compared to a typographer's solution, and you will be given a score depending on how close you nailed it. Good luck!
+
+### 10. Finally, take the quiz!
 
 At the end of each unit you will take a quiz on D2L (learn.ou.edu) that is worth a total of 10 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently.When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
-
 
 
 
