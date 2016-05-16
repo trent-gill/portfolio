@@ -4,6 +4,7 @@ permalink: /
 ---
 
 # PR Pubs :: Summer 2016
+This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
 
 **Instructor**
 
@@ -11,7 +12,7 @@ Adam Croom<br>
 **Location**: Old Science Hall, Room 224<br>
 **Phone**: (405) 325-2960<br>
 **E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**:[@acroom](http://twitter.com/acroom)<br>
+**Twitter**: [@acroom](http://twitter.com/acroom)<br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 
 ## Syllabus
@@ -20,7 +21,8 @@ Below is the formal syllabus explaining what the course exactly is but these ten
 
 ### Course Description
 
-Institutional and industrial publications as an important means of internal and external communications with special emphasis on design, layout and content. Laboratory. **Prerequisites**: JMC 1013, 2033, 3413, and 3423.
+Institutional and industrial publications as an important means of internal and external communications with special emphasis on design, layout and content. Laboratory.<br>
+**Prerequisites**: JMC 1013, 2033, 3413, and 3423.
 
 ### Course Objectives
 
@@ -298,16 +300,16 @@ Rather than focusing on a specific word count, you should focus on giving comple
 I'm best reached via email. I do not hold regular office hours but am happy to meet either face-to-face or through a digital medium such as Skype or Google Hangout.
 
 ### Where can I find stock images?
-* (Free Stock Images)[http://www.freeimages.co ]
-* (Stock Vault)[http://www.stockvault.net]
-* (Stocksnap)[https://stocksnap.io]
-* (Gratisography)[http://gratisography.com ]
-* (Unsplash)[https://unsplash.com]
-* (Superfamous Images)[http://images.superfamous.com]
-* (New Old Stock)[http://nos.twnsnd.co]
-* (Magdeleine)[http://magdeleine.co]
-* (Picography)[http://picography.co]
-* (Isorepublic)[http://isorepublic.com]
+* [Free Stock Images](http://www.freeimages.co)
+* [Stock Vault](http://www.stockvault.net)
+* [Stocksnap](https://stocksnap.io)
+* [Gratisography](http://gratisography.com)
+* [Unsplash](https://unsplash.com)
+* [Superfamous Images](http://images.superfamous.com)
+* [New Old Stock](http://nos.twnsnd.co)
+* [Magdeleine](http://magdeleine.co)
+* [Picography](http://picography.co)
+* [Isorepublic](http://isorepublic.com)
 
 ### What are some tips for Lynda.com?
 
