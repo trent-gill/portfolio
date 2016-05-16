@@ -75,6 +75,12 @@ This course focuses heavily on some paid tools that exist in Adobe Creative Suit
 
 Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Disability Resource Center, Goddard Health Center, 620 Elm Avenue, Suite 166, (405) 325-3852, TDD (405) 325-4173, Fax (405) 325-4491 or ods@ou.edu.
 
+## Course Blog roll
+
+(View the Blogs)[https://prpubs.us/summer16/]
+
+This will be a place you visit quite often. As you and your fellow students blog about your work, it will get aggregated here, allowing you to see everyone's work. Where most courses are different, in that you work in individual silos, you'll be encouraged in this course to actually learn from each other and not just from me. Given that this course is ultimately based in creativity, this will allow you the opportunity to see how other students have interpreted and reflected the course assignments.
+
 ## Week 1
 
 <div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 19, 2016</div>
@@ -225,37 +231,102 @@ Coming Soon!
 
 Coming Soon!
 
-## Contact Me
+## FAQ
 
-<div class="container">
-	<div class="row">
-		<form name="frm1" method="post" action="">
-                                <div class="form-part">
-                                    <ul>
-                                        <li>
-                                            <div class="form-group shaddow">
-                                                <div class="input-group">
-                                                    <span class="input-group-addon no-radius"><i class="fa fa-user"></i></span>
-                                                    <input type="text" class="form-control no-radius" aria-describedby="inputGroupSuccess1Status" placeholder="Name*" name="fname" required="required">
-                                                </div>
-                                            </div>
-                                        </li>
-                                       <li>
-                                            <div class="form-group">
-                                                <div class="input-group shaddow">
-                                                    <span class="input-group-addon no-radius"><i class="fa fa-envelope"></i></span>
-                                                    <input type="text" required="required" name="femail" placeholder="Email*" aria-describedby="inputGroupSuccess1Status" class="form-control no-radius">
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <textarea placeholder="Message*" rows="3" class="form-control no-radius shaddow"></textarea>
-                                        </li>
-                                        <li>
-                                            <input type="submit" class="btn submit-btn shaddow" value="Send">
-                                        </li>
-                                    </ul>
-                                </div>
-                            </form>
-	</div>
-</div>
+### How can I be successful online?
+
+#### 1. Set aside scheduled time
+
+One of the hardest things for students to realize is that they are usually spending two and half hours a week in a class room getting a significant amount of work done. Just because this is an online class doesn't translate to the idea that this is less work. Set aside time a couple times a week where you work on this course just like you would class! Stick it in your calendar, make your bosses aware, and keep it like that.
+
+#### 2. Work ahead
+
+My goal is to always have more lessons out there than the person who is the furthest in the class. You have the ability to move faster and you should take advantage of it if you have the extra time or get in a good groove. It's easy to fall behind particularly when you get into the thick of the semester. The beginning of the semester is PRIME for getting ahead in your online courses. While other classes may spending the class time talking through the syllabus and orientation materials, you can be getting a jump start on this one.
+
+#### 3. Know how to ask for help.
+
+Just because this is online doesn't mean I'm not available. Email is the easiest way I promise to promptly return all emails written to me at reasonable hours. If anything needs to be clarified, I'm happy to do so. If there is something we can't solve via email, we can visit in person or through a Google Hangout video chat.
+
+Additionally, I've set up several ways in which you can ask each other! Add it to the forum or put it in a blog post. Check the blogroll for how other students have completed work.
+
+Last, use the Googles! Seriously. Think about this when you are using technology... Technology was created by humans. Humans have questions. There's a 99.9999% chance your question has already been answered. If you can master Google, you will be a much more efficient problem solver.
+
+#### 4. Stay organized
+
+There are several places where you can find due dates. You'll find a calendar in several places on PRPubs.us as well as D2L. You're much more likely to stay on top of the workload if you know the schedule.
+
+#### 5. Get familiar with the course site
+
+It's important that you know the course site inside and out. Almost as important as fully understanding the syllabus! If you're this far down the page you're doing great! Keep reading!
+
+#### 6. Create your own classroom
+
+We don't have a dedicate physical place where this work is done. I suggest you create a false classroom for yourself. Tell yourself "Everything Monday and Wednesday, I'm going to go to the computer lab to do work" or to the library or the coffee. Or make your bedroom extra special. Take your favorite songs at the moment and put it on a Spotify playlist and tell yourself you can only listen to that playlist when you are working on PR Pubs.
+
+#### 7. Really OWN your learning
+
+This one is important throughout your entire collegiate experience, but you feel it a little more in online courses. This course will take a significant amount of self-discipline. This becomes easier when you accept full ownership of your learning. You'll get out of this, what you put into it. Decide now that you WANT to get a lot out of this course. If you own your learning experience, you'll enjoy the time you spend on this course.
+
+### What's a good blog post?
+
+There are several good ways to improve a blog post.
+
+#### 1. Always make sure you add context.
+
+Because blog posts are public, when writing your post you should assume that the reader has no idea what the purpose of your post is for. Therefore, always lead off your posts with some context. It can be brief! Here's an example:
+
+"In my PR Publications course, we are going to be designing a business card and letterhead for an organization of our choice. I chose Big Brothers/Big Sisters as I have volunteered with them since my freshman year. For this assignment, I'm analyzing the state of the current organization's resources, processes, and values overall."
+
+#### 2. Use first person.
+
+Unlike essays, this is your space. Own it.
+
+#### 3. Use images.
+
+Also unlike essays, you can make add images (both still and animated) to your post. Take advantage of this new medium! Some things are better said through images than they are words.
+
+#### 4. Use links.
+
+You can also link to other pages. Did you read an article that helped you work through an assignment? Link to it! Did a classmate post something that was highly interesting? Link to it! Are you referring to a previous post? Li... you get the picture!
+
+#### 5. Give a complete thought.
+
+Rather than focusing on a specific word count, you should focus on giving complete thoughts. Make sure your blog post has a beginning, middle, and end. I'll give you prompts throughout the semester that help you maintain this structure, but stick to it as much as you can.
+
+### How do I get ahold of you?
+
+I'm best reached via email. I do not hold regular office hours but am happy to meet either face-to-face or through a digital medium such as Skype or Google Hangout.
+
+### Where can I find stock images?
+* (Free Stock Images)[http://www.freeimages.co ]
+* (Stock Vault)[http://www.stockvault.net]
+* (Stocksnap)[https://stocksnap.io]
+* (Gratisography)[http://gratisography.com ]
+* (Unsplash)[https://unsplash.com]
+* (Superfamous Images)[http://images.superfamous.com]
+* (New Old Stock)[http://nos.twnsnd.co]
+* (Magdeleine)[http://magdeleine.co]
+* (Picography)[http://picography.co]
+* (Isorepublic)[http://isorepublic.com]
+
+### What are some tips for Lynda.com?
+
+Myself, sometimes I get confused with tutorial videos. I'll be moving back and forth through windows on my computer or the person doing the tutorial will simply be talking too fast for me to keep up. I want to give you some tips on how to best grasp these types of videos as I realize they can feel a smidge overwhelming the first time through.
+
+#### 1. Don't be a perfectionist.
+
+Again, remember... Right now it's about the process, not the product. I don't want you to get too bogged down if you can't get something down picture perfect right now. Don't spend endless hours trying to solve the tiniest thing. The point of the exercise right now is for you to make it through this and get a broad overview.
+
+#### 2. Take advantage of the video controls.
+
+Our man for these videos, Justin, is a pretty speedy talker. Luckily, for us, we can manipulate the video so that it actually plays slower (or faster if you would like). You'll see a playback speed controller near the play button at the bottom at each video.
+
+#### 3. Check out the transcript for terms that aren't familiar.
+
+Sometimes you'll hear someone say something that just doesn't sound quite right. Lynda.com provides a scrolling transcript with each video which can be very helpful when you get stuck.
+
+#### 4. Download the exercise files.
+
+Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, please let me know via email ASAP. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
+
+Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
