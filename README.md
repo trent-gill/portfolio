@@ -5,298 +5,60 @@ permalink: /
 
 # PR Pubs :: Summer 2016
 
-## Session Information
+**Instructor**
 
-[View the Presentation](http://oudiglearn.github.io/olcinnovate-github/)
+Adam Croom Old Science Hall, Room 224 **Phone**: (405) 325-2960 **E-mail**: a.croom (d0t) ou.edu **Twitter**:[@acroom]: http://twitter.com/acroom
 
-[Fork the Presentation](https://github.com/oudiglearn/olcinnovate-github/tree/master/presentation)
+## Syllabus
 
-**Presenters**
+Below is the formal syllabus explaining what the course exactly is but these tend to get a little jargony at times which won't be incredibly helpful if there is your first introduction into the course. The short of it is this: This course is _outcomes_ centric and thus you will learn by _doing_. While the first part of the course is focused on understanding design techniques and terminology and is a little more content driven, we will be simply applying this foundational knowledge through different use cases throughout the rest of the semester. The real work are the assignments in which you'll be creating tangible publication pieces. You'll then be putting these works onto your blog where you'll be expected to reflect on your work and give a narrative for your creative process. In the end, you'll have a robust portfolio (so to speak) which won't only be a collection of your final work which potential employers can see, but a collection of your thoughts, struggles, and victories throughout this 16-week experience. In essence, you'll be donning a potentially new hat of "Visual Designer" throughout this exploration. You'll also be a "Digital Storyteller." Terms like "digital," "visual," or "creative" can seem a little scary to some, but that's ok right now. Like a good ride at a theme park, a little bit of nervousness makes the ride much more memorable on the back end. Note that most of you are coming in at the same level: novice. This means you all are your biggest allies. I _want _you to be successful in this course and to do this you will see that I've set up ways in which you can lean on and learn from each other's experiences throughout the course.
 
-Adam Croom, Director of Digital Learning, University of Oklahoma, [@acroom](https://twitter.com/acroom)
+### Course Description
 
-John Stewart, Asst Director of Digital Learning, University of Oklahoma, [@jstew511](https://twitter.com/jstew511)
+Institutional and industrial publications as an important means of internal and external communications with special emphasis on design, layout and content. Laboratory. **Prerequisites**: JMC 1013, 2033, 3413, and 3423 [one_half]
 
-**Session Title**
+### Course Objectives
 
-FORK U! A GITHUB APPROACH TO LEARNING AND COLLABORATION
+Think **critically, creatively and independently**. Recognize how public relations publications differ from other publications in purpose, publics, funding and design. Apply **graphic design concepts** and apply appropriate visual communication theories in the effective use and presentation of images and information. Apply **web design concepts** and apply web communication techniques and theories in the effective use and presentation of images and information online. **Conduct research**, evaluate information and use that knowledge to select appropriate communication channel. Design for a target audience. Distinguish and demonstrate the **use a variety of publication production techniques** and options. [/one_half] [one_half_last]
 
-**Abstract**
+### Course Outcomes
 
-You've heard the Git terminology ("fork," "repo," "pull") but you haven't dared to venture into the land of Github, the online network with 9 million users, more than 21.1 million repositories, and the largest host of source code in the world. While Github is a platform dominated by open source developers, it's worth understanding the use cases within higher education for courses, peer review, OER textbooks, syllabi, instructional design, and more.
+Students will launch and maintain a blog as well as comment on the blogs of their peers. Students will build a foundational knowledge of the landscape of visual communication technologies. Students will design a business card and letterhead for a brand. Students will design a direct mail piece for multiple, specific publics. Students will design a newsletter for an entity. Students will develop a personal portfolio website.
 
-We want to examine how this idea of individual ownership of one's work with a centralized hub, termed "federated" by Ward Cunningham, can alter student experience with texts and created a shared environment for faculty.
+### Course Rationale
 
-Since Fall 2014, the University of Oklahoma has been supporting learning through a Domain's of One's Own project, OU Create, which affords students with domains and open source powered web space. This has led to the creation of more than 2,000 webspaces built by students, faculty, and staff powered by tools like Wordpress and Omeka. As this primarily residential-based research institution has tip toed into the open web, the project has provided an opportunity for the OU Digital Learning team to explore platforms that allow for sharing of user-generated content amongst users (and beyond) with Github.
+This course strives to train students to recognize and apply good publication design techniques in a public relations setting. In addition, students will learn the importance of structuring visual communications for the web. The major goal of the course is to give students the ability to translate a concept of visual communication into an actual publication. Other goals include practice with computer graphics, knowledge of publication techniques and options in print and online, publication production skills and a knowledge of how to work with designers, graphic artists, publication specialists, photographers and commercial printers and web developers to convey their messages to target audiences.
 
-This workshop will provide a basic literacy of Github as well as a hands-on component where participants will work within Github to build out their first repository. These group-based activities will lay a foundation for participants to reflect on the affordances of open teaching and scholarship.
+### Assignments / Grading
 
+This course has a mix of Design projects assignments and weekly assignments. Weekly assignments will included course readings, watching tutorial videos, writing blog posts, and comment on other student's blogs. There will be 15 of these throughout the semester and they are worth 10 points each. This one is fairly straight forward: you do what is asked and you will complete an online quiz about those assignments. You will self assess how much of the work you did each week through the unit quiz. Projects are slightly more long term assignment where you will be submitting a completed design products through a learn.ou.edu dropbox. There will be four of these throughout the semester and they are worth 50-75 points per projects. I grade these against a rubric, which you will get at the beginning of each assignment ([click here to view a sample rubric](https://www.dropbox.com/s/9ge5xskau54ryb5/rubricsample.pdf?dl=0)). Assignments are expected to be turned in on time. Quizzes are due on Mondays and Thursday at noon. I do give a 24-hour grace period for all assignments and will accept work until the following day at noon. Absolutely no assignment will be accepted later than the 24-hour grace period. This is an online class meaning that you have an incredible luxury of being able to work ahead in a lot of cases. My suggestion is to completely take advantage of this and stay ahead of the course schedule. You'll thank me when finals roll around and you've got this class out of the way!
 
+### Grade Mix
 
-## Group Project 1: Fork the Syllabus
+**Weekly Quizzes** (30% of final grade) 13 x 10 points each = 130 points 1 x 20 points = 20 points Total = 150 points **Design Projects _(50% of final grade)_** Business Card and Letterhead Project - 70 points Direct Mailer - 70 points Infographic - 40 points Newsletter - 70 points **Final Project** _(20% of final grade)_ Summary of Learning - 100 points **TOTAL POINTS POSSIBLE: 500** [/one_half] [one_half_last]
 
-### Objective
-For this project, we want you to get to experience what it's like to create a branch off of a central repository. You'll do this by editing information on a syllabus template.
+### Grading Scale
 
-### Directions
+A: 450 - 500 points B: 400 - 449 points C: 350 - 399 points D: 300 - 349 points F: 0 - 200 points [/one_half_last]  
 
-**Step 1:** If you haven't yet, create a Github account and verify your email address.
+### Toolbox
 
-**Step 2:** Go to [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus) and click on "Fork." This will create your own branch of the repository and name it `github.com/YOURUSERNAME/syllabus`.
+*   Blog - As mentioned earlier, one of your assignments will be building and maintaining a personal blog with a platform called Wordpress. This will require you to get a web domain and server space. There's more information about how to technically set this up in Week 1.
+*   Course Website - If you are reading this, you're on the course website! Hooray. Here is where you'll find the majority of course content. Each week has a corresponding module which will tell you what you are expected to do that week. That may include watching videos, reading material, working on a project, a Google Hangout, etc.
+*   Course Hub - These are where you'll be able to see all the different blog posts from all your peers. This will be helpful in seeing what everyone else is up to. You'll be asked periodically throughout the semester to comment on various posts from other students.
+*   Software - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are [currently available for $15.99](http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s) as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. Paying for four months is about $64 for the course. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
 
-![Fork the Repository](images/fork.png)
+### Gaylord Computer Lab
 
-**Step 3:** Find and click on the file labeled `README.md`. Once you have opened `README.md` click the Edit icon.
+This course focuses heavily on some paid tools that exist in Adobe Creative Suite. If you are located in Norman, you can access all of these programs for free in the Gaylord Computer labs. Your initial login uses your OU NetID (4x4) as your user name, and “changeme” as your password.  You will be prompted to change your password on your first logon Their Gaylord College network login is distinct from your OU Ozone/email login and only applies to the Gaylord College network. You may not share their login information with anyone.  Doing so may result in their losing access to the network. Please log off when finished using a workstation, but never shut down the computers. Please be courteous of the other students who use these spaces by keeping lids on drinks and by being careful with food. Trash and recycling bins are available in all labs and throughout the College. [/one_half] [one_half_last]
 
-![Fork the Repository](images/editfork.jpg)
+### Lab Hours
 
-**Step 4:** You'll find that the Syllabus is written in Markdown. Feel free to utilize [this Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to decipher the codes for headers, lists, bold, etc.
+**GYLD 2150** 8 a.m. to 5 p.m. Monday through Friday Closed on Friday July 3rd!
 
-**Step 5:** Begin to customize the syllabus to either a specific course that you've taught or a fictional course (or possibly appropriate one of those fancy massive open-licensed courses).
+### Special Needs
 
-**Step 6:** Once you have made a significant amount of edits, COMMIT your changes.
-
-**Step 7:** Once you've completed your changes, view them live on your repositories webpage. The address will be `YOURUSERNAME.github.io/syllabus`.
-
-### Bonus Materials
-
-Do you feel like there we could be our syllabus template? Contribute to the centralized syllabus by starting a PULL REQUEST!
-
-**Step 1:** Go back to the original repository for the syllabus: [https://github.com/oudiglearn/syllabus](https://github.com/oudiglearn/syllabus). Make the changes to the README.md file that you think would help make a better template, and then instead of commiting your changes, select `Create a new branch for this commit and start a pull request` and then click `Propose file change`.
-
-![Propose File Change](images/propose.png)
-
-**Step 2:** On the next page, you are able to had labels, milestones, or assign the pull request to a member of the original repository.
-
-![Assign Tasks](images/assign.png)
-
-## Group Project 2: Peer-Review
-
-### Objective
-
-In this group project, you are going to use GitHub to provide peer review and editing for an article manuscript. The article manuscript is currently in the review phase for publication in [*Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*](https://digitalpedagogy.commons.mla.org/). This project describes itself as:
->a curated collection of reusable and remixable pedagogical artifacts for humanities scholars in development by the Modern Language Association.
-
-Kim Middelton's article "Remix" is an apt choice for this demonstration, both in terms of its content and its current phase of production. Still in draft form, Kim's article is awaiting peer review. We will put the article into peer review and provide line-by-line feedback. Feel free to provide commentary, substantive suggestions for the text, or copy-editing notes. The point of the demonstration is to write a few lines in markdown and submit your commentary through GitHub.
-
-As you are working through this demonstration, please keep the instructions open in either a second window or next to you as a printout.
-
-### Instructions
-
-**Step 1:** If you haven't yet, please create a GitHub account.
-
-**Step 2:** In a new tab, follow this [link](https://github.com/oudiglearn/Group2-peer_review/blob/master/keywords/remix.md) to open the article at `Group2-peer_review/keywords/remix.md`.
-
-**Step 3:** Scroll through the file and look to see how the article is laid out. Notice that the meta-data for the article is presented at the top of the screen for this draft form and that the current status of the article is presented in the first section.
-
-  ![screenshot](images/draftStatus-Screenshot.png)
-
-  The article itself is divided into two sections: a "Curatorial Statement" about remixing and a "Curated Artifact" section which desribes several examples of remixing.
-
-**Step 4:** Click on the `edit` icon (a pencil in the gray menu bar) at the top of the screen
-
-  ![screenshot](images/gitEdit-Screenshot.png)
-
-  Because you don't have administrative privileges for this file, when you clicked on the edit button, GitHub created a new "forked" copy of the repository in your account's repositories. When you get done with your edits, you will save your copy of the repository and suggest that we adopt those changes through a "pull-request."  
-
-**Step 5:** In the section entitled Publication Status, change the publication status to undergoing review by changing which option is **bold**. To bold something you use <code>two astericks *</code> before and after the word. For a full cheat sheet of markdown coding, please follow this link [**Markdown Cheat Sheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-**Step 6:** Add a couple of notes in the file suggesting changes. To do this add a paragraph wherever you want to make a suggestion using the format Yourname: your suggested revisions
-
-**Step 7:** When you get done making your edits, scroll to the bottom of the screen to see the "Propose File Change" section.  Add some information about your changes in the optional extended description text box. Then click the green `Propose File Change` button.
-
-  ![screenshot](images/proposeFileChange.png)
-
-**Step 8:** After you have clicked `Propose File Change` a new page will load showing a differential comparison between the old state of the "Remix" article and your modified version of the article. The older version of the file will be presented in red and the newer in green. After you have reviewed your changes, click on the green button labled "Create Pull Request."  This will submit the changed version of the "Remix" article back to our repository.
-
-![screenshot](images/compareChanges.png)
-
-## Group Project 3: Github Pages
-
-One of the affordances of Github Pages is that it can host static HTML webpages. Here are a couple different ways to quickly get a website up and running.
-
-### Fork a website
-Seriously. That's it. Fork another website. So let's fork this one called [Clean Blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll).
-
-![Clean Blog](images/cleanblogorig.png)
-
-#### Jekyll
-This template uses a CMS called Jekyll, which generates static HTML pages. This means that to blog we won't have to write actual HTML, instead we will write in a Github flavor of Markdown. If necessary, feel free to use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
-
-#### Is this thing already live?!
-Yes!
-
-**Step 1:** To find your web address, click on Settings.
-
-![Settings](images/settings.png)
-
-**Step 2:** Now scroll down to the Github Pages section to see where your site has been published.
-
-![Here's the link](images/link.png)
-
-This is because Github automatically publishes repositories that have a special branch called "gh-pages." If you go back your repo home page, you'll notice gh-pages on the branches dropdown.
-
-![ghpages branch](images/ghpagesbranch.png)
-
-#### How can I write a post?
-
-**Step 1:** Click on the folder in your repository labeled "_posts".
-
-![Click posts](images/clickposts.png)
-
-**Step 2:** You'll find a set of posts already in there labeled in a format of YYYY-MM-DD-title-goes-here.markdown. Let's go ahead and edit one of them to see how this works. Click on the file label "2015-06-10-hello-world.markdown" and then click the pencil icon to edit the file.
-
-![Click file](images/clickfile.png)
-
-![Edit file](images/editfile.png)
-
-What you see here is some formatting data at the top that looks like this:
-
-```
----
-layout:     post
-title:      "Hello world"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2015-06-10 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-01.jpg"
----
-```
-
-This is called YAML (yet another markup language). This theme has HTML templates that know to associate specific fields styling. For instance, it knows this is a post because the layout associated with it is "post." It also knows the title, subtitle, data, author, and header image.
-
-**Step 3:** Play around with changing the title and subtitle as well as the date.
-
-*Warning: do not change the layout or it will no longer know that it's a post!
-
-**Step 4:** Similarly, add content your blog post by replacing "Hello?" located directly below the YAML content.
-
-**Step 5:** Once you are done, you'll want to Commit your change.
-
-![Commit change](images/commitchange.png)
-
-**Step 6:** *(Optional)* Now go back to Settings recover that link and you'll see the changes take place (you may need to refresh the page).
-
-![Edited blog post](images/cleanblogedit.png)
-
-You can, of course, create new blog posts too.
-
-**Step 1:** Go back into your _posts folder and create a new file. Make sure you stick with the file format `YYYY-MM-DD-title.markdown`.
-
-**Step 2:** Add the YAML at the top of the post:
-
-
-```
----
-layout:     post
-title:      
-subtitle:   
-date:       YYYY-MM-DD 12:00:00
-author:   
-header-img:
----
-```
-
-### Hosting HTML
-You may just be looking to host your site, and Github can simply host HTML as well. Here are some directions on how to do that.
-
-**Step 1:** Create a new repository, or go to an existing one.
-
-**Step 2:** In the repository overview, click the branch drop-down on the left-hand side. Type in gh-pages and press enter.
-
-![New Branch](images/newbranch.png)
-
-**Step 3:** Use the plus icon next to the repository name to create a new file.
-
-![New file](images/plusicon.png)
-
-**Step 4:** Name the file `index.html` and type in `Hello World` for the content.
-
-![Hello World](images/indexhtml.png)
-
-**Step 5:** Scroll to the bottom of the page, write a commit message, and commit the new file.
-
-![Hello World](images/commithtml.png)
-
-*...and you're done!*
-Go to `http://username.github.io/repository`.
-
-### Using the Github Automatic Page Generator
-We ran out of time and didn't write this directions! :-( But there are simple to follow directions for this at [https://pages.github.com/](https://pages.github.com/). Just select `Project site` and `Generate a site`.
-
-## Glossary
-
-**Blame**
-
-The "blame" feature in Git describes the last modification to each line of a file, which generally displays the revision, author and time. This is helpful, for example, in tracking down when a feature was added, or which commit led to a particular bug.
-
-**Branch**
-
-A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the master branch to publish your changes.
-
-**Clone**
-
-A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. With your clone you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. It is, however, connected to the remote version so that changes can be synced between the two. You can push your local changes to the remote to keep them synced when you're online.
-
-**Collaborator**
-
-A collaborator is a person with read and write access to a repository who has been invited to contribute by the repository owner.
-
-**Commit**
-
-A commit, or "revision", is an individual change to a file (or set of files). It's like when you save a file, except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of what changes were made when and by who. Commits usually contain a commit message which is a brief description of what changes were made.
-
-**Contributor**
-
-A contributor is someone who has contributed to a project by having a pull request merged but does not have collaborator access.
-
-**Diff**
-
-A diff is the difference in changes between two commits, or saved changes. The diff will visually describe what was added or removed from a file since its last commit.
-
-**Fetch**
-
-Fetching refers to getting the latest changes from an online repository (like GitHub.com) without merging them in. Once these changes are fetched you can compare them to your local branches (the code residing on your local machine).
-
-**Fork**
-
-A fork is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original. Forks remain attached to the original, allowing you to submit a pull request to the original's author to update with your changes. You can also keep your fork up to date by pulling in updates from the original.
-
-**Git**
-
-Git is an open source program for tracking changes in text files. It was written by the author of the Linux operating system, and is the core technology that GitHub, the social and user interface, is built on top of.
-
-**Issue**
-
-Issues are suggested improvements, tasks or questions related to the repository. Issues can be created by anyone (for public repositories), and are moderated by repository collaborators. Each issue contains its own discussion forum, can be labeled and assigned to a user.
-
-**Markdown**
-
-Markdown is an incredibly simple semantic file format, not too dissimilar from .doc, .rtf and .txt. Markdown makes it easy for even those without a web-publishing background to write prose (including with links, lists, bullets, etc.) and have it displayed like a website. GitHub supports Markdown, and you can learn about the semantics here.
-
-**Merge**
-
-Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another. This often happens as a Pull Request (which can be thought of as a request to merge), or via the command line. A merge can be done automatically via a Pull Request via the GitHub.com web interface if there are no conflicting changes, or can always be done via the command line. See Merging a pull request.
-
-**Open Source**
-
-Open source software is software that can be freely used, modified, and shared (in both modified and unmodified form) by anyone. Today the concept of "open source" is often extended beyond software, to represent a philosophy of collaboration in which working materials are made available online for anyone to fork, modify, discuss, and contribute to.
-
-**Organizations**
-
-Organizations are a group of two or more users that typically mirror real-world organizations. They are administered by users and can contain both repositories and teams.
-
-**Private Repository**
-
-Private repositories are repositories that can only be viewed or contributed to by their creator and collaborators the creator specified.
-
-**Pull**
-
-Pull refers to when you are fetching in changes and merging them. For instance, if someone has edited the remote file you're both working on, you'll want to pull in those changes to your local copy so that it's up to date.
-
-**Pull Request**
-
-Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators. Like issues, pull requests each have their own discussion forum. See Using Pull Requests.
+Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Disability Resource Center, Goddard Health Center, 620 Elm Avenue, Suite 166, (405) 325-3852, TDD (405) 325-4173, Fax (405) 325-4491 or ods@ou.edu.
 
 **Push**
 
