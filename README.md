@@ -225,67 +225,37 @@ Coming Soon!
 
 Coming Soon!
 
+## Contact Me
 
-
-**Push**
-
-Pushing refers to sending your committed changes to a remote repository such as GitHub.com. For instance, if you change something locally, you'd want to then push those changes so that others may access them.
-
-**Remote**
-
-This is the version of something that is hosted on a server, most likely GitHub.com. It can be connected to local clones so that changes can be synced.
-
-**Repository**
-
-A repository is the most basic element of GitHub. They're easiest to imagine as a project's folder. A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
-
-**SSH Key**
-
-SSH keys are a way to identify yourself to an online server, using an encrypted message. It's as if your computer has its own unique password to another service. GitHub uses SSH keys to securely transfer information from GitHub.com to your computer.
-
-**Upstream**
-
-When talking about a branch or a fork, the primary branch on the original repository is often referred to as the "upstream", since that is the main place that other changes will come in from. The branch/fork you are working on is then called the "downstream".
-
-**User**
-
-Users are personal GitHub accounts. Each user has a personal profile, and can own multiple repositories, public or private. They can create or be invited to join organizations or collaborate on another user's repository.
-
-[Source](https://help.github.com/articles/github-glossary/)
-
-
-## Other Resources
-
-**Chronicle ProfHacker Series "Github 101"**
-
-- [Getting Started With a GitHub Repository](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)
-
-- [Direct Editing and Zen Mode in GitHub](http://chronicle.com/blogs/profhacker/direct-editing-and-zen-mode-in-github/47497)
-
-- [Forks and Pull Requests in GitHub](http://chronicle.com/blogs/profhacker/forks-and-pull-requests-in-github/47753)
-
-- [File and Repository History in GitHub](http://chronicle.com/blogs/profhacker/file-and-repository-history-in-github/48047)
-
-- [Resources for Learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285)
-
-- [The Limitations of GitHub for Writers](http://chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299)
-
-["Digital Pedagogy in the Humanities: Concepts, Models, and Experiments."](https://github.com/curateteaching/digitalpedagogy).
-
-[Github for Education](https://education.github.com/)
-
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-Kris Shaffer. ["Publishing with GitHub Pages"](http://kris.shaffermusic.com/2013/09/publishing-with-github-pages/)
-
-Kris Shaffer. ["Push, Pull, Fork: Github for Academics."](http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/)
-Karl Stolley. ["Why and how I put syllabi on GitHub"](http://blog.karlstolley.com/post/28067343150/why-and-how-i-put-syllabi-on-github)
-
-Audrey Watters. ["Using GitHub to Power a Web Project: How and Why"]("http://audreywatters.com/2013/07/07/how-to-run-your-site-on-github/")
-
-Audrey Watters. [Github 101](http://audreywatters.github.io/github-101/)
-
-Alexey Zagalsky. ["The emergence of GitHub as a collaborative platform for education."](http://alexeyza.com/pdf/cscw15.pdf)
-
-## Suggest a Resource
-Use the following linked form to suggest courses or other resources that you know of that use GitHub in higher education: [Google Form](http://goo.gl/forms/qgKZ8OlqZD). View the suggestions here: [Suggestions in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1E2UUn6lOfqBR4UbWhaXGmvJnZ-b5GgJgwzCHWXYRzXY/edit?usp=sharing).
+<div class="container">
+	<div class="row">
+		<form name="frm1" method="post" action="">
+                                <div class="form-part">
+                                    <ul>
+                                        <li>
+                                            <div class="form-group shaddow">
+                                                <div class="input-group">
+                                                    <span class="input-group-addon no-radius"><i class="fa fa-user"></i></span>
+                                                    <input type="text" class="form-control no-radius" aria-describedby="inputGroupSuccess1Status" placeholder="Name*" name="fname" required="required">
+                                                </div>
+                                            </div>
+                                        </li>
+                                       <li>
+                                            <div class="form-group">
+                                                <div class="input-group shaddow">
+                                                    <span class="input-group-addon no-radius"><i class="fa fa-envelope"></i></span>
+                                                    <input type="text" required="required" name="femail" placeholder="Email*" aria-describedby="inputGroupSuccess1Status" class="form-control no-radius">
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <textarea placeholder="Message*" rows="3" class="form-control no-radius shaddow"></textarea>
+                                        </li>
+                                        <li>
+                                            <input type="submit" class="btn submit-btn shaddow" value="Send">
+                                        </li>
+                                    </ul>
+                                </div>
+                            </form>
+	</div>
+</div>
