@@ -182,6 +182,20 @@ Instructions (from the website): Your mission is simple: achieve pleasant and re
 
 At the end of each unit you will take a quiz on D2L (learn.ou.edu) that is worth a total of 10 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently.When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
 
+## Week 2
+
+## Week 3
+
+## Week 4
+
+## Week 5
+
+## Week 6
+
+## Week 7
+
+## Week 8
+
 
 
 **Push**
