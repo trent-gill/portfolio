@@ -77,7 +77,7 @@ Students who need special accommodations or have special needs are invited to sh
 
 ## Week 1
 
-<div class="alert alert-warning" role="alert">**Quiz Due Date**: Thursday, May 19, 2016</div>
+<div class="alert alert-warning" role="alert"><b>Quiz Due Date</b>: Thursday, May 19, 2016</div>
 
 ### Introduction
 
