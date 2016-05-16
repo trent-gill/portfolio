@@ -99,7 +99,9 @@ You are required to have at least **one picture** in your post and it's prefera
 
 This is touched on heavily about in the syllabus. Go ahead and get Adobe Creative Cloud installed this week. You can also forgo the expense and use the Gaylord labs but it is recommended that you purchase a subscription, even if it's just for this semester.
 
-### 6. What the heck is a PR Publication?" style="fancy"] Let's go with a good ol' definition:** PR publications** provide a free, controlled media designed for publics who share characteristics and interest. Read that definition again. There's a lot there that's worth unpacking.
+### 6. What the heck is a PR Publication?
+
+Let's go with a good ol' definition:** PR publications** provide a free, controlled media designed for publics who share characteristics and interest. Read that definition again. There's a lot there that's worth unpacking.
 
 #### 1. **PR publications** provide a **free**, controlled media designed for publics who share characteristics and interest.
 
@@ -120,7 +122,9 @@ PR Publications work best when you narrow your public. Know everything you can a
 *   Folded publications (Pamphlets brochures, some newsletters) **Folded publications** use folds to create format.
 *   Bound publications (Booklets, magazines, annual reports) **Bound publications** are those containing multiple sheets of paper, held together by binding.
 
-### 7. Design Theory and PR Publications. Watch these videos and view these slides.
+### 7. Design Theory and PR Publications
+
+#### Watch these videos and view these slides.
 
  First things first. Design is design. The theory and principles do not change whether its interior design, fashion, or landscaping because they are all visual communications. What is different is that every design decision is based on information about the publication's purpose, key message, and target public. Design decisions only work when they consider the effect of the design options on the target public. For most of your career as a PR student, you have focused on writing or verbal communication. You know how to structure verbal communications and how words form sentences which for paragraphs, etc. Effectively understanding writing doesn't happen if it doesn't have that structure to support it. Similarly, **visual communication** uses image and patterns to convey messages (as opposed to language with verbal communication). You'll notice up in the upper right hand corner a set of media. This is a collection of what you are required to watch for the unit. The first video is from Lynda.com and is titled "What makes design great?" and the second is called "Exploring the principles of layout and composition." Check that one out first as its very similar to my in-class presentation. My slides for the in class presentation are below.
 
@@ -134,7 +138,9 @@ Please watch the Lynda.com video If you aren't familiar with Lynda.com, it's a 
 
 Last, you'll find a video from Ira Glass, the host of This American Life. Before we get going too far, I think it's helpful to take a step back and breath again. Remember that creativity and design can be a little hard to grasp at first particularly because your taste is much more refined than your technique. Don't worry about too much about your "products" right now and let's focus on the "process." It's about the _process,_ not the _product_. It's about the _process_, not the _product_. This will slightly change throughout the semester, but, for now, let this be your mantra!
 
-### 8. Complete a design blitz! (Blog Post Required)
+### 8. Complete a design blitz!
+
+**(Blog Post Required)**
 
 Through the presentations above, you've learned about several design concepts:
 
@@ -151,7 +157,9 @@ Through the presentations above, you've learned about several design concepts:
 
 After reading and reviewing the slides, you should be able to provide a basic explanation of each of these concepts. To reinforce your understanding, I want you to undertake a “Design Blitz”. Carry your camera with you this unit and take photos of objects, ads, signs, etc. that illustrate one of these concepts. When you have completed your Design Blitz, **write a blog post** that embeds the photos and your analysis of the design elements and what makes them effective or not. (You can do this in one single post if you like, or in several.) **Provide an example of at least five of the concepts listed above. Make sure to tag your blog post "Design Blitz.** **PRO TIP:** Sometimes we can learn just as much from badly designed things as we can from well-designed things! So feel free to include bad elements as examples to avoid.
 
-### 9. Play these games on typography (Blog post required)
+### 9. Play these games on typography
+
+**(Blog post required)**
 
 Typography is a CRITICAL part of how we tell stories. To practice some of our typography skillz (with a emphasized Z!) we are going to play some typography games. For this assignment, you are to choose three of these font games and play them for a little bit. **Write a short blog post about this experience (don't be afraid to include screenshots!). Tag your blog post "Typography."** Of course, you are more than welcome to play all of them if you want.
 
