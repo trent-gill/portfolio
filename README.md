@@ -565,9 +565,9 @@ Once you've completed the assignments and activities above, you need to complete
 ### Introduction
 
 <div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 3, 2016 at noon</div>
-<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 3 26, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 3, 2016 at noon</div>
 
-Week 3 begins our very first design project, which is to design a business card and letterhead. This design project is due <strong>Wednesday, March 2, 2016 at noon</strong>. This week we will be focusing on our first piece, the business card. Over the media attachments, you will notice an extra <a href="http://youtu.be/QXNpxlPiCbA" target="_blank">video on InDesign</a>. This is just a quick refresher in case you've forgotten anything over the last couple of weeks. I walk through the following:
+Week 3 begins our very first design project, which is to design a business card and letterhead. This design project is due <strong>Thursday, June 3, 2016 at noon</strong>. This week we will be focusing on our first piece, the business card. Over the media attachments, you will notice an extra <a href="http://youtu.be/QXNpxlPiCbA" target="_blank">video on InDesign</a>. This is just a quick refresher in case you've forgotten anything over the last couple of weeks. I walk through the following:
 <ul>
 	<li><a href="http://youtu.be/QXNpxlPiCbA" target="_blank">Drawing Shapes</a></li>
 	<li><a href="http://youtu.be/QXNpxlPiCbA?t=4m52s" target="_blank">Placing an Image</a></li>
@@ -577,10 +577,9 @@ Week 3 begins our very first design project, which is to design a business card 
 	<li><a href="http://youtu.be/QXNpxlPiCbA?t=9m59s" target="_blank">Effects Panel</a></li>
 	<li><a href="http://youtu.be/QXNpxlPiCbA?t=12m46s" target="_blank">Typesetting</a></li>
 </ul>
-As mentioned in our last post, the way to be most effective with PR publications is to understand your public, so we are going to also walk through how to effectively complete design research.
+As mentioned in Week 2, the way to be most effective with PR publications is to understand your public, so we are going to also walk through how to effectively complete design research.
 
-Make sure you allot yourself plenty of time for this lesson. By the end of it you will have written four blog posts, created three Pinterest boards, and started a draft for your business card. But before we get started...
-
+<div class="alert alert-info" role="alert"
 #### Some tips on business cards:
 <strong>1. Consider your essential text content.</strong>
 
@@ -593,6 +592,7 @@ If you can't read the text on a business card, it is essentially useless. Make s
 <strong>3. Keep your art simple.</strong>
 
 Remember, business cards are fairly small so detailed images won't be very legible. This isn't the type of piece for a photo collage. Stick with your company logo and your organizations primary colors.
+</div>
 
 ### 1. Pick an organization and locate their logo
 
@@ -606,11 +606,11 @@ Once you have decided on an organization, you will need to locate their logo. If
 
 I want us to examine the Analysis-Synthesis Bridge model, which is a design methodology developed by Dubberly Design to communicate how their designers identity the organizations needs and move that into action to the final product. It consists of a 2x2 quadrant that looks like this:
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png"><img class="wp-image-268 size-full" src="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png" alt="" width="800" height="600" /></a> Source: http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html[/caption]
+<a href="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png" alt="" /></a> <small>Source: [http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html)</small>
 
 You'll notice that the process begins in the lower left quadrant where the designer states what we explicitly know about the organization. Moving to the upper lefthand quadrant, you begin to answer more abstract questions that aren't as concrete. As we move to the upper right hand corner, we start to interpret how we can leverage what we know to propel our design. The lower right hand quadrant is where the design begins to prototype the idea. Let's examine how we may use this for in researching for our PR Publications.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg"><img class="aligncenter wp-image-269 size-full" src="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg" alt="pr_analysis-synthesis" width="805" height="596" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg" alt="pr_analysis-synthesis" /></a>
 
 ### 4. Analyzing your organization
 
@@ -618,7 +618,7 @@ You'll notice that the process begins in the lower left quadrant where the desig
 
 For this blog post we are going to focus on the majority of the questions on this post.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg"><img class=" wp-image-271 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg" alt="leftside" width="496" height="367" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg" alt="leftside" /></a>
 
 Write a post that address the following questions:
 <ol>
@@ -632,33 +632,34 @@ Write a post that address the following questions:
 
 We are now focusing solely on the upper left hand corner quadrant.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg"><img class=" wp-image-270 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg" alt="upperleft" width="561" height="408" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg" alt="upperleft"  /></a>
 
 For this part of the lesson, we want to conduct a competitor analysis on an organization similar to our own. It's even better if they have a visual strategy that you admire.
-<h2>How to Create a Pinterest Board</h2>
-<h3>1. Create a Pinterest Account at <a href="http://pinterest.com">pinterest.com</a></h3>
-<h3>2. Create a Board</h3>
-<a href="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg"><img class=" wp-image-279 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg" alt="acroom-" width="763" height="483" /></a>
+
+#### How to Create a Pinterest Board
+**1. Create a Pinterest Account at <a href="http://pinterest.com">pinterest.com</a>**
+**2. Create a Board**
+<a href="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg" alt="acroom-" /></a>
 
 When creating your board, give it a relevant name to the project such as "JMC 3433 - Competitor Analysis." Also be sure that it is a PUBLIC board as we will be posting links to this board on our blog.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png"><img class=" size-full wp-image-288 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png" alt="Screen Shot 2015-01-06 at 12.49.01 PM" width="603" height="589" /></a>
-<h3>3. Add a pin</h3>
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png"><img class=" size-full wp-image-280 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png" alt="Screen Shot 2015-01-06 at 1.15.25 PM" width="287" height="407" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png" alt="Screen Shot 2015-01-06 at 12.49.01 PM"/></a>
+**3. Add a pin**
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png"><img c src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png" /></a>
 
 Once the board is created, we want to create pins. You have the ability to either add images from the web or images from your computer.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png"><img class=" size-full wp-image-281 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png" alt="Screen Shot 2015-01-06 at 1.15.20 PM" width="567" height="295" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png" /></a>
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png"><img class=" size-full wp-image-282 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png" alt="Screen Shot 2015-01-06 at 1.17.00 PM" width="510" height="271" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png"></a>
 
 Once you have uploaded the image, pick the board you want the image to go in and add a short description about the image. It's helpful if the description is relevant to class!
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"><img class=" size-full wp-image-283 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png" alt="Screen Shot 2015-01-06 at 1.18.05 PM" width="750" height="369" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"><img  src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"></a>
 
 Your final Pinterest board should look something like this:
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"><img class=" size-full wp-image-284 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png" alt="Screen Shot 2015-01-06 at 1.24.32 PM" width="1205" height="928" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"><img  src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"  /></a>
 
 ### 6. Competitor Analysis: Blog Post
 
@@ -674,7 +675,7 @@ Create a new blog post where you will:
 </li>
 	<li>Add a link to your Competitor Analysis Pinterest Board. You will find it in the address bar of your browser:</li>
 </ol>
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png"><img class=" size-full wp-image-285 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png" alt="Screen Shot 2015-01-06 at 1.12.58 PM" width="1207" height="112" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png"/></a>
 
 <strong> Tag the blog post "Research."</strong>
 
@@ -684,7 +685,7 @@ Create a new blog post where you will:
 
 Moving on in our hike across the Analysis-Synthesis Bridge Model, we are going to now move to the upper right hand quadrant.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg"><img class=" wp-image-272 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg" alt="upperright" width="532" height="387" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg" /></a>
 
 Create a new blog post. For this blog post, I want you to try to "destructure" what you know about writing so far. Have you taken off your super professional writer hat? Good. Now, put on your brainstorming hat. With this post, you have permission to be brief and sloppy! I want you to really ideate and write as many ideas down as you consider the following questions: What kind of visual language will you use? Will the visuals be type or image driven? What do the type and images need to mean? What connotations do they need to have? As you make your way these questions, begin to visualize your business card, what it looks like, and the message it sends when someone hands it out.
 
@@ -700,15 +701,12 @@ Once you have completed those, add the links to your Pinterest boards in your pr
 
 ### 9. Begin your design: Setup your InDesign document.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"><img class=" wp-image-299 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png" alt="Screen Shot 2015-01-06 at 10.11.19 PM" width="452" height="390" /></a>
-
-&nbsp;
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"/></a>
 
 Your document will look like this:
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM.png"><img class=" size-large wp-image-300 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM-1030x644.png" alt="Screen Shot 2015-01-06 at 10.18.49 PM" width="1030" height="644" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM-1030x644.png" alt="Screen Shot 2015-01-06 at 10.18.49 PM"/></a>
 
-&nbsp;
 
 The black border is where the business card would be cut if it is sent to the printer. The red indicates that we have set up a .25" bleed. Make sure to extend your background color to the red. The pink/purple box are our margins. Keep all important information (logo, text) within this space for safety!
 
