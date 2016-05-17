@@ -223,16 +223,6 @@ Before you get started, the first thing you will want to do is download the Exer
 
 ### Adobe Photoshop
 
-<title>Table</title>
-
-   <!-- Bootstrap Core CSS -->
-   <link href="css/bootstrap.min.css" rel="stylesheet">
-   <!-- Custom Fonts -->
-   <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-   <script src="js/bootstrap.min.js"></script>
-
-</head>
-<body>
 <div class="col-sm-6">
 <table class="table  table-striped">
 <thead>
