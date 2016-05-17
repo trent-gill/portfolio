@@ -1,3 +1,15 @@
+# Elements
+
+## Assignment alert
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 26, 2016 at noon</div>
+
+<code><div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 26, 2016 at noon</div></code>
+
+## Blog posted required alert
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
+<code><div class="alert alert-warning" role="alert">Blog Post Required</div></code>
+
 # Class information for teachers
 
 This material under this GitHub organization is for a 5 session, 18 contact hour Advanced JavaScript continuing education class.  It consists of:

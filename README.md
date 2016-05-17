@@ -77,6 +77,107 @@ This course focuses heavily on some paid tools that exist in Adobe Creative Suit
 
 Students who need special accommodations or have special needs are invited to share these concerns or requests as soon as possible.  Requests for reasonable accommodation should be addressed to the Disability Resource Center, Goddard Health Center, 620 Elm Avenue, Suite 166, (405) 325-3852, TDD (405) 325-4173, Fax (405) 325-4491 or ods@ou.edu.
 
+## FAQ
+
+### How can I be successful online?
+
+#### 1. Set aside scheduled time
+
+One of the hardest things for students to realize is that they are usually spending two and half hours a week in a class room getting a significant amount of work done. Just because this is an online class doesn't translate to the idea that this is less work. Set aside time a couple times a week where you work on this course just like you would class! Stick it in your calendar, make your bosses aware, and keep it like that.
+
+#### 2. Work ahead
+
+My goal is to always have more lessons out there than the person who is the furthest in the class. You have the ability to move faster and you should take advantage of it if you have the extra time or get in a good groove. It's easy to fall behind particularly when you get into the thick of the semester. The beginning of the semester is PRIME for getting ahead in your online courses. While other classes may spending the class time talking through the syllabus and orientation materials, you can be getting a jump start on this one.
+
+#### 3. Know how to ask for help.
+
+Just because this is online doesn't mean I'm not available. Email is the easiest way I promise to promptly return all emails written to me at reasonable hours. If anything needs to be clarified, I'm happy to do so. If there is something we can't solve via email, we can visit in person or through a Google Hangout video chat.
+
+Additionally, I've set up several ways in which you can ask each other! Add it to the forum or put it in a blog post. Check the blogroll for how other students have completed work.
+
+Last, use the Googles! Seriously. Think about this when you are using technology... Technology was created by humans. Humans have questions. There's a 99.9999% chance your question has already been answered. If you can master Google, you will be a much more efficient problem solver.
+
+#### 4. Stay organized
+
+There are several places where you can find due dates. You'll find a calendar in several places on PRPubs.us as well as D2L. You're much more likely to stay on top of the workload if you know the schedule.
+
+#### 5. Get familiar with the course site
+
+It's important that you know the course site inside and out. Almost as important as fully understanding the syllabus! If you're this far down the page you're doing great! Keep reading!
+
+#### 6. Create your own classroom
+
+We don't have a dedicate physical place where this work is done. I suggest you create a false classroom for yourself. Tell yourself "Everything Monday and Wednesday, I'm going to go to the computer lab to do work" or to the library or the coffee. Or make your bedroom extra special. Take your favorite songs at the moment and put it on a Spotify playlist and tell yourself you can only listen to that playlist when you are working on PR Pubs.
+
+#### 7. Really OWN your learning
+
+This one is important throughout your entire collegiate experience, but you feel it a little more in online courses. This course will take a significant amount of self-discipline. This becomes easier when you accept full ownership of your learning. You'll get out of this, what you put into it. Decide now that you WANT to get a lot out of this course. If you own your learning experience, you'll enjoy the time you spend on this course.
+
+### What's a good blog post?
+
+There are several good ways to improve a blog post.
+
+#### 1. Always make sure you add context.
+
+Because blog posts are public, when writing your post you should assume that the reader has no idea what the purpose of your post is for. Therefore, always lead off your posts with some context. It can be brief! Here's an example:
+
+"In my PR Publications course, we are going to be designing a business card and letterhead for an organization of our choice. I chose Big Brothers/Big Sisters as I have volunteered with them since my freshman year. For this assignment, I'm analyzing the state of the current organization's resources, processes, and values overall."
+
+#### 2. Use first person.
+
+Unlike essays, this is your space. Own it.
+
+#### 3. Use images.
+
+Also unlike essays, you can make add images (both still and animated) to your post. Take advantage of this new medium! Some things are better said through images than they are words.
+
+#### 4. Use links.
+
+You can also link to other pages. Did you read an article that helped you work through an assignment? Link to it! Did a classmate post something that was highly interesting? Link to it! Are you referring to a previous post? Li... you get the picture!
+
+#### 5. Give a complete thought.
+
+Rather than focusing on a specific word count, you should focus on giving complete thoughts. Make sure your blog post has a beginning, middle, and end. I'll give you prompts throughout the semester that help you maintain this structure, but stick to it as much as you can.
+
+### How do I get ahold of you?
+
+I'm best reached via email. I do not hold regular office hours but am happy to meet either face-to-face or through a digital medium such as Skype or Google Hangout.
+
+### Where can I find stock images?
+* [Free Stock Images](http://www.freeimages.co)
+* [Stock Vault](http://www.stockvault.net)
+* [Stocksnap](https://stocksnap.io)
+* [Gratisography](http://gratisography.com)
+* [Unsplash](https://unsplash.com)
+* [Superfamous Images](http://images.superfamous.com)
+* [New Old Stock](http://nos.twnsnd.co)
+* [Magdeleine](http://magdeleine.co)
+* [Picography](http://picography.co)
+* [Isorepublic](http://isorepublic.com)
+
+### What are some tips for Lynda.com?
+
+Myself, sometimes I get confused with tutorial videos. I'll be moving back and forth through windows on my computer or the person doing the tutorial will simply be talking too fast for me to keep up. I want to give you some tips on how to best grasp these types of videos as I realize they can feel a smidge overwhelming the first time through.
+
+#### 1. Don't be a perfectionist.
+
+Again, remember... Right now it's about the process, not the product. I don't want you to get too bogged down if you can't get something down picture perfect right now. Don't spend endless hours trying to solve the tiniest thing. The point of the exercise right now is for you to make it through this and get a broad overview.
+
+#### 2. Take advantage of the video controls.
+
+Our man for these videos, Justin, is a pretty speedy talker. Luckily, for us, we can manipulate the video so that it actually plays slower (or faster if you would like). You'll see a playback speed controller near the play button at the bottom at each video.
+
+#### 3. Check out the transcript for terms that aren't familiar.
+
+Sometimes you'll hear someone say something that just doesn't sound quite right. Lynda.com provides a scrolling transcript with each video which can be very helpful when you get stuck.
+
+#### 4. Download the exercise files.
+
+Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, please let me know via email ASAP. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
+
+Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
+
+
 ## Course Blogs
 
 <a href="https://prpubs.us/summer16/" class="btn btn-primary btn-primary">View the Blogs</a>
@@ -461,7 +562,167 @@ Once you've completed the assignments and activities above, you need to complete
 
 ## Week 3
 
-Coming Soon!
+### Introduction
+
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 3, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 3 26, 2016 at noon</div>
+
+Week 3 begins our very first design project, which is to design a business card and letterhead. This design project is due <strong>Wednesday, March 2, 2016 at noon</strong>. This week we will be focusing on our first piece, the business card. Over the media attachments, you will notice an extra <a href="http://youtu.be/QXNpxlPiCbA" target="_blank">video on InDesign</a>. This is just a quick refresher in case you've forgotten anything over the last couple of weeks. I walk through the following:
+<ul>
+	<li><a href="http://youtu.be/QXNpxlPiCbA" target="_blank">Drawing Shapes</a></li>
+	<li><a href="http://youtu.be/QXNpxlPiCbA?t=4m52s" target="_blank">Placing an Image</a></li>
+	<li><a href="http://youtu.be/QXNpxlPiCbA?t=6m58s" target="_blank">Fit Content Proportionally</a></li>
+	<li><a href="http://youtu.be/QXNpxlPiCbA?t=7m47s" target="_blank">Scale Tool</a></li>
+	<li><a href="http://youtu.be/QXNpxlPiCbA?t=8m51s" target="_blank">Clipping Path</a></li>
+	<li><a href="http://youtu.be/QXNpxlPiCbA?t=9m59s" target="_blank">Effects Panel</a></li>
+	<li><a href="http://youtu.be/QXNpxlPiCbA?t=12m46s" target="_blank">Typesetting</a></li>
+</ul>
+As mentioned in our last post, the way to be most effective with PR publications is to understand your public, so we are going to also walk through how to effectively complete design research.
+
+Make sure you allot yourself plenty of time for this lesson. By the end of it you will have written four blog posts, created three Pinterest boards, and started a draft for your business card. But before we get started...
+
+#### Some tips on business cards:
+<strong>1. Consider your essential text content.</strong>
+
+Every business needs your name, your job title, and some form of contact information. The appropriate contact information can vary based on your organization. At minimum, you want to include a phone number and an email address. If your organization is strictly online or you want to drive traffic to the website, make sure to include the website URL. If you have a physical location, an address is most likely necessary. If your organization is very socially conscious or holds their mission in high regard, maybe consider putting the mission statement on the back of the card.
+
+<strong>2. Legibility is key.</strong>
+
+If you can't read the text on a business card, it is essentially useless. Make sure your font isn't too small. The best way to check for too small of font is to print your document out and actually look at it. Also make sure that your contrast is high. If you are using a dark background color, make the text white or light (and vice versa).
+
+<strong>3. Keep your art simple.</strong>
+
+Remember, business cards are fairly small so detailed images won't be very legible. This isn't the type of piece for a photo collage. Stick with your company logo and your organizations primary colors.
+
+### 1. Pick an organization and locate their logo
+
+You will choose an organization for your assignment. It would serve you well to design for an organization you have an interest in. If you want to pursue event planning when you graduate, choose an organization that has a major event and design around that event. If you want to pursue corporate communications, choose an organization that is in need of or has an internal awareness campaign, and design around that. If you aren’t sure what you want to do when you graduate, choose an organization that you are interested in. If you love working with your fraternity or sorority, choose your sorority and identify its campaign need.  You may want to choose an organization that you will be able to develop a personal relationship with, as you may need assistance from the organization in the form of assets and information. It is best if you choose an organization that can be aware of your work for this class. You may choose an organization that already has public relations material, however, if you do, you will perform a redesign and develop new materials in a new design style.
+
+### 2. Locate the organization logo
+
+Once you have decided on an organization, you will need to locate their logo. If this is a local organization, my best advice is to email them and ask for a "high resolution or print ready" version of their logo. Usually, these will be a .eps file or a large size .pdf. It is also okay to use a large .jpg if that is all the company has. <strong>Do not just steal an image of Facebook</strong>. I've had several students attempt to do this before. Facebook compresses the image for screens meaning that it is no longer print ready.
+
+### 3. Research: The Analysis-Synthesis Bridge Model
+
+I want us to examine the Analysis-Synthesis Bridge model, which is a design methodology developed by Dubberly Design to communicate how their designers identity the organizations needs and move that into action to the final product. It consists of a 2x2 quadrant that looks like this:
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png"><img class="wp-image-268 size-full" src="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png" alt="" width="800" height="600" /></a> Source: http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html[/caption]
+
+You'll notice that the process begins in the lower left quadrant where the designer states what we explicitly know about the organization. Moving to the upper lefthand quadrant, you begin to answer more abstract questions that aren't as concrete. As we move to the upper right hand corner, we start to interpret how we can leverage what we know to propel our design. The lower right hand quadrant is where the design begins to prototype the idea. Let's examine how we may use this for in researching for our PR Publications.
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg"><img class="aligncenter wp-image-269 size-full" src="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg" alt="pr_analysis-synthesis" width="805" height="596" /></a>
+
+### 4. Analyzing your organization
+
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
+For this blog post we are going to focus on the majority of the questions on this post.
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg"><img class=" wp-image-271 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg" alt="leftside" width="496" height="367" /></a>
+
+Write a post that address the following questions:
+<ol>
+	<li>What is your organization's mission--the service or product it sells?</li>
+	<li>Who are its main competitors?</li>
+	<li>What are your organization's most dominant attitudes and core values?</li>
+</ol>
+<strong>Tag the post "Research."</strong>
+
+### 5. Competitor Analysis: Create a Pinterest Board
+
+We are now focusing solely on the upper left hand corner quadrant.
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg"><img class=" wp-image-270 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg" alt="upperleft" width="561" height="408" /></a>
+
+For this part of the lesson, we want to conduct a competitor analysis on an organization similar to our own. It's even better if they have a visual strategy that you admire.
+<h2>How to Create a Pinterest Board</h2>
+<h3>1. Create a Pinterest Account at <a href="http://pinterest.com">pinterest.com</a></h3>
+<h3>2. Create a Board</h3>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg"><img class=" wp-image-279 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg" alt="acroom-" width="763" height="483" /></a>
+
+When creating your board, give it a relevant name to the project such as "JMC 3433 - Competitor Analysis." Also be sure that it is a PUBLIC board as we will be posting links to this board on our blog.
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png"><img class=" size-full wp-image-288 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png" alt="Screen Shot 2015-01-06 at 12.49.01 PM" width="603" height="589" /></a>
+<h3>3. Add a pin</h3>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png"><img class=" size-full wp-image-280 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png" alt="Screen Shot 2015-01-06 at 1.15.25 PM" width="287" height="407" /></a>
+
+Once the board is created, we want to create pins. You have the ability to either add images from the web or images from your computer.
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png"><img class=" size-full wp-image-281 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png" alt="Screen Shot 2015-01-06 at 1.15.20 PM" width="567" height="295" /></a>
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png"><img class=" size-full wp-image-282 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png" alt="Screen Shot 2015-01-06 at 1.17.00 PM" width="510" height="271" /></a>
+
+Once you have uploaded the image, pick the board you want the image to go in and add a short description about the image. It's helpful if the description is relevant to class!
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"><img class=" size-full wp-image-283 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png" alt="Screen Shot 2015-01-06 at 1.18.05 PM" width="750" height="369" /></a>
+
+Your final Pinterest board should look something like this:
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"><img class=" size-full wp-image-284 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png" alt="Screen Shot 2015-01-06 at 1.24.32 PM" width="1205" height="928" /></a>
+
+### 6. Competitor Analysis: Blog Post
+
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
+Create a new blog post where you will:
+<ol>
+	<li>Answer the following questions:
+<ol>
+	<li>How does your organization differ from its competitors?</li>
+	<li>How should your organization's image and message differ from its competitors?</li>
+</ol>
+</li>
+	<li>Add a link to your Competitor Analysis Pinterest Board. You will find it in the address bar of your browser:</li>
+</ol>
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png"><img class=" size-full wp-image-285 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png" alt="Screen Shot 2015-01-06 at 1.12.58 PM" width="1207" height="112" /></a>
+
+<strong> Tag the blog post "Research."</strong>
+
+### 7. Build a Communications Strategy
+
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
+Moving on in our hike across the Analysis-Synthesis Bridge Model, we are going to now move to the upper right hand quadrant.
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg"><img class=" wp-image-272 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg" alt="upperright" width="532" height="387" /></a>
+
+Create a new blog post. For this blog post, I want you to try to "destructure" what you know about writing so far. Have you taken off your super professional writer hat? Good. Now, put on your brainstorming hat. With this post, you have permission to be brief and sloppy! I want you to really ideate and write as many ideas down as you consider the following questions: What kind of visual language will you use? Will the visuals be type or image driven? What do the type and images need to mean? What connotations do they need to have? As you make your way these questions, begin to visualize your business card, what it looks like, and the message it sends when someone hands it out.
+
+### 8. Visualizing Your Communications Strategy: Inspiration and Mood Boards
+
+
+Now that we are Pinterest pros, we are going to use the same technique to think about our own pieces. We are going to create two separate boards with different purposes:
+<ol>
+	<li><strong>Create a Pinterest Inspiration Board</strong> - For this board, you want to show examples of other campaign designs that you will draw inspiration from. I've created an example board which you can <a href="http://www.pinterest.com/acroom/letterhead-inspiration-jmc3433-004/" target="_blank">view here</a>.</li>
+	<li><strong>Create a Pinterest Mood Board</strong> - Next we are going to create a Pinterest mood board. A mood board is a series of photographs or designs that embody the visual spirit of your proposed design. You can check out some <a href="http://www.pinterest.com/mindbolt/inspiring-mood-boards/" target="_blank">great mood boards examples here</a>.</li>
+</ol>
+Once you have completed those, add the links to your Pinterest boards in your previous Communications Strategy post that you wrote or simply create a new post.
+
+### 9. Begin your design: Setup your InDesign document.
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"><img class=" wp-image-299 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png" alt="Screen Shot 2015-01-06 at 10.11.19 PM" width="452" height="390" /></a>
+
+&nbsp;
+
+Your document will look like this:
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM.png"><img class=" size-large wp-image-300 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM-1030x644.png" alt="Screen Shot 2015-01-06 at 10.18.49 PM" width="1030" height="644" /></a>
+
+&nbsp;
+
+The black border is where the business card would be cut if it is sent to the printer. The red indicates that we have set up a .25" bleed. Make sure to extend your background color to the red. The pink/purple box are our margins. Keep all important information (logo, text) within this space for safety!
+
+<strong>3. Save, save, save your document. Then save again.</strong>
+
+It is utmost importance that you save your work early and often. Save the file as an INDD. If you are not using your own computer, save it onto a thumb drive or external hard drive. Be sure to do the same thing with any other files that correspond with the publication (images, fonts, etc.).
+
+<strong>4. Get to work!</strong>
+
+Time to put all of your time from last weeks tutorials to work. Start by placing your logo and dropping in some of your important text.
+
+### 10. Post Your Draft
+
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 ## Week 4
 
@@ -482,103 +743,3 @@ Coming Soon!
 ## Week 8
 
 Coming Soon!
-
-## FAQ
-
-### How can I be successful online?
-
-#### 1. Set aside scheduled time
-
-One of the hardest things for students to realize is that they are usually spending two and half hours a week in a class room getting a significant amount of work done. Just because this is an online class doesn't translate to the idea that this is less work. Set aside time a couple times a week where you work on this course just like you would class! Stick it in your calendar, make your bosses aware, and keep it like that.
-
-#### 2. Work ahead
-
-My goal is to always have more lessons out there than the person who is the furthest in the class. You have the ability to move faster and you should take advantage of it if you have the extra time or get in a good groove. It's easy to fall behind particularly when you get into the thick of the semester. The beginning of the semester is PRIME for getting ahead in your online courses. While other classes may spending the class time talking through the syllabus and orientation materials, you can be getting a jump start on this one.
-
-#### 3. Know how to ask for help.
-
-Just because this is online doesn't mean I'm not available. Email is the easiest way I promise to promptly return all emails written to me at reasonable hours. If anything needs to be clarified, I'm happy to do so. If there is something we can't solve via email, we can visit in person or through a Google Hangout video chat.
-
-Additionally, I've set up several ways in which you can ask each other! Add it to the forum or put it in a blog post. Check the blogroll for how other students have completed work.
-
-Last, use the Googles! Seriously. Think about this when you are using technology... Technology was created by humans. Humans have questions. There's a 99.9999% chance your question has already been answered. If you can master Google, you will be a much more efficient problem solver.
-
-#### 4. Stay organized
-
-There are several places where you can find due dates. You'll find a calendar in several places on PRPubs.us as well as D2L. You're much more likely to stay on top of the workload if you know the schedule.
-
-#### 5. Get familiar with the course site
-
-It's important that you know the course site inside and out. Almost as important as fully understanding the syllabus! If you're this far down the page you're doing great! Keep reading!
-
-#### 6. Create your own classroom
-
-We don't have a dedicate physical place where this work is done. I suggest you create a false classroom for yourself. Tell yourself "Everything Monday and Wednesday, I'm going to go to the computer lab to do work" or to the library or the coffee. Or make your bedroom extra special. Take your favorite songs at the moment and put it on a Spotify playlist and tell yourself you can only listen to that playlist when you are working on PR Pubs.
-
-#### 7. Really OWN your learning
-
-This one is important throughout your entire collegiate experience, but you feel it a little more in online courses. This course will take a significant amount of self-discipline. This becomes easier when you accept full ownership of your learning. You'll get out of this, what you put into it. Decide now that you WANT to get a lot out of this course. If you own your learning experience, you'll enjoy the time you spend on this course.
-
-### What's a good blog post?
-
-There are several good ways to improve a blog post.
-
-#### 1. Always make sure you add context.
-
-Because blog posts are public, when writing your post you should assume that the reader has no idea what the purpose of your post is for. Therefore, always lead off your posts with some context. It can be brief! Here's an example:
-
-"In my PR Publications course, we are going to be designing a business card and letterhead for an organization of our choice. I chose Big Brothers/Big Sisters as I have volunteered with them since my freshman year. For this assignment, I'm analyzing the state of the current organization's resources, processes, and values overall."
-
-#### 2. Use first person.
-
-Unlike essays, this is your space. Own it.
-
-#### 3. Use images.
-
-Also unlike essays, you can make add images (both still and animated) to your post. Take advantage of this new medium! Some things are better said through images than they are words.
-
-#### 4. Use links.
-
-You can also link to other pages. Did you read an article that helped you work through an assignment? Link to it! Did a classmate post something that was highly interesting? Link to it! Are you referring to a previous post? Li... you get the picture!
-
-#### 5. Give a complete thought.
-
-Rather than focusing on a specific word count, you should focus on giving complete thoughts. Make sure your blog post has a beginning, middle, and end. I'll give you prompts throughout the semester that help you maintain this structure, but stick to it as much as you can.
-
-### How do I get ahold of you?
-
-I'm best reached via email. I do not hold regular office hours but am happy to meet either face-to-face or through a digital medium such as Skype or Google Hangout.
-
-### Where can I find stock images?
-* [Free Stock Images](http://www.freeimages.co)
-* [Stock Vault](http://www.stockvault.net)
-* [Stocksnap](https://stocksnap.io)
-* [Gratisography](http://gratisography.com)
-* [Unsplash](https://unsplash.com)
-* [Superfamous Images](http://images.superfamous.com)
-* [New Old Stock](http://nos.twnsnd.co)
-* [Magdeleine](http://magdeleine.co)
-* [Picography](http://picography.co)
-* [Isorepublic](http://isorepublic.com)
-
-### What are some tips for Lynda.com?
-
-Myself, sometimes I get confused with tutorial videos. I'll be moving back and forth through windows on my computer or the person doing the tutorial will simply be talking too fast for me to keep up. I want to give you some tips on how to best grasp these types of videos as I realize they can feel a smidge overwhelming the first time through.
-
-#### 1. Don't be a perfectionist.
-
-Again, remember... Right now it's about the process, not the product. I don't want you to get too bogged down if you can't get something down picture perfect right now. Don't spend endless hours trying to solve the tiniest thing. The point of the exercise right now is for you to make it through this and get a broad overview.
-
-#### 2. Take advantage of the video controls.
-
-Our man for these videos, Justin, is a pretty speedy talker. Luckily, for us, we can manipulate the video so that it actually plays slower (or faster if you would like). You'll see a playback speed controller near the play button at the bottom at each video.
-
-#### 3. Check out the transcript for terms that aren't familiar.
-
-Sometimes you'll hear someone say something that just doesn't sound quite right. Lynda.com provides a scrolling transcript with each video which can be very helpful when you get stuck.
-
-#### 4. Download the exercise files.
-
-Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, please let me know via email ASAP. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
-
-Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
