@@ -718,9 +718,43 @@ It is utmost importance that you save your work early and often. Save the file a
 
 Time to put all of your time from last weeks tutorials to work. Start by placing your logo and dropping in some of your important text.
 
-### 10. Post Your Draft
+### 10. Design your letterhead.
 
+For this assignment, you are being asked to design a business card and a paired letterhead. You want your letterhead to have a very similar look and feel to the brand design you create for the business card.
+
+In your letterhead's text, I want you to write a letter from someone at the company so that you can show what text looks like on the page. This could be a Letter from the CEO thanking a donor, an internal memo, etc. The letterhead to be 8.5 in. x 11 in. The number of columns, margins, and bleed is up to you. Below is a screenshot of a dialogue box and of my recommendation for how you should set it up:
+
+<a href="http://prpubs.us/wp-content/uploads/2015/02/letterhead.png"><img src="http://prpubs.us/wp-content/uploads/2015/02/letterhead.png" alt="letterhead" /></a>
+
+### 11. Write a reflection post.
 <div class="alert alert-warning" role="alert">Blog Post Required</div>
+
+I want you to reflect on the whole process of your first design project. You accomplished a lot! You've researched a company or organization that you chose, revised drafts, and gave/received feedback. Not bad, eh? I've included below some questions for reflection posts as well as some supplemental questions that you are more than welcome to answer:
+
+1. What were you asked to do?
+
+2. How did you respond to what you were asked to do?
+
+3. How did react to what you actually <em>did</em>?
+
+4. Now go one level deeper: Why do you think your reaction was what it was?
+
+Supplemental questions:
+<ul>
+	<li>Any long term goals for this design? Do you have any interest in actually pitching this to the organization?</li>
+	<li>Do you or do you not feel yourself becoming more confident with the tools you are being asked to used?</li>
+	<li>Is there anything you would do differently if you were to start over?</li>
+	<li>Do you have any recommendations for future students doing this project?</li>
+</ul>
+<strong>Tag your blog post "Reflection." Make sure you embed both of your final products!</strong>
+
+### 12. Take the quiz.
+
+The quiz is due Thursday, June 3, 2016.
+
+### 13. Turn in work to the Dropbox.
+
+The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the [Lynda videos](http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu).
 
 ## Week 4
 
