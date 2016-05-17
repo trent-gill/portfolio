@@ -221,79 +221,6 @@ I've written a [short answer in the FAQ](http://prpubs.github.io/summer16/#what-
 
 Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, <strong>please let me know via email ASAP</strong>. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
 
-### Adobe Photoshop
-
-<table class="table  table-striped">
-<thead>
-  <tr>
-  <th>Name</th>
-  <th>Video</th>
-  </tr>
-    <tbody>
-      <tr>
-      <td>Getting started with Photoshop</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </tr>
-      <tr>
-      <td>Making selections in Photoshop</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </tr>
-      <tr>
-      <td>Working with layer masks</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Challenge: Masking</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Solution: Masking</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Combining two images together</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Removing unwanted objects from photos</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Changing the color of photos</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Converting images to black and white</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Cropping images nondestructively</td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Saving your work for print
-      </td>
-      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
-      </td>
-      </tr>
-    </tbody>
-</thead>
-</table>
-
-Photoshop is probably the most famous graphic design application that was ever created.Everybody's heard of Photoshop. At it's core, Photoshop is an image manipulation and creation tool. It has a powerful feature set that makes creating and editing pixel-based graphics easier than ever. For this course, you'll get the most out of understanding how to leverage Photoshop to cutout photos, but understand that is a very, very powerful tool.
-
-To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos from "Introduction to Graphic Design" on Lynda.com and you will follow along with the corresponding exercise files. By the time you are done, you should have completely watching the following videos:
-
-
-
 <img class="wp-image-196 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/exfiles-1030x981.jpg" alt="exfiles" width="656" height="625" />
 
 Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
@@ -306,7 +233,76 @@ We will using the files inside of Chapter 06 and Chapter 07 for this week.
 
 I've provided a couple of screenshots above of what those files should look like. Yours should look the same if you are on a Mac. The files will work either way whether you are on a Windows or Mac computer.
 
+### Adobe Photoshop
 
+Photoshop is probably the most famous graphic design application that was ever created.Everybody's heard of Photoshop. At it's core, Photoshop is an image manipulation and creation tool. It has a powerful feature set that makes creating and editing pixel-based graphics easier than ever. For this course, you'll get the most out of understanding how to leverage Photoshop to cutout photos, but understand that is a very, very powerful tool.
+
+To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos from "Introduction to Graphic Design" on Lynda.com and you will follow along with the corresponding exercise files. By the time you are done, you should have completely watching the following videos:
+
+<table class="table  table-striped">
+<thead>
+  <tr>
+  <th>Name</th>
+  <th>Video</th>
+  </tr>
+    <tbody>
+      <tr>
+      <td>Getting started with Photoshop</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-Photoshop/161817/177358-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Making selections in Photoshop</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Making-selections-Photoshop/161817/177359-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Working with layer masks</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Working-layer-masks/161817/177360-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Challenge: Masking</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Challenge-Masking/161817/177361-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Solution: Masking</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Solution-Masking/161817/177362-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Combining two images together</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Combining-two-images-together/161817/177363-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Removing unwanted objects from photos</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Removing-unwanted-objects-from-photos/161817/177364-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Changing the color of photos</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Changing-color-photos/161817/177365-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Converting images to black and white</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Converting-images-black-white/161817/177366-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Cropping images nondestructively</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Saving your work for print
+      </td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+    </tbody>
+</thead>
+</table>
 
 
 
