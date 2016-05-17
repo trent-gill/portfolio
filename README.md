@@ -207,7 +207,7 @@ At the end of each unit you will take a quiz on D2L [learn.ou.edu](learn.ou.edu)
 
 ## Week 2
 
-### introduction
+### Introduction
 
 So this is where we start to familiarize with ourselves with the tools we will be using throughout this course. Your main two tools in your toolbox will be using Adobe Photoshop and Adobe InDesign. Now I want to stress that this course isn’t all about using Photoshop and InDesign. It’s really thinking about how we can critically express PR messages through a visual medium. What this means is I’m not going to be giving you lesson after lesson on Photoshop. Rather we’ll be applying the tools to solve problems and create new works. As I mentioned in Lesson 1.2, there is some fundamental knowledge that is worth going through.
 
@@ -223,7 +223,6 @@ Before you get started, the first thing you will want to do is download the Exer
 
 ### Adobe Photoshop
 
-<div class="col-sm-6">
 <table class="table  table-striped">
 <thead>
   <tr>
@@ -288,7 +287,6 @@ Before you get started, the first thing you will want to do is download the Exer
 
     </tbody>
 </thead>
-</div>
 
 Photoshop is probably the most famous graphic design application that was ever created.Everybody's heard of Photoshop. At it's core, Photoshop is an image manipulation and creation tool. It has a powerful feature set that makes creating and editing pixel-based graphics easier than ever. For this course, you'll get the most out of understanding how to leverage Photoshop to cutout photos, but understand that is a very, very powerful tool.
 
