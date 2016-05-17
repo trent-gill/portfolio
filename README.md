@@ -304,6 +304,88 @@ To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos fr
 </thead>
 </table>
 
+### Adobe InDesign
+
+InDesign is the page layout application that helps you aggregate the work that you've done in Photoshop and combine it with really amazing typographical tools to produce commercial print-ready files, interactive documents, and even tablet-based applications. I like to think of InDesign as sort of the steroid-infused cousin of Microsoft Word. InDesign lends itself really well to producing magazines, brochures, flyers, etc. Since this course focuses on PR Publications, specifically, we'll be spending a lot of time familiarizing ourselves with InDesign.
+
+To better understand Adobe InDesign, we'll be watching the Chapter 07 videos from "Introduction to Graphic Design" on Lynda.com and, similarly to what we did with the Adobe Photoshop tutorials, you will follow along with the corresponding exercise files. By the time you are done, you should have completely watching the following videos:
+
+<table class="table  table-striped">
+<thead>
+  <tr>
+  <th>Name</th>
+  <th>Video</th>
+  </tr>
+    <tbody>
+      <tr>
+      <td>Getting started with InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Creating a wireframe in InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </tr>
+      <tr>
+      <td>Importing graphics into InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Adjusting the fit of your graphics</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Creating master pages in InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Getting your color swatches into InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Importing text documents into InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Creating styles in InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Working with tabs</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Creating tables in InDesign</td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Adding the final touches to your design
+      </td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Creating PDFs in InDesign
+      </td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Packaging your work for print
+      </td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      </td>
+      </tr>
+    </tbody>
+</thead>
+</table>
 
 
 ## Week 3
