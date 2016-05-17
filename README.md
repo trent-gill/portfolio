@@ -324,7 +324,7 @@ I've written a [short answer in the FAQ](http://prpubs.github.io/summer16/#what-
 
 Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, <strong>please let me know via email ASAP</strong>. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
 
-<img class="wp-image-196 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/exfiles-1030x981.jpg" alt="exfiles" width="656" height="625" />
+![image](images/exfilesfolder-1030x612.png)
 
 Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
 
@@ -332,7 +332,7 @@ Once it's downloaded, unzip the file. You will notice that it contains folders w
 
 We will using the files inside of Chapter 06 and Chapter 07 for this week.
 
-<img class="wp-image-198 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/chapt6-1030x615.png" alt="chapt6" width="686" height="409" />
+![image](images/chapt6-1030x615.png)
 
 I've provided a couple of screenshots above of what those files should look like. Yours should look the same if you are on a Mac. The files will work either way whether you are on a Windows or Mac computer.
 
@@ -604,13 +604,12 @@ Once you have decided on an organization, you will need to locate their logo. If
 
 I want us to examine the Analysis-Synthesis Bridge model, which is a design methodology developed by Dubberly Design to communicate how their designers identity the organizations needs and move that into action to the final product. It consists of a 2x2 quadrant that looks like this:
 
-![Source: http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](images/1_analysis-synthesis.png)
-
-<a href="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png" alt="" /></a> <small>Source: [http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html)</small>
+![synthesis](images/1_analysis-synthesis.png)
+<small>Source: [http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html)</small>
 
 You'll notice that the process begins in the lower left quadrant where the designer states what we explicitly know about the organization. Moving to the upper lefthand quadrant, you begin to answer more abstract questions that aren't as concrete. As we move to the upper right hand corner, we start to interpret how we can leverage what we know to propel our design. The lower right hand quadrant is where the design begins to prototype the idea. Let's examine how we may use this for in researching for our PR Publications.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/pr_analysis-synthesis.jpg" alt="pr_analysis-synthesis" /></a>
+![image](images/pr_analysis-synthesis.jpg)
 
 ### 4. Analyzing your organization
 
@@ -618,7 +617,7 @@ You'll notice that the process begins in the lower left quadrant where the desig
 
 For this blog post we are going to focus on the majority of the questions on this post.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/leftside.jpg" alt="leftside" /></a>
+![image](images/leftside.jpg)
 
 Write a post that address the following questions:
 <ol>
@@ -632,26 +631,28 @@ Write a post that address the following questions:
 
 We are now focusing solely on the upper left hand corner quadrant.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/upperleft.jpg" alt="upperleft"  /></a>
+![image](images/upperleft.jpg)
 
 For this part of the lesson, we want to conduct a competitor analysis on an organization similar to our own. It's even better if they have a visual strategy that you admire.
 
 #### How to Create a Pinterest Board
 **1. Create a Pinterest Account at <a href="http://pinterest.com">pinterest.com</a>**
 **2. Create a Board**
-<a href="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/acroom-.jpg" alt="acroom-" /></a>
+![image](images/acroom-.jpg)
 
 When creating your board, give it a relevant name to the project such as "JMC 3433 - Competitor Analysis." Also be sure that it is a PUBLIC board as we will be posting links to this board on our blog.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-12.49.01-PM.png" alt="Screen Shot 2015-01-06 at 12.49.01 PM"/></a>
+![image](images/Screen-Shot-2015-01-06-at-12.49.01-PM.png)
+
 **3. Add a pin**
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png"><img c src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.25-PM.png" /></a>
+
+![image](images/Screen-Shot-2015-01-06-at-1.15.25-PM.png)
 
 Once the board is created, we want to create pins. You have the ability to either add images from the web or images from your computer.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.15.20-PM.png" /></a>
+![image](images/Screen-Shot-2015-01-06-at-1.15.20-PM.png)
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.17.00-PM.png"></a>
+![image](images/Screen-Shot-2015-01-06-at-1.17.00-PM.png)
 
 Once you have uploaded the image, pick the board you want the image to go in and add a short description about the image. It's helpful if the description is relevant to class!
 
@@ -675,7 +676,8 @@ Create a new blog post where you will:
 </li>
 	<li>Add a link to your Competitor Analysis Pinterest Board. You will find it in the address bar of your browser:</li>
 </ol>
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.12.58-PM.png"/></a>
+
+![image](images/Screen-Shot-2015-01-06-at-1.12.58-PM.png)
 
 <strong> Tag the blog post "Research."</strong>
 
@@ -685,7 +687,7 @@ Create a new blog post where you will:
 
 Moving on in our hike across the Analysis-Synthesis Bridge Model, we are going to now move to the upper right hand quadrant.
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg"><img src="http://prpubs.us/wp-content/uploads/2014/11/upperright.jpg" /></a>
+![image](images/upperleft.jpg)
 
 Create a new blog post. For this blog post, I want you to try to "destructure" what you know about writing so far. Have you taken off your super professional writer hat? Good. Now, put on your brainstorming hat. With this post, you have permission to be brief and sloppy! I want you to really ideate and write as many ideas down as you consider the following questions: What kind of visual language will you use? Will the visuals be type or image driven? What do the type and images need to mean? What connotations do they need to have? As you make your way these questions, begin to visualize your business card, what it looks like, and the message it sends when someone hands it out.
 
@@ -701,7 +703,7 @@ Once you have completed those, add the links to your Pinterest boards in your pr
 
 ### 9. Begin your design: Setup your InDesign document
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"/></a>
+![image](images/Screen-Shot-2015-01-06-at-10.11.19-PM.png)
 
 Your document will look like this:
 
@@ -724,7 +726,7 @@ For this assignment, you are being asked to design a business card and a paired 
 
 In your letterhead's text, I want you to write a letter from someone at the company so that you can show what text looks like on the page. This could be a Letter from the CEO thanking a donor, an internal memo, etc. The letterhead to be 8.5 in. x 11 in. The number of columns, margins, and bleed is up to you. Below is a screenshot of a dialogue box and of my recommendation for how you should set it up:
 
-<a href="http://prpubs.us/wp-content/uploads/2015/02/letterhead.png"><img src="http://prpubs.us/wp-content/uploads/2015/02/letterhead.png" alt="letterhead" /></a>
+![image](images/letterhead.png)
 
 ### 11. Write a reflection post
 <div class="alert alert-warning" role="alert">Blog Post Required</div>
