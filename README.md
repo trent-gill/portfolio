@@ -579,7 +579,6 @@ Week 3 begins our very first design project, which is to design a business card 
 </ul>
 As mentioned in Week 2, the way to be most effective with PR publications is to understand your public, so we are going to also walk through how to effectively complete design research.
 
-<div class="alert alert-info" role="alert">
 #### Some tips on business cards:
 <strong>1. Consider your essential text content.</strong>
 
@@ -592,7 +591,6 @@ If you can't read the text on a business card, it is essentially useless. Make s
 <strong>3. Keep your art simple.</strong>
 
 Remember, business cards are fairly small so detailed images won't be very legible. This isn't the type of piece for a photo collage. Stick with your company logo and your organizations primary colors.
-</div>
 
 ### 1. Pick an organization and locate their logo
 
@@ -605,6 +603,8 @@ Once you have decided on an organization, you will need to locate their logo. If
 ### 3. Research: The Analysis-Synthesis Bridge Model
 
 I want us to examine the Analysis-Synthesis Bridge model, which is a design methodology developed by Dubberly Design to communicate how their designers identity the organizations needs and move that into action to the final product. It consists of a 2x2 quadrant that looks like this:
+
+![Source: http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](/images/1_analysis-synthesis.png)
 
 <a href="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png" alt="" /></a> <small>Source: [http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html)</small>
 
@@ -699,7 +699,7 @@ Now that we are Pinterest pros, we are going to use the same technique to think 
 </ol>
 Once you have completed those, add the links to your Pinterest boards in your previous Communications Strategy post that you wrote or simply create a new post.
 
-### 9. Begin your design: Setup your InDesign document.
+### 9. Begin your design: Setup your InDesign document
 
 <a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.11.19-PM.png"/></a>
 
