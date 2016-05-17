@@ -207,7 +207,120 @@ At the end of each unit you will take a quiz on D2L [learn.ou.edu](learn.ou.edu)
 
 ## Week 2
 
-Coming Soon!
+### introduction
+
+So this is where we start to familiarize with ourselves with the tools we will be using throughout this course. Your main two tools in your toolbox will be using Adobe Photoshop and Adobe InDesign. Now I want to stress that this course isn’t all about using Photoshop and InDesign. It’s really thinking about how we can critically express PR messages through a visual medium. What this means is I’m not going to be giving you lesson after lesson on Photoshop. Rather we’ll be applying the tools to solve problems and create new works. As I mentioned in Lesson 1.2, there is some fundamental knowledge that is worth going through.
+
+For this week we are going to go through roughly two hours of tutorial videos on Lynda.com. The good news is that in several of these you will be following along with the tutorial leader (I believe his name is Justin) and will actually be doing several of the same things he is. If I was to give a recommendation on how to prepare for this, I would say break it up and allot yourself 90 minutes (minimum) for Photoshop and then come back later and doing 90 minutes (minimum) for InDesign.
+
+### Some Lynda.com tips
+
+I've written a [short answer in the FAQ](http://prpubs.github.io/summer16/#what-are-some-tips-for-lyndacom) that I would recommend reading before you get started with Lynda.com. Feel free to check that out.
+
+### Downloading the Lynda.com Exercise files
+
+Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, <strong>please let me know via email ASAP</strong>. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
+
+### Adobe Photoshop
+
+<title>Table</title>
+
+   <!-- Bootstrap Core CSS -->
+   <link href="css/bootstrap.min.css" rel="stylesheet">
+   <!-- Custom Fonts -->
+   <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+   <script src="js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<div class="col-sm-6">
+<table class="table  table-striped">
+<thead>
+  <tr>
+  <th>Name</th>
+  <th>Video</th>
+  </tr>
+    <tbody>
+      <tr>
+      <td>Getting started with Photoshop</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </tr>
+      <tr>
+      <td>Making selections in Photoshop</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </tr>
+      <tr>
+      <td>Working with layer masks</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Challenge: Masking</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Solution: Masking</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Combining two images together</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Removing unwanted objects from photos</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Changing the color of photos</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Converting images to black and white</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Cropping images nondestructively</td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+      <tr>
+      <td>Saving your work for print
+      </td>
+      <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
+      </td>
+      </tr>
+
+    </tbody>
+</thead>
+</div>
+
+Photoshop is probably the most famous graphic design application that was ever created.Everybody's heard of Photoshop. At it's core, Photoshop is an image manipulation and creation tool. It has a powerful feature set that makes creating and editing pixel-based graphics easier than ever. For this course, you'll get the most out of understanding how to leverage Photoshop to cutout photos, but understand that is a very, very powerful tool.
+
+To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos from "Introduction to Graphic Design" on Lynda.com and you will follow along with the corresponding exercise files. By the time you are done, you should have completely watching the following videos:
+
+
+
+<img class="wp-image-196 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/exfiles-1030x981.jpg" alt="exfiles" width="656" height="625" />
+
+Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
+
+<img class="wp-image-197 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/exfilesfolder-1030x612.png" alt="exfilesfolder" width="656" height="390" />
+
+We will using the files inside of Chapter 06 and Chapter 07 for this week.
+
+<img class="wp-image-198 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/chapt6-1030x615.png" alt="chapt6" width="686" height="409" />
+
+I've provided a couple of screenshots above of what those files should look like. Yours should look the same if you are on a Mac. The files will work either way whether you are on a Windows or Mac computer.
+
+
+
+
 
 ## Week 3
 
