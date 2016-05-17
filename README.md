@@ -284,9 +284,9 @@ Before you get started, the first thing you will want to do is download the Exer
       <td><a href="#" class="btn btn-primary btn-primary">Video</a></td>
       </td>
       </tr>
-
     </tbody>
 </thead>
+</table>
 
 Photoshop is probably the most famous graphic design application that was ever created.Everybody's heard of Photoshop. At it's core, Photoshop is an image manipulation and creation tool. It has a powerful feature set that makes creating and editing pixel-based graphics easier than ever. For this course, you'll get the most out of understanding how to leverage Photoshop to cutout photos, but understand that is a very, very powerful tool.
 
