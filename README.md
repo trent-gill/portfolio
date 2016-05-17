@@ -97,7 +97,7 @@ It's above. Please read through and make sure everything about the course is cle
 
 ### 2. Build your domain / blog
 
-For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use [Wordpress](https://wordpress.com/), [Blogger](https://www.blogger.com), [Tumblr](http://tumblr.com), or OU Create (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
+For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use [Wordpress](https://wordpress.com/), [Blogger](https://www.blogger.com), [Tumblr](http://tumblr.com), or [OU Create](http://create.ou.edu) (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
 
 ### 3. Submit your web address
 
