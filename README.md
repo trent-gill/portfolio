@@ -213,11 +213,11 @@ So this is where we start to familiarize with ourselves with the tools we will b
 
 For this week we are going to go through roughly two hours of tutorial videos on Lynda.com. The good news is that in several of these you will be following along with the tutorial leader (I believe his name is Justin) and will actually be doing several of the same things he is. If I was to give a recommendation on how to prepare for this, I would say break it up and allot yourself 90 minutes (minimum) for Photoshop and then come back later and doing 90 minutes (minimum) for InDesign.
 
-### Some Lynda.com tips
+**Some Lynda.com tips**
 
 I've written a [short answer in the FAQ](http://prpubs.github.io/summer16/#what-are-some-tips-for-lyndacom) that I would recommend reading before you get started with Lynda.com. Feel free to check that out.
 
-### Downloading the Lynda.com Exercise files
+**Downloading the Lynda.com Exercise files**
 
 Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, <strong>please let me know via email ASAP</strong>. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
 
@@ -233,7 +233,7 @@ We will using the files inside of Chapter 06 and Chapter 07 for this week.
 
 I've provided a couple of screenshots above of what those files should look like. Yours should look the same if you are on a Mac. The files will work either way whether you are on a Windows or Mac computer.
 
-### Adobe Photoshop
+### 1. Understanding Adobe Photoshop
 
 Photoshop is probably the most famous graphic design application that was ever created.Everybody's heard of Photoshop. At it's core, Photoshop is an image manipulation and creation tool. It has a powerful feature set that makes creating and editing pixel-based graphics easier than ever. For this course, you'll get the most out of understanding how to leverage Photoshop to cutout photos, but understand that is a very, very powerful tool.
 
@@ -242,8 +242,8 @@ To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos fr
 <table class="table  table-striped">
 <thead>
   <tr>
-  <th>Name</th>
-  <th>Video</th>
+  <th>Video Name</th>
+  <th>Video Link</th>
   </tr>
     <tbody>
       <tr>
@@ -304,7 +304,7 @@ To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos fr
 </thead>
 </table>
 
-### Adobe InDesign
+### 2. Understanding Adobe InDesign
 
 InDesign is the page layout application that helps you aggregate the work that you've done in Photoshop and combine it with really amazing typographical tools to produce commercial print-ready files, interactive documents, and even tablet-based applications. I like to think of InDesign as sort of the steroid-infused cousin of Microsoft Word. InDesign lends itself really well to producing magazines, brochures, flyers, etc. Since this course focuses on PR Publications, specifically, we'll be spending a lot of time familiarizing ourselves with InDesign.
 
@@ -313,8 +313,8 @@ To better understand Adobe InDesign, we'll be watching the Chapter 07 videos fro
 <table class="table  table-striped">
 <thead>
   <tr>
-  <th>Name</th>
-  <th>Video</th>
+  <th>Video Name</th>
+  <th>Video Link</th>
   </tr>
     <tbody>
       <tr>
@@ -387,6 +387,68 @@ To better understand Adobe InDesign, we'll be watching the Chapter 07 videos fro
 </thead>
 </table>
 
+### 3. Complete a Newspaper Markup
+
+
+Now that we know more about the tools we will be using, it will be helpful to also know the specific elements of a newsletter or newspaper. These are some key terms worth knowing:
+<ul>
+	<li>Masthead</li>
+	<li>Headlines</li>
+	<li>Deck</li>
+	<li>Subhead</li>
+	<li>Bylines</li>
+	<li>Body text</li>
+	<li>Photo cutline</li>
+	<li>Pull quote</li>
+	<li>Dividers</li>
+	<li>Jump Line</li>
+</ul>
+I go over these terms and show you where they correspond on the page in this video below:
+
+http://youtu.be/gdEgaOzrjLE
+
+This short assignment is to grab any newspaper and see if you can locate all of these elements. Take a photo of the marked up newspaper and submit it in a blog post. <strong>Give you blog post the tag "Newspaper Markup"</strong>. Here's an example of a front page that displays all the elements:
+
+<a href="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716.jpg"><img class="wp-image-216 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716-300x300.jpg" alt="IMG_8460" width="436" height="436" /></a>
+
+### 4. Practice with a Typesetting Assignment
+
+Final task for the lesson! We are going to perform a Typesetting assignment where you recreate only the textual portion of the front page of a newsletter. I've provided you with an InDesign document that is already pre-populated with the masthead, images, and logos. You're job is to place the following:
+<ul>
+	<li>Headlines</li>
+	<li>Subheads</li>
+	<li>Bylines</li>
+	<li>Body text</li>
+	<li>Photo cutlines</li>
+	<li>Pull quotes</li>
+	<li>Dividers</li>
+	<li>Jump Line</li>
+</ul>
+You can download the necessary files by clicking the big button below:
+
+<a href="https://www.dropbox.com/s/joufn2cy8o21sva/TypesettingAssignment.zip?dl=0" class="btn btn-primary btn-default">Assignment Files</a>
+
+If you need some extra guidance in how to lay text, refer back to the Typesetting video above.
+
+When you are complete, Export your InDesign document as a PDF and post a link to it on your blog. <strong>Tag your blog post "Typesetting Assignment"</strong>
+
+### Write a blog post reflecting on the week.
+
+Whew. You've made it! 'It's now time to write a post reflecting on what this week was like. Here's a template for a thorough blog post:
+
+1. What were you asked to do?
+
+2. How did you respond to what you were asked to do?
+
+3. How did react to what you actually <em>did</em>?
+
+4. Now go one level deeper: Why do you think your reaction was what it was?
+
+Feel free to include images in your post if they help you convey what you are trying to say. Then <strong>tag your blog post "Reflection</strong>."
+
+### Take the quiz.
+
+Once you've completed the assignments and activities above, you need to complete the quiz on D2L.
 
 ## Week 3
 
