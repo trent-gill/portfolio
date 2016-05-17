@@ -604,7 +604,7 @@ Once you have decided on an organization, you will need to locate their logo. If
 
 I want us to examine the Analysis-Synthesis Bridge model, which is a design methodology developed by Dubberly Design to communicate how their designers identity the organizations needs and move that into action to the final product. It consists of a 2x2 quadrant that looks like this:
 
-![Source: http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](/images/1_analysis-synthesis.png)
+![Source: http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](images/1_analysis-synthesis.png)
 
 <a href="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/1_analysis-synthesis.png" alt="" /></a> <small>Source: [http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html)</small>
 
