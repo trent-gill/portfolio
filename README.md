@@ -540,7 +540,7 @@ If you need some extra guidance in how to lay text, refer to the Typesetting vid
 
 When you are complete, Export your InDesign document as a PDF and post a link to it on your blog. <strong>Tag your blog post "Typesetting Assignment"</strong>
 
-### 5. Write a blog post reflecting on the week.
+### 5. Write a blog post reflecting on the week
 
 <div class="alert alert-warning" role="alert">Blog Post Required</div>
 
@@ -556,7 +556,7 @@ Whew. You've made it! 'It's now time to write a post reflecting on what this wee
 
 Feel free to include images in your post if they help you convey what you are trying to say. Then <strong>tag your blog post "Reflection</strong>."
 
-### 6. Take the quiz.
+### 6. Take the quiz
 
 Once you've completed the assignments and activities above, you need to complete the quiz on D2L.
 
@@ -579,7 +579,7 @@ Week 3 begins our very first design project, which is to design a business card 
 </ul>
 As mentioned in Week 2, the way to be most effective with PR publications is to understand your public, so we are going to also walk through how to effectively complete design research.
 
-<div class="alert alert-info" role="alert"
+<div class="alert alert-info" role="alert">
 #### Some tips on business cards:
 <strong>1. Consider your essential text content.</strong>
 
@@ -689,7 +689,7 @@ Moving on in our hike across the Analysis-Synthesis Bridge Model, we are going t
 
 Create a new blog post. For this blog post, I want you to try to "destructure" what you know about writing so far. Have you taken off your super professional writer hat? Good. Now, put on your brainstorming hat. With this post, you have permission to be brief and sloppy! I want you to really ideate and write as many ideas down as you consider the following questions: What kind of visual language will you use? Will the visuals be type or image driven? What do the type and images need to mean? What connotations do they need to have? As you make your way these questions, begin to visualize your business card, what it looks like, and the message it sends when someone hands it out.
 
-### 8. Visualizing Your Communications Strategy: Inspiration and Mood Boards
+### 8. Inspiration and Mood Boards
 
 
 Now that we are Pinterest pros, we are going to use the same technique to think about our own pieces. We are going to create two separate boards with different purposes:
@@ -718,7 +718,7 @@ It is utmost importance that you save your work early and often. Save the file a
 
 Time to put all of your time from last weeks tutorials to work. Start by placing your logo and dropping in some of your important text.
 
-### 10. Design your letterhead.
+### 10. Design your letterhead
 
 For this assignment, you are being asked to design a business card and a paired letterhead. You want your letterhead to have a very similar look and feel to the brand design you create for the business card.
 
@@ -726,7 +726,7 @@ In your letterhead's text, I want you to write a letter from someone at the comp
 
 <a href="http://prpubs.us/wp-content/uploads/2015/02/letterhead.png"><img src="http://prpubs.us/wp-content/uploads/2015/02/letterhead.png" alt="letterhead" /></a>
 
-### 11. Write a reflection post.
+### 11. Write a reflection post
 <div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 I want you to reflect on the whole process of your first design project. You accomplished a lot! You've researched a company or organization that you chose, revised drafts, and gave/received feedback. Not bad, eh? I've included below some questions for reflection posts as well as some supplemental questions that you are more than welcome to answer:
@@ -748,13 +748,13 @@ Supplemental questions:
 </ul>
 <strong>Tag your blog post "Reflection." Make sure you embed both of your final products!</strong>
 
-### 12. Take the quiz.
+### 12. Take the quiz
 
 The quiz is due Thursday, June 3, 2016.
 
-### 13. Turn in work to the Dropbox.
+### 13. Turn in work to the Dropbox
 
-The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the [Lynda videos](http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu).
+The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the [Lynda video on creating PDFs](http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu).
 
 ## Week 4
 
