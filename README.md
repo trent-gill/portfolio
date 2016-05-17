@@ -85,7 +85,7 @@ This will be a place you visit quite often. As you and your fellow students blog
 
 ## Week 1
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 19, 2016</div>
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 19, 2016 at noon</div>
 
 ### Introduction
 
@@ -206,6 +206,8 @@ Instructions (from the website): Your mission is simple: achieve pleasant and re
 At the end of each unit you will take a quiz on D2L [learn.ou.edu](learn.ou.edu) that is worth a total of 20 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently. When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
 
 ## Week 2
+
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, May 26, 2016 at noon</div>
 
 ### Introduction
 
@@ -389,6 +391,7 @@ To better understand Adobe InDesign, we'll be watching the Chapter 07 videos fro
 
 ### 3. Complete a Newspaper Markup
 
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 Now that we know more about the tools we will be using, it will be helpful to also know the specific elements of a newsletter or newspaper. These are some key terms worth knowing:
 <ul>
@@ -405,13 +408,15 @@ Now that we know more about the tools we will be using, it will be helpful to al
 </ul>
 I go over these terms and show you where they correspond on the page in this video below:
 
-http://youtu.be/gdEgaOzrjLE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gdEgaOzrjLE" frameborder="0" allowfullscreen></iframe>
 
 This short assignment is to grab any newspaper and see if you can locate all of these elements. Take a photo of the marked up newspaper and submit it in a blog post. <strong>Give you blog post the tag "Newspaper Markup"</strong>. Here's an example of a front page that displays all the elements:
 
 <a href="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716.jpg"><img class="wp-image-216 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716-300x300.jpg" alt="IMG_8460" width="436" height="436" /></a>
 
 ### 4. Practice with a Typesetting Assignment
+
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 Final task for the lesson! We are going to perform a Typesetting assignment where you recreate only the textual portion of the front page of a newsletter. I've provided you with an InDesign document that is already pre-populated with the masthead, images, and logos. You're job is to place the following:
 <ul>
@@ -428,11 +433,15 @@ You can download the necessary files by clicking the big button below:
 
 <a href="https://www.dropbox.com/s/joufn2cy8o21sva/TypesettingAssignment.zip?dl=0" class="btn btn-primary btn-default">Assignment Files</a>
 
-If you need some extra guidance in how to lay text, refer back to the Typesetting video above.
+<iframe width="420" height="315" src="https://www.youtube.com/embed/tnALQTucEzU" frameborder="0" allowfullscreen></iframe>
+
+If you need some extra guidance in how to lay text, refer to the Typesetting video above.
 
 When you are complete, Export your InDesign document as a PDF and post a link to it on your blog. <strong>Tag your blog post "Typesetting Assignment"</strong>
 
-### Write a blog post reflecting on the week.
+### 5. Write a blog post reflecting on the week.
+
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 Whew. You've made it! 'It's now time to write a post reflecting on what this week was like. Here's a template for a thorough blog post:
 
@@ -446,7 +455,7 @@ Whew. You've made it! 'It's now time to write a post reflecting on what this wee
 
 Feel free to include images in your post if they help you convey what you are trying to say. Then <strong>tag your blog post "Reflection</strong>."
 
-### Take the quiz.
+### 6. Take the quiz.
 
 Once you've completed the assignments and activities above, you need to complete the quiz on D2L.
 
