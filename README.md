@@ -12,7 +12,7 @@ Adam Croom<br>
 **Location**: Old Science Hall, Room 224<br>
 **Phone**: (405) 325-2960<br>
 **E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**: [@acroom](http://twitter.com/acroom)<br>
+**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 
 ## Syllabus
@@ -40,7 +40,7 @@ This course strives to train students to recognize and apply good publication de
 
 This course has a mix of Design projects assignments and weekly assignments. Weekly assignments will included course readings, watching tutorial videos, writing blog posts, and comment on other student's blogs. There will be eight (8) quizzes throughout the summer semester and they are worth 20 points. This one is fairly straight forward: you do what is asked and you will complete an online quiz about those assignments. You will self assess how much of the work you did each week through the unit quiz.
 
-There will be four projects throughout the summer semester and they are worth 60 points per project. I grade these against a rubric, which you will get at the beginning of each assignment ([click here to view a sample rubric](https://www.dropbox.com/s/9ge5xskau54ryb5/rubricsample.pdf?dl=0)). Assignments are expected to be turned in on time. Quizzes are due on Thursdays at noon. I do give a 24-hour grace period for all assignments and will accept work until the following day at noon. Absolutely no assignment will be accepted later than the 24-hour grace period. This is an online class meaning that you have an incredible luxury of being able to work ahead in a lot of cases. My suggestion is to completely take advantage of this and stay ahead of the course schedule. You'll thank me when finals roll around and you've got this class out of the way!
+There will be four projects throughout the summer semester and they are worth 60 points per project. I grade these against a rubric, which you will get at the beginning of each assignment <a href="https://www.dropbox.com/s/9ge5xskau54ryb5/rubricsample.pdf?dl=0" target="_blank">click here to view a sample rubric</a>. Assignments are expected to be turned in on time. Quizzes are due on Thursdays at noon. I do give a 24-hour grace period for all assignments and will accept work until the following day at noon. Absolutely no assignment will be accepted later than the 24-hour grace period. This is an online class meaning that you have an incredible luxury of being able to work ahead in a lot of cases. My suggestion is to completely take advantage of this and stay ahead of the course schedule. You'll thank me when finals roll around and you've got this class out of the way!
 
 ### Grade Mix
 
@@ -63,7 +63,7 @@ A: 450 - 500 points B: 400 - 449 points C: 350 - 399 points D: 300 - 349 point
 *   **Blog** - As mentioned earlier, one of your assignments will be building and maintaining a personal blog with the platform of your choice. There's more information about how to technically set this up in Week 1.
 *   **Course Website** - If you are reading this, you're on the course website! Hooray. Here is where you'll find the majority of course content. Each week has a corresponding module which will tell you what you are expected to do that week. That may include watching videos, reading material, working on a project, a Google Hangout, etc.
 *   **Course Hub** - These are where you'll be able to see all the different blog posts from all your peers. This will be helpful in seeing what everyone else is up to. You'll be asked periodically throughout the semester to comment on various posts from other students.
-*   **Software** - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are [currently available for $19.99](http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s) as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
+*   **Software** - This course heavily relies on two specific programs for most of the design work you will be doing: Adobe Photoshop and Adobe InDesign. These apps (plus tons of other nice products from Adobe) are <a href="http://www.adobe.com/creativecloud/buy/students.html?sdid=KKTHX&skwcid=AL!3085!3!57438613702!b!!g!!student%20creative%20cloud%20discount&ef_id=U9qj9AAAAPwLracF:20141203035138:s" target="_blank">currently available for $19.99</a> as a product called Creative Cloud Complete. My suggestion is that use this service for the semester. While that is not cheap, it's small price to pay have resume line items such as "Adobe Photoshop." That said, I understand that may be out of reach for some. For those close to campus, one option is to utilize the computers in the Gaylord computer labs as they have fully up-to-date versions of both these programs (**Note: If you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure you always carry a flash drive or external hard drive with you!**). For others who don't have the luxury of visiting campus and still don't want to splurge on  Adobe Photoshop, graphic design concepts are completely transferable to other (sometimes free) applications. There are even some great options now that are web or tablet based. I've created a page for free alternatives to both of these programs. You can use these, but please proceed with caution knowing that my knowledge is significantly limited to what these programs offer.
 
 ### Gaylord Computer Lab
 
@@ -144,16 +144,16 @@ Rather than focusing on a specific word count, you should focus on giving comple
 I'm best reached via email. I do not hold regular office hours but am happy to meet either face-to-face or through a digital medium such as Skype or Google Hangout.
 
 ### Where can I find stock images?
-* [Free Stock Images](http://www.freeimages.co)
-* [Stock Vault](http://www.stockvault.net)
-* [Stocksnap](https://stocksnap.io)
-* [Gratisography](http://gratisography.com)
-* [Unsplash](https://unsplash.com)
-* [Superfamous Images](http://images.superfamous.com)
-* [New Old Stock](http://nos.twnsnd.co)
-* [Magdeleine](http://magdeleine.co)
-* [Picography](http://picography.co)
-* [Isorepublic](http://isorepublic.com)
+* <a href="http://www.freeimages.co" target="_blank">Free Stock Images</a>
+* <a href="http://www.stockvault.net" target="_blank">Stock Vault</a>
+* <a href="https://stocksnap.io)" target="_blank">Stocksnap</a>
+* <a href="http://gratisography.com" target="_blank">Gratisography</a>
+* <a href="https://unsplash.com" target="_blank">Unsplash</a>
+* <a href="http://images.superfamous.com" target="_blank">Superfamous Images</a>
+* <a href="http://nos.twnsnd.co" target="_blank">New Old Stock</a>
+* <a href="http://magdeleine.co" target="_blank">Magdeleine</a>
+* <a href="http://picography.co" target="_blank">Picography</a>
+* <a href="http://isorepublic.com" target="_blank">Isorepublic</a>
 
 ### What are some tips for Lynda.com?
 
@@ -198,7 +198,7 @@ It's above. Please read through and make sure everything about the course is cle
 
 ### 2. Build your domain / blog
 
-For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use [Wordpress](https://wordpress.com/), [Blogger](https://www.blogger.com), [Tumblr](http://tumblr.com), or [OU Create](http://create.ou.edu) (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
+For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use <a href="https://wordpress.com" target="_blank">Wordpress</a>,(<a href="https://www.blogger.com" target="_blank">Blogger</a>, <a href="http://tumblr.com" target="_blank">Tumblr</a>, or <a href="http://create.ou.edu" target=_blank>OU Create</a> (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
 
 ### 3. Submit your web address
 
@@ -254,11 +254,11 @@ PR Publications work best when you narrow your public. Know everything you can a
 
  <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/key/4zqb4t91QPhDPe" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-[What makes design great?](http://www.lynda.com/course/sharerevideodirect/161817/177322?org=ou.edu)
+<a href="http://www.lynda.com/course/sharerevideodirect/161817/177322?org=ou.edu" target="_blank">What makes design great?</a>
 
 Please watch the Lynda.com video If you aren't familiar with Lynda.com, it's a service that is newly available for free to the OU community (usually $30 a month!). Lynda.com specializes in a lot of technical tutorials and you can learn everything from Photoshop to programming languages like Ruby on Rails. We won't use it a ton, but more as a starting point of references. Of course, you are more than welcome to watch more videos through the course as you see fit.
 
-[Ira Glass on Being Creative](https://www.youtube.com/watch?v=3ResTHKVxf4&feature=youtu.be)
+<a href="https://www.youtube.com/watch?v=3ResTHKVxf4&feature=youtu.be" target="_blank">Ira Glass on Being Creative</a>
 
 Last, you'll find a video from Ira Glass, the host of This American Life. Before we get going too far, I think it's helpful to take a step back and breath again. Remember that creativity and design can be a little hard to grasp at first particularly because your taste is much more refined than your technique. Don't worry about too much about your "products" right now and let's focus on the "process." It's about the _process,_ not the _product_. It's about the _process_, not the _product_. This will slightly change throughout the semester, but, for now, let this be your mantra!
 
@@ -287,24 +287,24 @@ After reading and reviewing the slides, you should be able to provide a basic ex
 
 Typography is a CRITICAL part of how we tell stories. To practice some of our typography skillz (with a emphasized Z!) we are going to play some typography games. For this assignment, you are to choose three of these font games and play them for a little bit. **Write a short blog post about this experience (don't be afraid to include screenshots!). Tag your blog post "Typography."** Of course, you are more than welcome to play all of them if you want.
 
-1. [Shoot the serif.](http://www.tothepoint.co.uk/more/fun/shoot_the_serif/)
+1. <a href="http://www.tothepoint.co.uk/more/fun/shoot_the_serif/" target="_blank">Shoot the serif</a>
 This is one of my favorites and if I was to say choose one it would be this one. It helps you practice identifying serif vs sans serif fonts.
 
-2. [Type Connection](http://www.typeconnection.com)
+2. <a href="http://www.typeconnection.com" target="_blank">Type Connection</a>
 In this game, you'll choose a font as a main character, give them a story, and then find them a partner or love interest. This is a great game for understanding how fonts can take on certain personality types that you can leverage. Have you ever thought a font looked girly? Or formal? Or hipster? How can you take advantage of that if your brand appeals to audiences with similar characteristics?
 
-3. [Poster Letters](http://www.empireonline.com/features/posterletters/)
+3. <a href="http://www.empireonline.com/features/posterletters/" target="_blank">Poster Letters</a>
 This is a fun game where you try to guess a movie based off of one letter from the movie title as it appears on its poster. I'll be honest. When I played this game, I expected to do better than I actually did. Bragging rights for the person who gets the most right on this one.
 
-4. [Type War](http://typewar.com)
+4. <a href="http://typewar.com" target="_blank">Type War</a>
 This is a sort of "this or that" game where you look at a letter and decide what font it is. Want to know how to beat this game? Cheat. I'm dead serious. I think this one worth knowing enough that I would actually recommend you open up a word processing application such as Microsoft Word and literally figure it out before you answer. You'll still learn the different looks of fonts and it will get you a little further. If you can make it through all 10 levels of this game and send me a screenshot, I'll throw in some extra points this week.
 
-5. [Kern Type](http://type.method.ac)
+5. >a href="http://type.method.ac" target="_blank">Kern Type</a>
 Instructions (from the website): Your mission is simple: achieve pleasant and readable text by distributing the space between letters. Typographers call this activity _kerning_. Your solution will be compared to a typographer's solution, and you will be given a score depending on how close you nailed it. Good luck!
 
 ### 10. Finally, take the quiz!
 
-At the end of each unit you will take a quiz on D2L [learn.ou.edu](learn.ou.edu) that is worth a total of 20 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently. When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the **[OU Guide to Academic Integrity](http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations).**
+At the end of each unit you will take a quiz on D2L <a href="learn.ou.edu" target="_blank">learn.ou.edu</a> that is worth a total of 20 points. These exist as a mechanism for you to confirm that you have indeed completed each unit. It isn't actually a "quiz" in the traditional sense of the term. Rather, it's where you tell me that you have indeed completed each portion of the lesson by marking "True" (meaning you did it) or "False" (meaning that you did not do it). Please note: This class, like all the classes at OU, is governed by an Honor Code, which means you must be honest and accurate in the work you do. So, to make sure you are being honest and accurate, read each question differently. When you answer "true," you are taking responsibility for that answer. Wrongly saying you did it, when you indeed did not do it, is a violation of the Honor Code, subject to penalties listed in the <strong><a href="http://onlinecourselady.pbworks.com/w/page/83632159/honorcodeviolations" target="_blank">OU Guide to Academic Integrity</a></strong>.
 
 ## Week 2
 
@@ -318,7 +318,7 @@ For this week we are going to go through roughly two hours of tutorial videos on
 
 **Some Lynda.com tips**
 
-I've written a [short answer in the FAQ](http://prpubs.github.io/summer16/#what-are-some-tips-for-lyndacom) that I would recommend reading before you get started with Lynda.com. Feel free to check that out.
+I've written a <a href="#what-are-some-tips-for-lyndacom">short answer in the FAQ</a> that I would recommend reading before you get started with Lynda.com. Feel free to check that out.
 
 **Downloading the Lynda.com Exercise files**
 
@@ -603,7 +603,7 @@ Once you have decided on an organization, you will need to locate their logo. If
 I want us to examine the Analysis-Synthesis Bridge model, which is a design methodology developed by Dubberly Design to communicate how their designers identity the organizations needs and move that into action to the final product. It consists of a 2x2 quadrant that looks like this:
 
 ![synthesis](images/1_analysis-synthesis.png)
-<small>Source: [http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html](http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html)</small>
+<small>Source: <a href="http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html" target="_blank">http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html</a></small>
 
 You'll notice that the process begins in the lower left quadrant where the designer states what we explicitly know about the organization. Moving to the upper lefthand quadrant, you begin to answer more abstract questions that aren't as concrete. As we move to the upper right hand corner, we start to interpret how we can leverage what we know to propel our design. The lower right hand quadrant is where the design begins to prototype the idea. Let's examine how we may use this for in researching for our PR Publications.
 
@@ -754,7 +754,7 @@ The quiz is due Thursday, June 3, 2016.
 
 ### 13. Turn in work to the Dropbox
 
-The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the [Lynda video on creating PDFs](http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu).
+The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
 
 ## Week 4
 
