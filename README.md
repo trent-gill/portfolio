@@ -12,7 +12,7 @@ Adam Croom<br>
 **Location**: Old Science Hall, Room 224<br>
 **Phone**: (405) 325-2960<br>
 **E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a>
+**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a><br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 
 ## Syllabus
@@ -198,7 +198,7 @@ It's above. Please read through and make sure everything about the course is cle
 
 ### 2. Build your domain / blog
 
-For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use <a href="https://wordpress.com" target="_blank">Wordpress</a>,(<a href="https://www.blogger.com" target="_blank">Blogger</a>, <a href="http://tumblr.com" target="_blank">Tumblr</a>, or <a href="http://create.ou.edu" target=_blank>OU Create</a> (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
+For this class you are required to maintain a domain and blog, which will become a portfolio by the end of the semester. You can use <a href="https://wordpress.com" target="_blank">Wordpress</a>, <a href="https://www.blogger.com" target="_blank">Blogger</a>, <a href="http://tumblr.com" target="_blank">Tumblr</a>, or <a href="http://create.ou.edu" target="_blank">OU Create</a> (where you could install Wordpress). This choice is totally up to you although there is on campus support for OU Create. Use something you are comfortable with or have a desire to better understand.
 
 ### 3. Submit your web address
 
@@ -299,7 +299,7 @@ This is a fun game where you try to guess a movie based off of one letter from t
 4. <a href="http://typewar.com" target="_blank">Type War</a>
 This is a sort of "this or that" game where you look at a letter and decide what font it is. Want to know how to beat this game? Cheat. I'm dead serious. I think this one worth knowing enough that I would actually recommend you open up a word processing application such as Microsoft Word and literally figure it out before you answer. You'll still learn the different looks of fonts and it will get you a little further. If you can make it through all 10 levels of this game and send me a screenshot, I'll throw in some extra points this week.
 
-5. >a href="http://type.method.ac" target="_blank">Kern Type</a>
+5. <a href="http://type.method.ac" target="_blank">Kern Type</a>
 Instructions (from the website): Your mission is simple: achieve pleasant and readable text by distributing the space between letters. Typographers call this activity _kerning_. Your solution will be compared to a typographer's solution, and you will be given a score depending on how close you nailed it. Good luck!
 
 ### 10. Finally, take the quiz!
