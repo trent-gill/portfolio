@@ -180,7 +180,7 @@ Once it's downloaded, unzip the file. You will notice that it contains folders w
 
 ## Course Blogs
 
-<a href="https://prpubs.us/summer16/" class="btn btn-primary btn-primary">View the Blogs</a>
+<a href="https://prpubs.us/summer16/" class="btn btn-primary btn-primary" target="_blank">View the Blogs</a>
 
 This will be a place you visit quite often. As you and your fellow students blog about your work, it will get aggregated here, allowing you to see everyone's work. Where most courses are different, in that you work in individual silos, you'll be encouraged in this course to actually learn from each other and not just from me. Given that this course is ultimately based in creativity, this will allow you the opportunity to see how other students have interpreted and reflected the course assignments.
 
@@ -324,11 +324,9 @@ I've written a [short answer in the FAQ](http://prpubs.github.io/summer16/#what-
 
 Before you get started, the first thing you will want to do is download the Exercise Files for this Lynda.com lesson. You'll see a download button write above the video. Note: This particular file is 621.28 MB (BIG!). Keep this in mind when you are ready to get start that it may take a few minutes for that to download based on your internet speed. If you are having issues getting the file, <strong>please let me know via email ASAP</strong>. I'm also going to add a friendly reminder that if you are going to use the computer lab, remember that the computer wipes your files every time you log out. Make sure that you always carry a flash drive or external hard drive with you!
 
-![image](images/exfilesfolder-1030x612.png)
-
 Once it's downloaded, unzip the file. You will notice that it contains folders which correspond with specific "chapters."
 
-<img class="wp-image-197 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/exfilesfolder-1030x612.png" alt="exfilesfolder" width="656" height="390" />
+![image](images/exfilesfolder-1030x612.png)
 
 We will using the files inside of Chapter 06 and Chapter 07 for this week.
 
@@ -513,7 +511,7 @@ I go over these terms and show you where they correspond on the page in this vid
 
 This short assignment is to grab any newspaper and see if you can locate all of these elements. Take a photo of the marked up newspaper and submit it in a blog post. <strong>Give you blog post the tag "Newspaper Markup"</strong>. Here's an example of a front page that displays all the elements:
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716.jpg"><img class="wp-image-216 aligncenter" src="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716-300x300.jpg" alt="IMG_8460" width="436" height="436" /></a>
+<a href="https://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716.jpg" target="_blank"><img class="wp-image-216 aligncenter" src="https://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716-300x300.jpg" alt="IMG_8460" width="436" height="436" /></a>
 
 ### 4. Practice with a Typesetting Assignment
 
@@ -532,7 +530,7 @@ Final task for the lesson! We are going to perform a Typesetting assignment whe
 </ul>
 You can download the necessary files by clicking the big button below:
 
-<a href="https://www.dropbox.com/s/joufn2cy8o21sva/TypesettingAssignment.zip?dl=0" class="btn btn-primary btn-default">Assignment Files</a>
+<a href="https://www.dropbox.com/s/joufn2cy8o21sva/TypesettingAssignment.zip?dl=0" class="btn btn-primary btn-default" target="_blank">Assignment Files</a>
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/tnALQTucEzU" frameborder="0" allowfullscreen></iframe>
 
@@ -636,7 +634,7 @@ We are now focusing solely on the upper left hand corner quadrant.
 For this part of the lesson, we want to conduct a competitor analysis on an organization similar to our own. It's even better if they have a visual strategy that you admire.
 
 #### How to Create a Pinterest Board
-**1. Create a Pinterest Account at <a href="http://pinterest.com">pinterest.com</a>**
+**1. Create a Pinterest Account at <a href="http://pinterest.com" target="_blank">pinterest.com</a>**
 **2. Create a Board**
 ![image](images/acroom-.jpg)
 
@@ -656,11 +654,11 @@ Once the board is created, we want to create pins. You have the ability to eithe
 
 Once you have uploaded the image, pick the board you want the image to go in and add a short description about the image. It's helpful if the description is relevant to class!
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"><img  src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"></a>
+<a href="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png" target="_blank"><img  src="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.18.05-PM.png"></a>
 
 Your final Pinterest board should look something like this:
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"><img  src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"  /></a>
+<a href="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png" target="_blank"><img  src="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-1.24.32-PM.png"  /></a>
 
 ### 6. Competitor Analysis: Blog Post
 
@@ -707,7 +705,7 @@ Once you have completed those, add the links to your Pinterest boards in your pr
 
 Your document will look like this:
 
-<a href="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM.png"><img src="http://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM-1030x644.png" alt="Screen Shot 2015-01-06 at 10.18.49 PM"/></a>
+<a href="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM.png" target="_blank"><img src="https://prpubs.us/wp-content/uploads/2014/11/Screen-Shot-2015-01-06-at-10.18.49-PM-1030x644.png" alt="Screen Shot 2015-01-06 at 10.18.49 PM"/></a>
 
 
 The black border is where the business card would be cut if it is sent to the printer. The red indicates that we have set up a .25" bleed. Make sure to extend your background color to the red. The pink/purple box are our margins. Keep all important information (logo, text) within this space for safety!
