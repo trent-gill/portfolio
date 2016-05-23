@@ -758,7 +758,151 @@ The submission needs to be turned in by Thursday, June 3, 2016. You will need to
 
 ## Week 4
 
-Coming Soon!
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 2, 2016 at noon</div>
+
+### Introduction
+
+<strong>For this next design project, you are only allowed to use Adobe Photoshop</strong>. Since we've spent a fair amount of time bonding with InDesign, Photoshop has felt a little lonesome. It's time to give PS some love.
+
+With this lesson brings Design Project #2, where you will designing two direct mailers for two separate separate stakeholders. <strong>Design Project #2 is due March 30, 2016</strong>. Deliverables for Design Project #2 are as followed:
+<ul>
+	<li>One completed segmentation matrix</li>
+	<li>Two separate mailers turned in as JPGs (front and back for both)</li>
+</ul>
+
+We will be analyzing these two separate stakeholders through completing a segmentation matrix.  Similar to the first project, an excellent final product will be one where you can demonstrate proficiency in creating the full print product, where the design clearly ties to the stakeholder, it's not cluttered, it has excellent readability, and where you have effective use of contrast, proximity, alignment &amp; repetition. <strong>Make sure your direct mailer also has a clear call to action for the recipient</strong>. To get clear information on how this assignment will be graded, you'll find a grading rubric attached to the right.
+
+Through the segmentation matrix, you will want to demonstrate clear knowledge of how to prioritize stakeholders by attributes, situation, and communication strategy. Additionally it needs to demonstrate clear knowledge of stakeholder by generation, life stage, social class, lifestyle, gender, and race/nationality. The document must be typed.
+
+### 1. Understand the client and assignment
+
+The client who you will be designing for is OU Recruitment Services. OU Recruitment Services strives to recruit highly qualified direct from high school and transfer students to the University of Oklahoma. Recruitment Services mission is to provide services that will help any student find post-secondary educational opportunities.  These services include, but are not limited to, helping prospective students make educated decisions through the admission, housing, scholarship, and financial aid processes.
+
+Your objective is to create two direct mailers for OU Recruitment Services that are directed at two different stakeholders. Knowing that OU Recruitment Services aim is to recruit new students, you'll want to be thinking about who are stakeholders that could influence a decision like that?
+
+As mentioned above, every direct mailer needs a specific call to action. The call to action is up to you, and should be based upon the knowledge you gather about your stakeholder.
+
+### 2. Understanding publics and stakeholders
+
+One of the most important steps in strategic and effective public relations is accurately identifying the publics with which you want to build mutually beneficial relationships. A popular axiom for public relations is that there is no such thing as a “general public.” In other words, an organization has a variety of key groups who bring different expectations for their relationship with the organization. These differences help an organization segment its publics into groups with similar values and expectations and to focus communication strategies.
+
+Attached, you'll find a short chapter you need to read that is titled "Identifying Stakeholders and Prioritizing Stakeholders and Publics." This is going to be critical information that is required for completing your segmentation matrix. You can prioritize them three different ways:
+<h2>By Attributes</h2>
+<ul>
+	<li><strong>Definitive Stakeholders</strong> - An expectant stakeholder who gains the relevant missing attribute. Often dominant stakeholders with an urgent issue, or dependent groups with powerful legal support. Finally those classed as dangerous could gain legitimacy e.g. democratic legitimacy achieved by a nationalist party.</li>
+	<li><strong>Dominant Stakeholders</strong> - The group that many theories position as the only stakeholders of an organisation or project. Likely to have a formal mechanism in place acknowledging the relationship with the organisation or project e.g. Boards of directors, HR department, public relations.</li>
+	<li><strong>Dependent Stakeholders</strong> – Stakeholders who are dependent on others to carry out their will, because they lack the power to enforce their stake. For example local residents &amp; animals impacted by the BP oil spill. Advocacy of their interests by dominant stakeholders can make them definitive stakeholders.</li>
+	<li><strong>Dangerous Stakeholders</strong> – Those with powerful and urgent claims will be coercive and possibly violent. For example employee sabotage or coercive/unlawful tactics used by activists. Note that Mitchell et al. identify these stakeholders, but don't require them to be acknowledged &amp; thus awarded legitimacy (ibid, p.878).</li>
+	<li><strong>Dormant Stakeholders</strong> - Possess power to impose their will through coercive, utilitarian or symbolic means, but have little or no interaction /involvement as they lack legitimacy or urgency.
+<strong>Discretionary Stakeholders</strong> - Likely to recipients of corporate philanthropy. No pressure on managers to engage with this group, but they may choose to do so. Examples are beneficiaries of charity.
+<strong>Demanding Stakeholders</strong> - Those with urgent claims, but no legitimacy or power. Irritants for management, but not worth considering. Examples are people with unjustified grudges, serial complainers or low return customers.</li>
+</ul>
+http://www.stakeholdermap.com/stakeholder-analysis/stakeholder-salience.html
+<h2>By Situation</h2>
+<ul>
+	<li><strong>Active publics</strong>. This group is highly involved and actively seek information and act on that information.</li>
+	<li><strong>Aware publics.</strong> This group will process information and might act, but are limited by lower levels of involvement and problem recognition, or higher levels of constraint recognition</li>
+	<li><strong>Aroused publics.</strong> This group has low levels of knowledge, but recognize a potential problem or issue. As their level of involvement is heightened, and they are more likely to begin seeking information.</li>
+	<li><strong>Inactive publics. </strong>Inactive as groups of individuals with low levels of knowledge and involvement regarding an organization and its operation</li>
+</ul>
+<h2>By Communication Strategy</h2>
+<ul>
+	<li><strong><span class="margin_term"><a class="glossterm">Advocate stakeholders</a></span>.</strong> This is the group that you want involved in supportive actions such as third-party endorsements, letter-writing campaigns, donations, investments, and attendance at functions. Communication should be action and behavior oriented.</li>
+	<li><strong><span class="margin_term"><a class="glossterm">Dormant stakeholders</a></span></strong>. This is a group that is not ready to be involved. If inactivity is due to lack of knowledge, messages should focus on creating awareness and understanding of the issues that affect them. If the publics are aroused, but not active, then communication should address potential causes of apathy by reducing perceptions of constraints or using affective cues to increase emotional attachment.</li>
+	<li><strong><span class="margin_term"><a class="glossterm">Adversarial stakeholders</a></span></strong>. The initial response to this group is to be defensive. However, defensive communication will not work on this group, it will only entrench them in their position. Defensive communication is better intended for aroused publics who have not decided whether they are supportive or not. Instead, organizations should use conflict resolution strategies that involve nonsupportive stakeholders to seek win-win solutions.</li>
+	<li><strong><span class="margin_term"><a class="glossterm">Apathetic stakeholders</a></span></strong>. Again, the gut reaction to this group is to ignore it. But if this group faces an issue but is not aware of it or does not see its resonance yet, it may still move to an aroused, then aware, and then active public. A better strategy is to increase awareness of the issue with an invitation to collaborate with the organization on the issue before it becomes a problem or crisis. Since it would be difficult to get this group involved, most of the communication effort should be focused on increasing the salience of the issue and invitations for involvement.</li>
+</ul>
+From “Identifying and Prioritizing Stakeholders and Publics”, chapter 7 from the book <a href="http://2012books.lardbucket.org/books/public-relations/index.html">Public Relations</a> (v. 1.0). Licensed under a <a class="nolink" href="http://creativecommons.org/" target="_blank" rel="cc:attributionURL">Creative Commons</a> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="license">by-nc-sa 3.0</a> license.
+
+### 3. Define your stakeholder
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
+It will be your choice to decide who to direct their mailers towards. One obvious stakeholder is the prospective student, but there can be several influencers on the decision to attend an institution. To better target the stakeholder, you'll want to be more specific about who that student actually is. Rural / urban? 18 years old or a transfer student? Are their parents alumni? Do they attend sporting events? ACT score? Household income? <strong>Come up with a statement that pinpoints the stakeholder</strong>. Examples are below:
+<ul>
+	<li>17-19 years of age, ACT/SAT accepted scores, Income: $90,000</li>
+	<li>North American Females (17-23 years old) who have already been accepted to OU</li>
+	<li>Entry level employees and recent graduates (21-30, avg. age of 23)</li>
+	<li>High school seniors who are National Merit Scholars that are trying to choose a school. (17-18 yo)</li>
+</ul>
+You can see with how with these different publics, that you would want to target different messages. For someone with the ACT score to qualify at you, you may be encouraging them to apply. For a female that has been accepted, you may be inviting them to join an on campus organization. For someone who already who has already graduated, you may be targeting them for grad school. You could come up with hundreds of different individuals, at different stages of the recruitment experience, that would require different messages.
+
+Once you've defined your stakeholder, you'll want to <strong>write a short blog post</strong> brainstorming who this stakeholder is and what messages one might be directing towards them. <strong>Tag your post Stakeholder</strong>.
+
+### 4. Complete the Segmenting Stakeholders matrix
+
+Attached to this page, you'll find a word document which needs to be completed for a stakeholder. Now that you have information on how to prioritize stakeholders, you'll want to apply that to the stakeholder you defined earlier. In the stakeholder matrix, you will prioritize them by attributes, situation, and communication strategy.
+
+<a href="https://www.dropbox.com/s/cu0yfbho5yge4b0/Segmenting20Stakeholders20Matrix.docx?dl=0" class="btn btn-lg btn-primary">Download the Segmenting Stakeholders Matrix</a>
+
+Once that is complete, you'll begin to attempt to understand the stakeholders. I've also attached several documents that will assist you with that portion of the matrix. These include the documents titled:
+<ul>
+	<li>VALS</li>
+	<li>Generation Segmentation</li>
+	<li>Life Stages</li>
+	<li>Social Class</li>
+</ul>
+Last, I've included a sample completed matrix. While this assignment may feel time consuming, it will help you understand the values and expectations of your stakeholder and focus your communication strategies.
+
+<a href="https://www.dropbox.com/s/cr2qpzhibrk0bto/gamermatrix-2-2.docx?dl=0" class="btn btn-lg btn-primary">Download the Sample Segmenting Stakeholders Matrix</a>
+
+### 5. Draft your first direct mailer
+
+Below you will find a screenshot of the dialogue box for a new Photoshop document.
+
+<a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img class="alignnone size-full wp-image-1834" src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" alt="directmailerps" width="1190" height="846" /></a>
+
+Remember: One difference between Photoshop and InDesign is that Photoshop creates a single image whereas InDesign allows you to create document packages. Because of this, you will want to do this process TWICE so that you have one document that is the front and one that is the back.
+
+You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
+
+<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
+
+### 6. Define your second stakeholder
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
+Now that you've defined your first stakeholder you want to design a direct mailer towards a second stakeholder. Though it's not required, it's preferred that you stakeholder has some level of influence on your first stakeholder. This could be a parent, a relative who is an alum, a friend of the stakeholder, someone in a similar geographical area, etc. Write a blog post defining who this second stakeholder is and tag the post <strong>Stakeholder</strong>.
+
+### 7. Complete the Segmenting Stakeholders Matrix (optional)
+
+This is NOT required this week, but I do want you to do it if you want to complete the exercise again in order to start to generate ideas about how you can specifically target your next stakeholder. Feel free to also do the research methods of the previous assignments as well, such as the the Analysis-Synthesis Bridge model or creating a Pinterest Board. A download button is below for a blank matrix if you so desire to go that route.
+
+<a href="https://www.dropbox.com/s/o8hhqa8ewblmudd/SegmentingStakeholdersMatrix.docx?dl=0" class="btn btn-primary btn-primary">Download the Matrix</a>
+
+### 8. Draft your second direct mailer
+
+Below you will find a screenshot of the dialogue box for a new Photoshop document. <a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img class="alignnone size-full wp-image-1834" src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" alt="directmailerps" width="1190" height="846" /></a> Keep it mind that you will want to do this process TWICE so that you have one document that is the front and one that is the back. You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
+
+<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
+
+### 9. Write your reflection post
+
+I want you to reflect on the whole process of your second design project. You accomplished a lot! I've included below the usual questions for reflection posts as well as some supplemental questions that you are more than welcome to answer:
+
+1. What were you asked to do?
+
+2. How did you respond to what you were asked to do?
+
+3. How did react to what you actually <em>did</em>?
+
+4. Now go one level deeper: Why do you think your reaction was what it was?
+
+Supplemental questions:
+<ul>
+	<li>Do you or do you not feel yourself becoming more confident with the tools you are being asked to used?</li>
+	<li>What are some differences you found between Photoshop and InDesign? Do you feel like you prefer either one?</li>
+	<li>Is there anything you would do differently if you were to start over?</li>
+</ul>
+<strong>Tag your blog post "Reflection."</strong>
+
+### 10. Take the quiz
+
+The quiz is due Thurs. June 2, 2016 at noon.
+
+### 11. Turn in both direct mailers into the D2L Dropbox.
+
+The submission needs to be turned in by Thurs., June 2, 2016. You will need to turn in four total saved JPGs (1. front and 2. back of first direct mailer and 3. front and 4. back of the second direct mailer). If you don't remember how to save as a JPG, please re-watch the Lynda.com video below:
+
+<a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a>
 
 ## Week 5
 
