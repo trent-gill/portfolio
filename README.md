@@ -764,7 +764,7 @@ The submission needs to be turned in by Thursday, June 3, 2016. You will need to
 
 <strong>For this next design project, you are only allowed to use Adobe Photoshop</strong>. Since we've spent a fair amount of time bonding with InDesign, Photoshop has felt a little lonesome. It's time to give PS some love.
 
-With this lesson brings Design Project #2, where you will designing two direct mailers for two separate separate stakeholders. <strong>Design Project #2 is due March 30, 2016</strong>. Deliverables for Design Project #2 are as followed:
+This week brings Design Project #2, where you will designing two direct mailers for two separate separate stakeholders. <strong>Design Project #2 is due June 2, 2016</strong>. Deliverables for Design Project #2 are as followed:
 <ul>
 	<li>One completed segmentation matrix</li>
 	<li>Two separate mailers turned in as JPGs (front and back for both)</li>
@@ -787,7 +787,8 @@ As mentioned above, every direct mailer needs a specific call to action. The cal
 One of the most important steps in strategic and effective public relations is accurately identifying the publics with which you want to build mutually beneficial relationships. A popular axiom for public relations is that there is no such thing as a “general public.” In other words, an organization has a variety of key groups who bring different expectations for their relationship with the organization. These differences help an organization segment its publics into groups with similar values and expectations and to focus communication strategies.
 
 Attached, you'll find a short chapter you need to read that is titled "Identifying Stakeholders and Prioritizing Stakeholders and Publics." This is going to be critical information that is required for completing your segmentation matrix. You can prioritize them three different ways:
-<h2>By Attributes</h2>
+
+#### By Attributes
 <ul>
 	<li><strong>Definitive Stakeholders</strong> - An expectant stakeholder who gains the relevant missing attribute. Often dominant stakeholders with an urgent issue, or dependent groups with powerful legal support. Finally those classed as dangerous could gain legitimacy e.g. democratic legitimacy achieved by a nationalist party.</li>
 	<li><strong>Dominant Stakeholders</strong> - The group that many theories position as the only stakeholders of an organisation or project. Likely to have a formal mechanism in place acknowledging the relationship with the organisation or project e.g. Boards of directors, HR department, public relations.</li>
@@ -797,22 +798,23 @@ Attached, you'll find a short chapter you need to read that is titled "Identifyi
 <strong>Discretionary Stakeholders</strong> - Likely to recipients of corporate philanthropy. No pressure on managers to engage with this group, but they may choose to do so. Examples are beneficiaries of charity.
 <strong>Demanding Stakeholders</strong> - Those with urgent claims, but no legitimacy or power. Irritants for management, but not worth considering. Examples are people with unjustified grudges, serial complainers or low return customers.</li>
 </ul>
-http://www.stakeholdermap.com/stakeholder-analysis/stakeholder-salience.html
-<h2>By Situation</h2>
+<small><a href="http://www.stakeholdermap.com/stakeholder-analysis/stakeholder-salience.html">Source</a></small>
+#### By Situation
 <ul>
 	<li><strong>Active publics</strong>. This group is highly involved and actively seek information and act on that information.</li>
 	<li><strong>Aware publics.</strong> This group will process information and might act, but are limited by lower levels of involvement and problem recognition, or higher levels of constraint recognition</li>
 	<li><strong>Aroused publics.</strong> This group has low levels of knowledge, but recognize a potential problem or issue. As their level of involvement is heightened, and they are more likely to begin seeking information.</li>
 	<li><strong>Inactive publics. </strong>Inactive as groups of individuals with low levels of knowledge and involvement regarding an organization and its operation</li>
 </ul>
-<h2>By Communication Strategy</h2>
+
+#### By Communication Strategy
 <ul>
 	<li><strong><span class="margin_term"><a class="glossterm">Advocate stakeholders</a></span>.</strong> This is the group that you want involved in supportive actions such as third-party endorsements, letter-writing campaigns, donations, investments, and attendance at functions. Communication should be action and behavior oriented.</li>
 	<li><strong><span class="margin_term"><a class="glossterm">Dormant stakeholders</a></span></strong>. This is a group that is not ready to be involved. If inactivity is due to lack of knowledge, messages should focus on creating awareness and understanding of the issues that affect them. If the publics are aroused, but not active, then communication should address potential causes of apathy by reducing perceptions of constraints or using affective cues to increase emotional attachment.</li>
 	<li><strong><span class="margin_term"><a class="glossterm">Adversarial stakeholders</a></span></strong>. The initial response to this group is to be defensive. However, defensive communication will not work on this group, it will only entrench them in their position. Defensive communication is better intended for aroused publics who have not decided whether they are supportive or not. Instead, organizations should use conflict resolution strategies that involve nonsupportive stakeholders to seek win-win solutions.</li>
 	<li><strong><span class="margin_term"><a class="glossterm">Apathetic stakeholders</a></span></strong>. Again, the gut reaction to this group is to ignore it. But if this group faces an issue but is not aware of it or does not see its resonance yet, it may still move to an aroused, then aware, and then active public. A better strategy is to increase awareness of the issue with an invitation to collaborate with the organization on the issue before it becomes a problem or crisis. Since it would be difficult to get this group involved, most of the communication effort should be focused on increasing the salience of the issue and invitations for involvement.</li>
 </ul>
-From “Identifying and Prioritizing Stakeholders and Publics”, chapter 7 from the book <a href="http://2012books.lardbucket.org/books/public-relations/index.html">Public Relations</a> (v. 1.0). Licensed under a <a class="nolink" href="http://creativecommons.org/" target="_blank" rel="cc:attributionURL">Creative Commons</a> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="license">by-nc-sa 3.0</a> license.
+<small>From “Identifying and Prioritizing Stakeholders and Publics”, chapter 7 from the book <a href="http://2012books.lardbucket.org/books/public-relations/index.html">Public Relations</a> (v. 1.0). Licensed under a <a class="nolink" href="http://creativecommons.org/" target="_blank" rel="cc:attributionURL">Creative Commons</a> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="license">by-nc-sa 3.0</a> license.</small>
 
 ### 3. Define your stakeholder
 <div class="alert alert-warning" role="alert">Blog Post Required</div>
@@ -849,7 +851,7 @@ Last, I've included a sample completed matrix. While this assignment may feel ti
 
 Below you will find a screenshot of the dialogue box for a new Photoshop document.
 
-<a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img class="alignnone size-full wp-image-1834" src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" alt="directmailerps" width="1190" height="846" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" /></a>
 
 Remember: One difference between Photoshop and InDesign is that Photoshop creates a single image whereas InDesign allows you to create document packages. Because of this, you will want to do this process TWICE so that you have one document that is the front and one that is the back.
 
@@ -870,7 +872,7 @@ This is NOT required this week, but I do want you to do it if you want to comple
 
 ### 8. Draft your second direct mailer
 
-Below you will find a screenshot of the dialogue box for a new Photoshop document. <a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img class="alignnone size-full wp-image-1834" src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" alt="directmailerps" width="1190" height="846" /></a> Keep it mind that you will want to do this process TWICE so that you have one document that is the front and one that is the back. You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
+Below you will find a screenshot of the dialogue box for a new Photoshop document. <a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"/></a> Keep it mind that you will want to do this process TWICE so that you have one document that is the front and one that is the back. You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
 
 <a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
 
