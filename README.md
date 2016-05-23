@@ -798,7 +798,7 @@ Attached, you'll find a short chapter you need to read that is titled "Identifyi
 <strong>Discretionary Stakeholders</strong> - Likely to recipients of corporate philanthropy. No pressure on managers to engage with this group, but they may choose to do so. Examples are beneficiaries of charity.
 <strong>Demanding Stakeholders</strong> - Those with urgent claims, but no legitimacy or power. Irritants for management, but not worth considering. Examples are people with unjustified grudges, serial complainers or low return customers.</li>
 </ul>
-<small><a href="http://www.stakeholdermap.com/stakeholder-analysis/stakeholder-salience.html">Source</a></small>
+<small><a href="http://www.stakeholdermap.com/stakeholder-analysis/stakeholder-salience.html" target="_blank">Source</a></small>
 #### By Situation
 <ul>
 	<li><strong>Active publics</strong>. This group is highly involved and actively seek information and act on that information.</li>
@@ -814,7 +814,7 @@ Attached, you'll find a short chapter you need to read that is titled "Identifyi
 	<li><strong><span class="margin_term"><a class="glossterm">Adversarial stakeholders</a></span></strong>. The initial response to this group is to be defensive. However, defensive communication will not work on this group, it will only entrench them in their position. Defensive communication is better intended for aroused publics who have not decided whether they are supportive or not. Instead, organizations should use conflict resolution strategies that involve nonsupportive stakeholders to seek win-win solutions.</li>
 	<li><strong><span class="margin_term"><a class="glossterm">Apathetic stakeholders</a></span></strong>. Again, the gut reaction to this group is to ignore it. But if this group faces an issue but is not aware of it or does not see its resonance yet, it may still move to an aroused, then aware, and then active public. A better strategy is to increase awareness of the issue with an invitation to collaborate with the organization on the issue before it becomes a problem or crisis. Since it would be difficult to get this group involved, most of the communication effort should be focused on increasing the salience of the issue and invitations for involvement.</li>
 </ul>
-<small>From “Identifying and Prioritizing Stakeholders and Publics”, chapter 7 from the book <a href="http://2012books.lardbucket.org/books/public-relations/index.html">Public Relations</a> (v. 1.0). Licensed under a <a class="nolink" href="http://creativecommons.org/" target="_blank" rel="cc:attributionURL">Creative Commons</a> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="license">by-nc-sa 3.0</a> license.</small>
+<small>From “Identifying and Prioritizing Stakeholders and Publics”, chapter 7 from the book <a href="http://2012books.lardbucket.org/books/public-relations/index.html" target="_blank">Public Relations</a> (v. 1.0). Licensed under a <a class="nolink" href="http://creativecommons.org/ target="_blank"" target="_blank" rel="cc:attributionURL">Creative Commons</a> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" target="_blank" rel="license">by-nc-sa 3.0</a> license.</small>
 
 ### 3. Define your stakeholder
 <div class="alert alert-warning" role="alert">Blog Post Required</div>
@@ -834,7 +834,7 @@ Once you've defined your stakeholder, you'll want to <strong>write a short blog 
 
 Attached to this page, you'll find a word document which needs to be completed for a stakeholder. Now that you have information on how to prioritize stakeholders, you'll want to apply that to the stakeholder you defined earlier. In the stakeholder matrix, you will prioritize them by attributes, situation, and communication strategy.
 
-<a href="https://www.dropbox.com/s/cu0yfbho5yge4b0/Segmenting20Stakeholders20Matrix.docx?dl=0" class="btn btn-lg btn-primary">Download the Segmenting Stakeholders Matrix</a>
+<a href="https://www.dropbox.com/s/cu0yfbho5yge4b0/Segmenting20Stakeholders20Matrix.docx?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Segmenting Stakeholders Matrix</a>
 
 Once that is complete, you'll begin to attempt to understand the stakeholders. I've also attached several documents that will assist you with that portion of the matrix. These include the documents titled:
 <ul>
@@ -845,19 +845,19 @@ Once that is complete, you'll begin to attempt to understand the stakeholders. I
 </ul>
 Last, I've included a sample completed matrix. While this assignment may feel time consuming, it will help you understand the values and expectations of your stakeholder and focus your communication strategies.
 
-<a href="https://www.dropbox.com/s/cr2qpzhibrk0bto/gamermatrix-2-2.docx?dl=0" class="btn btn-lg btn-primary">Download the Sample Segmenting Stakeholders Matrix</a>
+<a href="https://www.dropbox.com/s/cr2qpzhibrk0bto/gamermatrix-2-2.docx?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Sample Segmenting Stakeholders Matrix</a>
 
 ### 5. Draft your first direct mailer
 
 Below you will find a screenshot of the dialogue box for a new Photoshop document.
 
-<a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" /></a>
 
 Remember: One difference between Photoshop and InDesign is that Photoshop creates a single image whereas InDesign allows you to create document packages. Because of this, you will want to do this process TWICE so that you have one document that is the front and one that is the back.
 
 You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
 
-<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
+<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" target="_blank" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
 
 ### 6. Define your second stakeholder
 <div class="alert alert-warning" role="alert">Blog Post Required</div>
@@ -868,13 +868,13 @@ Now that you've defined your first stakeholder you want to design a direct maile
 
 This is NOT required this week, but I do want you to do it if you want to complete the exercise again in order to start to generate ideas about how you can specifically target your next stakeholder. Feel free to also do the research methods of the previous assignments as well, such as the the Analysis-Synthesis Bridge model or creating a Pinterest Board. A download button is below for a blank matrix if you so desire to go that route.
 
-<a href="https://www.dropbox.com/s/o8hhqa8ewblmudd/SegmentingStakeholdersMatrix.docx?dl=0" class="btn btn-primary btn-primary">Download the Matrix</a>
+<a href="https://www.dropbox.com/s/o8hhqa8ewblmudd/SegmentingStakeholdersMatrix.docx?dl=0" target="_blank" class="btn btn-primary btn-primary">Download the Matrix</a>
 
 ### 8. Draft your second direct mailer
 
-Below you will find a screenshot of the dialogue box for a new Photoshop document. <a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"/></a> Keep it mind that you will want to do this process TWICE so that you have one document that is the front and one that is the back. You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
+Below you will find a screenshot of the dialogue box for a new Photoshop document. <a href="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/02/directmailerps.png"/></a> Keep it mind that you will want to do this process TWICE so that you have one document that is the front and one that is the back. You'll also want to save two files types: a PSD and a JPG. A native PSD file allows you to manipulate the photo afterwards and the JPG will flatten the image for print. For more information on Photoshop file formats, click the button below which takes you to the Wiki article.
 
-<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
+<a href="http://prpubs.us/wiki/Adobe_Photoshop#Common_File_Formats" target="_blank" class="btn btn-primary btn-primary">More Info on Photoshop File Formats</a>
 
 ### 9. Write your reflection post
 
