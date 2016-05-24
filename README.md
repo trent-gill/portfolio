@@ -346,62 +346,62 @@ To better understand Adobe Photoshop, we'll be watching the Chapter 06 videos fr
   <th>Video Name</th>
   <th>Video Link</th>
   </tr>
-    <tbody>
-      <tr>
-      <td>Getting started with Photoshop</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-Photoshop/161817/177358-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </tr>
-      <tr>
-      <td>Making selections in Photoshop</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Making-selections-Photoshop/161817/177359-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </tr>
-      <tr>
-      <td>Working with layer masks</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Working-layer-masks/161817/177360-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Challenge: Masking</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Challenge-Masking/161817/177361-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Solution: Masking</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Solution-Masking/161817/177362-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Combining two images together</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Combining-two-images-together/161817/177363-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Removing unwanted objects from photos</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Removing-unwanted-objects-from-photos/161817/177364-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Changing the color of photos</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Changing-color-photos/161817/177365-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Converting images to black and white</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Converting-images-black-white/161817/177366-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Cropping images nondestructively</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-      <tr>
-      <td>Saving your work for print
-      </td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
-      </td>
-      </tr>
-    </tbody>
+  <tbody>
+    <tr>
+    <td>Getting started with Photoshop</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-Photoshop/419419/478871-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Making selections in Photoshop</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Making-selections/419419/478872-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Working with layer masks</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Working-layer-masks/419419/478873-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Challenge: Masking</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Challenge-Masking/419419/478874-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Solution: Masking</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Solution-Masking/419419/478875-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Combining two images together</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Combining-two-images-together/419419/478876-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Removing unwanted objects from photos</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Removing-unwanted-images/419419/478877-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Changing the color of photos</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Changing-color-photos/419419/478878-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Converting images to black and white</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Converting-images-black-white/419419/478879-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Cropping images nondestructively</td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Cropping-images-nondestructively/419419/478880-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+    <tr>
+    <td>Saving your work for print
+    </td>
+    <td><a href="http://www.lynda.com/Illustrator-tutorials/Saving-your-Photoshop-files/419419/478881-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+
+    </tr>
+  </tbody>
 </thead>
 </table>
 
@@ -420,62 +420,62 @@ To better understand Adobe InDesign, we'll be watching the Chapter 07 videos fro
     <tbody>
       <tr>
       <td>Getting started with InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Getting-started-InDesign/419419/478883-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </tr>
       <tr>
       <td>Creating a wireframe in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-wireframe-InDesign/419419/478884-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </tr>
       <tr>
       <td>Importing graphics into InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-graphics-InDesign/419419/478885-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Adjusting the fit of your graphics</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Adjusting-fit-graphics/419419/478886-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Creating master pages in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-master-pages-InDesign/419419/478887-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Getting your color swatches into InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-color-swatches-InDesign/419419/478888-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Importing text documents into InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Importing-text-documents-InDesign/419419/478889-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Creating styles in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-styles-Indesign/419419/478890-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Working with tabs</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Working-tabs-InDesign/419419/478891-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Creating tables in InDesign</td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Creating-tables-InDesign/419419/478892-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Adding the final touches to your design
       </td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Adding-final-touches-your-design/419419/478893-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
       <td>Creating PDFs in InDesign
       </td>
-      <td><a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+      <td><a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
       </td>
       </tr>
       <tr>
@@ -754,7 +754,7 @@ The quiz is due Thursday, June 3, 2016.
 
 ### 13. Turn in work to the Dropbox
 
-The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/161817-2.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
+The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
 
 ## Week 4
 
