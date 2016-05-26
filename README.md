@@ -927,6 +927,7 @@ In this lesson, you are going to be asked to design a suite of social media asse
 	<li>Twitter Cover</li>
 	<li>Facebook Post</li>
 	<li>Instagram Post</li>
+</ul>
 
 ### 1. Choose an organization/company
 
