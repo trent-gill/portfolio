@@ -1019,7 +1019,9 @@ You'll have to first create an account with Canva. After you do that, you'll fin
 ### 4. Design your first social media piece on Canva
 
 Below is a quick reference tutorial for working through Canva. As you've learned from the tutorials, Canva offers thousands of free photos, backgrounds, and layouts. You are more than welcome to begin your work from one of those areas. For my project, I uploaded my own images for a social media campaign around a fictional "Open House" at Gaylord College.
-#### 1. Choose the asset you want to begin to design.</h2>
+
+#### 1. Choose the asset you want to begin to design.
+
 For me, I chose the Facebook cover as it gives me a lot of real estate.
 
 <a href="http://prpubs.us/wp-content/uploads/2015/03/canva1.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/03/canva1.png" alt="canva1" /></a>
@@ -1027,13 +1029,19 @@ For me, I chose the Facebook cover as it gives me a lot of real estate.
 It will give you a work space that looks like this,
 
 <a href="http://prpubs.us/wp-content/uploads/2015/03/canva2.png" target="_blank"><img  src="http://prpubs.us/wp-content/uploads/2015/03/canva2.png" alt="canva2"  /></a>
-#### 2. Add a background, texture, or image. Your discretion.</h2>
+
+#### 2. Add a background, texture, or image. Your discretion.
+
 <a href="http://prpubs.us/wp-content/uploads/2015/03/canva3.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/03/canva3.png" alt="canva3" /></a>
-#### 3. Add any other elements such as text, icons, graphics, etc.</h2>
+
+#### 3. Add any other elements such as text, icons, graphics, etc.
+
 One thing to remember with social media design is that you want to be minimal with the text on your graphics. Remember, you'll have space within the post to elaborate on your message.
 
 <a href="http://prpubs.us/wp-content/uploads/2015/03/canva4.png" target="_blank"><img  src="http://prpubs.us/wp-content/uploads/2015/03/canva4.png" alt="canva4" /></a>
-#### 4. Download the design as an image.</h2>
+
+#### 4. Download the design as an image.
+
 <a href="http://prpubs.us/wp-content/uploads/2015/03/canva5.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/03/canva5.png" alt="canva5"  /></a>
 
 After it's done processing, it will automatically download a copy of the image to your computer. This is what you'll turn into the Dropbox.
