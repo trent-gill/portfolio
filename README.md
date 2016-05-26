@@ -908,7 +908,150 @@ The submission needs to be turned in by Thurs., June 2, 2016. You will need to t
 
 ## Week 5
 
-Coming Soon!
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 9, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 9, 2016 at noon</div>
+
+### Introduction
+
+During the past several lessons, you've been working in what I call "capital A" Applications. Photoshop, InDesign, and even Wordpress to a degree, are applications that do a lot of "stuff." They are big, robust, systems that give you the freedom to build and manipulate canvases of any shape and size. While understanding these products and the language that comes with it is great, we are simultaneously living in a world where photo manipulation is mainstream through applications such as Instagram which have streamlined the editing process. These "small A" apps give end users more constraints such as a limited number of templated filters. Yet in situation where you have a specific targeted outcome, such as a very specific size, look, and feel, the ability to quickly create your work can be a worthy tradeoff.
+
+For this lesson, we will be exploring a new, web-based design application called Canva. Throughout this lesson, I want you to consider:
+<ul>
+	<li>What are some of the affordances that an app like Canva brings?</li>
+	<li>What limitations does an app like Canva have?</li>
+	<li>How can a public relation practitioner leverage tools like Canva?</li>
+</ul>
+In this lesson, you are going to be asked to design a suite of social media assets for a new, integrated PR social media campaign. These pieces will include:
+<ul>
+	<li>Facebook Cover</li>
+	<li>Twitter Cover</li>
+	<li>Facebook Post</li>
+	<li>Instagram Post</li>
+
+### 1. Choose an organization/company
+
+You can choose any company or organization that you would like to design for. Since these are all web graphics, high resolution logos aren't nearly as necessary as they would be for a print publication. In fact, you may find that, in the context of social media, there isn't a significant need for a logo as the brand marking probably already exists somewhere on their social media page. That said, if its a major brand, a good place to look for high resolution logos is a website called <a href="http://www.brandsoftheworld.com">Brands of the World</a>. <strong>Note:</strong> If you are interested in an extra credit opportunity, you'll want to pick someone that you are more likely to be able to contact after the project is complete.
+
+### 2. Read the following article
+
+<a href="http://www.cision.com/us/2014/11/daily-social-media-design-ideas-for-pr-pros/" target="_blank" class="btn btn-primary btn-primary">7 Social Media Design Ideas for PR Pros</a>
+
+This article will be helpful in coming up with a theme for your campaign. The idea is that you have a consistent, integrated message throughout all of these pieces. Essentially, they all will look like variations of the same piece. Some ideas for potential messages include:
+<ul>
+	<li>Creating inspirational quote graphics</li>
+	<li>Designing an infographic</li>
+	<li>Sparking a conversation with an open ended question graphic</li>
+	<li>Promoting your website's blog</li>
+	<li>A cross promotion of the company's various social media pages</li>
+	<li>Thanking the company's or organization's followers</li>
+</ul>
+This list is meant to merely get you thinking about different types of campaigns you can build as you are, of course, not limited to any of these options. To get more ideas, you might consider creating a social media focused Pinterest board.
+
+### 3. Complete Canva tutorials
+
+You'll have to first create an account with Canva. After you do that, you'll find a set of short tutorials that will familiarize you with the tool. <strong>Complete all the required tutorials and complete TWO additional tutorials.</strong>
+
+#### Required Tutorials
+
+<table class="table  table-striped">
+<thead>
+  <tr>
+  <th>Video Name</th>
+  <th>Video Link</th>
+  </tr>
+  <tbody>
+    <tr>
+    <td>Beginner's Challenge</td>
+    <td><a href="https://designschool.canva.com/tutorials/beginners-challenge/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Essential Canva Tools</td>
+    <td><a href="https://designschool.canva.com/tutorials/essential-canva-tools/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Less is More</td>
+    <td><a href="https://designschool.canva.com/tutorials/less/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+
+  </tbody>
+</thead>
+</table>
+
+#### Additional tutorials
+
+<table class="table  table-striped">
+<thead>
+  <tr>
+  <th>Video Name</th>
+  <th>Video Link</th>
+  </tr>
+  <tbody>
+    <tr>
+    <td>Designing for Social Media</td>
+    <td><a href="https://designschool.canva.com/tutorials/design-social-media/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Introduction to Infographics</td>
+    <td><a href="https://www.canva.com/design/DABK5q4lV7o/Nd9PZqprDu1Tac9pv0VXeg/edit" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Designing with Shapes</td>
+    <td><a href="https://designschool.canva.com/tutorials/designing-shapes/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>The Art of Alignment</td>
+    <td><a href="https://designschool.canva.com/tutorials/art-alignment/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Working With White Space</td>
+    <td><a href="https://designschool.canva.com/tutorials/working-white-space/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+    <tr>
+    <td>Harnessing Hierarchy</td>
+    <td><a href="https://designschool.canva.com/tutorials/harnessing-hierarchy/" class="btn btn-primary btn-primary" target="_blank">Video</a></td>
+    </tr>
+
+  </tbody>
+</thead>
+</table>
+
+### 4. Design your first social media piece on Canva
+
+Below is a quick reference tutorial for working through Canva. As you've learned from the tutorials, Canva offers thousands of free photos, backgrounds, and layouts. You are more than welcome to begin your work from one of those areas. For my project, I uploaded my own images for a social media campaign around a fictional "Open House" at Gaylord College.
+<h2>1. Choose the asset you want to begin to design.</h2>
+For me, I chose the Facebook cover as it gives me a lot of real estate.
+
+<a href="http://prpubs.us/wp-content/uploads/2015/03/canva1.png" target="_blank"><img class="alignnone size-full wp-image-2445" src="http://prpubs.us/wp-content/uploads/2015/03/canva1.png" alt="canva1" width="1588" height="1302" /></a>
+
+It will give you a work space that looks like this,
+
+<a href="http://prpubs.us/wp-content/uploads/2015/03/canva2.png" target="_blank"><img class="alignnone size-full wp-image-2444" src="http://prpubs.us/wp-content/uploads/2015/03/canva2.png" alt="canva2" width="1588" height="1325" /></a>
+<h2>2. Add a background, texture, or image. Your discretion.</h2>
+<a href="http://prpubs.us/wp-content/uploads/2015/03/canva3.png" target="_blank"><img class="alignnone size-full wp-image-2443" src="http://prpubs.us/wp-content/uploads/2015/03/canva3.png" alt="canva3" width="1588" height="1325" /></a>
+<h2>3. Add any other elements such as text, icons, graphics, etc.</h2>
+One thing to remember with social media design is that you want to be minimal with the text on your graphics. Remember, you'll have space within the post to elaborate on your message.
+
+<a href="http://prpubs.us/wp-content/uploads/2015/03/canva4.png" target="_blank"><img class="alignnone size-full wp-image-2442" src="http://prpubs.us/wp-content/uploads/2015/03/canva4.png" alt="canva4" width="1588" height="1325" /></a>
+<h2>4. Download the design as an image.</h2>
+<a href="http://prpubs.us/wp-content/uploads/2015/03/canva5.png" target="_blank"><img class="alignnone size-full wp-image-2441" src="http://prpubs.us/wp-content/uploads/2015/03/canva5.png" alt="canva5" width="1588" height="1325" /></a>
+
+After it's done processing, it will automatically download a copy of the image to your computer. This is what you'll turn into the Dropbox.
+
+<a href="http://prpubs.us/wp-content/uploads/2015/03/canva6.png" target="_blank"><img class="alignnone size-full wp-image-2440" src="http://prpubs.us/wp-content/uploads/2015/03/canva6.png" alt="canva6" width="1588" height="1325" /></a>
+
+### 5. Design Design the other three pieces
+
+These pieces will have the same look and feel as your first piece. For example, below I've taken my Facebook Cover and did a similar treatment to a Facebook post. I added some icons to give it a little more depth and elaborated on the text a bit.
+
+<a href="http://prpubs.us/wp-content/uploads/2015/03/canva71.png" target="_blank"><img class="alignnone size-full wp-image-2447" src="http://prpubs.us/wp-content/uploads/2015/03/canva71.png" alt="canva7" width="1588" height="1325" /></a>
+
+### 6. Turn in your work on D2L.
+
+The submission needs to be turned in by Thursday, June 9, 2016. You will need to turn in four total saved JPGs (1. Facebook Cover 2. Facebook Post 3. Twitter Cover 4. Instagram Post).
+
+### 7. Take the quiz.
+
+The quiz is due Thursday, June 9, 2016.
 
 ## Week 6
 
