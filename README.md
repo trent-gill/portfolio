@@ -806,6 +806,7 @@ You can prioritize them three different ways:
 <strong>Demanding Stakeholders</strong> - Those with urgent claims, but no legitimacy or power. Irritants for management, but not worth considering. Examples are people with unjustified grudges, serial complainers or low return customers.</li>
 </ul>
 <small><a href="http://www.stakeholdermap.com/stakeholder-analysis/stakeholder-salience.html" target="_blank">Source</a></small>
+
 #### By Situation
 <ul>
 	<li><strong>Active publics</strong>. This group is highly involved and actively seek information and act on that information.</li>
@@ -848,7 +849,7 @@ Once that is complete, you'll begin to attempt to understand the stakeholders. I
 <a href="https://prpubs.us/file/149826" class="btn btn-lg btn-primary" target="_blank">VALS</a>
 <a href="https://prpubs.us/file/159826" class="btn btn-lg btn-primary" target="_blank">Generation Segmentation</a>
 <a href="https://prpubs.us/file/169826" class="btn btn-lg btn-primary" target="_blank">Life Stages</a>
-<a href="https://prpubs.us/file/179826 class="btn btn-lg btn-primary" target="_blank">Social Class</a>
+<a href="https://prpubs.us/file/179826" class="btn btn-lg btn-primary" target="_blank">Social Class</a>
 
 Last, I've included a sample completed matrix. While this assignment may feel time consuming, it will help you understand the values and expectations of your stakeholder and focus your communication strategies.
 
