@@ -765,13 +765,15 @@ The submission needs to be turned in by Thursday, June 9, 2016. You will need to
 
 <strong>For this next design project, you are only allowed to use Adobe Photoshop</strong>. Since we've spent a fair amount of time bonding with InDesign, Photoshop has felt a little lonesome. It's time to give PS some love.
 
-This week brings Design Project #2, where you will designing two direct mailers for two separate separate stakeholders. <strong>Design Project #2 is due June 2, 2016</strong>. Deliverables for Design Project #2 are as followed:
+This week brings Design Project #2, where you will designing two direct mailers for two separate separate stakeholders. <strong>Design Project #2 is due June 9, 2016</strong>. Deliverables for Design Project #2 are as followed:
 <ul>
 	<li>One completed segmentation matrix</li>
 	<li>Two separate mailers turned in as JPGs (front and back for both)</li>
 </ul>
 
-We will be analyzing these two separate stakeholders through completing a segmentation matrix.  Similar to the first project, an excellent final product will be one where you can demonstrate proficiency in creating the full print product, where the design clearly ties to the stakeholder, it's not cluttered, it has excellent readability, and where you have effective use of contrast, proximity, alignment &amp; repetition. <strong>Make sure your direct mailer also has a clear call to action for the recipient</strong>. To get clear information on how this assignment will be graded, you'll find a grading rubric attached to the right.
+We will be analyzing these two separate stakeholders through completing a segmentation matrix.  Similar to the first project, an excellent final product will be one where you can demonstrate proficiency in creating the full print product, where the design clearly ties to the stakeholder, it's not cluttered, it has excellent readability, and where you have effective use of contrast, proximity, alignment &amp; repetition. <strong>Make sure your direct mailer also has a clear call to action for the recipient</strong>. To get clear information on how this assignment will be graded, you'll find a grading rubric below.
+
+<a href="https://www.dropbox.com/s/foviw0idvjqtplf/Assignment%20Two%20Rubric.pdf?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Grading Rubric</a>
 
 Through the segmentation matrix, you will want to demonstrate clear knowledge of how to prioritize stakeholders by attributes, situation, and communication strategy. Additionally it needs to demonstrate clear knowledge of stakeholder by generation, life stage, social class, lifestyle, gender, and race/nationality. The document must be typed.
 
@@ -787,7 +789,11 @@ As mentioned above, every direct mailer needs a specific call to action. The cal
 
 One of the most important steps in strategic and effective public relations is accurately identifying the publics with which you want to build mutually beneficial relationships. A popular axiom for public relations is that there is no such thing as a “general public.” In other words, an organization has a variety of key groups who bring different expectations for their relationship with the organization. These differences help an organization segment its publics into groups with similar values and expectations and to focus communication strategies.
 
-Attached, you'll find a short chapter you need to read that is titled "Identifying Stakeholders and Prioritizing Stakeholders and Publics." This is going to be critical information that is required for completing your segmentation matrix. You can prioritize them three different ways:
+Below, you'll find a short chapter you need to read that is titled "Identifying Stakeholders and Prioritizing Stakeholders and Publics." This is going to be critical information that is required for completing your segmentation matrix. 
+
+<a href="http://2012books.lardbucket.org/books/public-relations/s08-identifying-and-prioritizing-s.html" class="btn btn-lg btn-primary" target="_blank">Identifying Stakeholders and Prioritizing Stakeholders and Publics</a>
+
+You can prioritize them three different ways:
 
 #### By Attributes
 <ul>
@@ -833,17 +839,17 @@ Once you've defined your stakeholder, you'll want to <strong>write a short blog 
 
 ### 4. Complete the Segmenting Stakeholders matrix
 
-Attached to this page, you'll find a word document which needs to be completed for a stakeholder. Now that you have information on how to prioritize stakeholders, you'll want to apply that to the stakeholder you defined earlier. In the stakeholder matrix, you will prioritize them by attributes, situation, and communication strategy.
+Below to this page, you'll find a word document which needs to be completed for a stakeholder. Now that you have information on how to prioritize stakeholders, you'll want to apply that to the stakeholder you defined earlier. In the stakeholder matrix, you will prioritize them by attributes, situation, and communication strategy.
 
 <a href="https://www.dropbox.com/s/cu0yfbho5yge4b0/Segmenting20Stakeholders20Matrix.docx?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Segmenting Stakeholders Matrix</a>
 
-Once that is complete, you'll begin to attempt to understand the stakeholders. I've also attached several documents that will assist you with that portion of the matrix. These include the documents titled:
-<ul>
-	<li>VALS</li>
-	<li>Generation Segmentation</li>
-	<li>Life Stages</li>
-	<li>Social Class</li>
-</ul>
+Once that is complete, you'll begin to attempt to understand the stakeholders. I've also included several documents that will assist you with that portion of the matrix. These include the documents titled:
+
+<a href="https://prpubs.us/file/149826" class="btn btn-lg btn-primary" target="_blank">VALS</a>
+<a href="https://prpubs.us/file/159826" class="btn btn-lg btn-primary" target="_blank">Generation Segmentation</a>
+<a href="https://prpubs.us/file/169826" class="btn btn-lg btn-primary" target="_blank">Life Stages</a>
+<a href="https://prpubs.us/file/179826 class="btn btn-lg btn-primary" target="_blank">Social Class</a>
+
 Last, I've included a sample completed matrix. While this assignment may feel time consuming, it will help you understand the values and expectations of your stakeholder and focus your communication strategies.
 
 <a href="https://www.dropbox.com/s/cr2qpzhibrk0bto/gamermatrix-2-2.docx?dl=0" class="btn btn-lg btn-primary" target="_blank">Download the Sample Segmenting Stakeholders Matrix</a>
