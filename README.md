@@ -562,10 +562,10 @@ Once you've completed the assignments and activities above, you need to complete
 
 ### Introduction
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 3, 2016 at noon</div>
-<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 3, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 2, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 2, 2016 at noon</div>
 
-Week 3 begins our very first design project, which is to design a business card and letterhead. This design project is due <strong>Thursday, June 3, 2016 at noon</strong>. This week we will be focusing on our first piece, the business card. Over the media attachments, you will notice an extra <a href="http://youtu.be/QXNpxlPiCbA" target="_blank">video on InDesign</a>. This is just a quick refresher in case you've forgotten anything over the last couple of weeks. I walk through the following:
+Week 3 begins our very first design project, which is to design a business card and letterhead. This design project is due <strong>Thursday, June 2, 2016 at noon</strong>. This week we will be focusing on our first piece, the business card. Over the media attachments, you will notice an extra <a href="http://youtu.be/QXNpxlPiCbA" target="_blank">video on InDesign</a>. This is just a quick refresher in case you've forgotten anything over the last couple of weeks. I walk through the following:
 <ul>
 	<li><a href="http://youtu.be/QXNpxlPiCbA" target="_blank">Drawing Shapes</a></li>
 	<li><a href="http://youtu.be/QXNpxlPiCbA?t=4m52s" target="_blank">Placing an Image</a></li>
@@ -750,15 +750,16 @@ Supplemental questions:
 
 ### 12. Take the quiz
 
-The quiz is due Thursday, June 3, 2016.
+The quiz is due Thursday, June 2, 2016.
 
 ### 13. Turn in work to the Dropbox
 
-The submission needs to be turned in by Thursday, June 3, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
+The submission needs to be turned in by Thursday, June 9, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
 
 ## Week 4
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 2, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 9, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 9, 2016 at noon</div>
 
 ### Introduction
 
