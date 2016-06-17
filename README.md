@@ -789,7 +789,7 @@ As mentioned above, every direct mailer needs a specific call to action. The cal
 
 One of the most important steps in strategic and effective public relations is accurately identifying the publics with which you want to build mutually beneficial relationships. A popular axiom for public relations is that there is no such thing as a “general public.” In other words, an organization has a variety of key groups who bring different expectations for their relationship with the organization. These differences help an organization segment its publics into groups with similar values and expectations and to focus communication strategies.
 
-Below, you'll find a short chapter you need to read that is titled "Identifying Stakeholders and Prioritizing Stakeholders and Publics." This is going to be critical information that is required for completing your segmentation matrix. 
+Below, you'll find a short chapter you need to read that is titled "Identifying Stakeholders and Prioritizing Stakeholders and Publics." This is going to be critical information that is required for completing your segmentation matrix.
 
 <a href="http://2012books.lardbucket.org/books/public-relations/s08-identifying-and-prioritizing-s.html" class="btn btn-lg btn-primary" target="_blank">Identifying Stakeholders and Prioritizing Stakeholders and Publics</a>
 
@@ -916,8 +916,8 @@ The submission needs to be turned in by Thurs., June 2, 2016. You will need to t
 
 ## Week 5
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 9, 2016 at noon</div>
-<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 9, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 16, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 16, 2016 at noon</div>
 
 ### Introduction
 
@@ -1064,15 +1064,121 @@ These pieces will have the same look and feel as your first piece. For example, 
 
 ### 6. Turn in your work on D2L.
 
-The submission needs to be turned in by Thursday, June 9, 2016. You will need to turn in four total saved JPGs (1. Facebook Cover 2. Facebook Post 3. Twitter Cover 4. Instagram Post).
+The submission needs to be turned in by Thursday, June 16, 2016. You will need to turn in four total saved JPGs (1. Facebook Cover 2. Facebook Post 3. Twitter Cover 4. Instagram Post).
 
 ### 7. Take the quiz.
 
-The quiz is due Thursday, June 9, 2016.
+The quiz is due Thursday, June 16, 2016.
 
 ## Week 6
 
-Coming Soon!
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 23, 2016 at noon</div>
+<div class="alert alert-info" role="alert"><b>Project Due Date</b>: Thursday, June 23, 2016 at noon</div>
+
+### Introduction
+
+Week 6 is Design Project #4 and we’re going back to our roots: InDesign. Design Project #4 is about designing a newsletter, so we’ll be focusing on how to create long-form documents within InDesign.
+
+#### Project Requirements:
+
+Three pages (minimum)
+Four complete stories (minimum) (Stories do not have to be original! In fact I *encourage* you to find stories that are listed in the news section of the company or organization website and adapt them to fit the newsletter.
+
+#### The newsletter must include:
+
+<ul>
+	<li class="p1">One nameplate</li>
+	<li class="p1">Headlines (for every article)</li>
+	<li class="p1">Deck (for every article)</li>
+	<li class="p1">Bylines (for every article)</li>
+	<li class="p1">Photos (one per article)</li>
+	<li class="p1">Caption (one per photo)</li>
+	<li class="p1">At least one pull quote</li>
+	<li class="p1">At least one jump article</li>
+	<li class="p1">At least one article must have subheads</li>
+</ul>
+
+Don't remember what any of these mean? Refer to the <a href="http://prpubs.us/wp-content/uploads/2014/11/IMG_8460-e1420424265716.jpg">Typesetting and Newspaper Markup assignment</a> we did way back during Bootcamp.
+
+Last, since we are transitioning from novice designers to more intermediate, the rubric is going to be slightly more geared towards design:
+<p class="p1"><b>Design process (10 total points) </b>Subject matter is well-researched, sketches are complete and show a variety of designs, several design solutions have been explored.</p>
+<p class="p1"><b>Layout (5 total points)</b> Grids and guides have been used to create order and alignment, elements are aligned and spacing is clear.</p>
+<p class="p1"><b>Color (5 total points)</b> Colors used support message of the brand, work well together and are consistent.</p>
+<p class="p1"><b>Design (15 total points)</b> Format, proportion/scale, balance, contrast, harmony, focus, rhythm/continuity, unity, use of art (photograph, illustration, correct resolution), negative/white space, creativity.</p>
+<p class="p1"><b>Typography (10 total points)</b> Appropriate style choices, type size, alignment, line length, leading. Legible. Appropriate for campaign.</p>
+<p class="p1"><b>Self-reflection post (5 total points)</b> Blog post explains your newsletter and how you leveraged your knowledge of fundamental design concepts throughout the design.<i> Students must embed the work in the post.</i> Walk the reader through the conceptualization and design process.</p>
+
+### 1. Choose a Fortune 500 company.
+
+For this project, we are going to pick a large company. I want you to work on a larger organization so you have more materials to start with. A good company would be 1.) one that interests you (this is actually a really big one) 2.) has a newsroom on their website that you can use stories from 3.) has a good logo (check <a href="http://www.brandsoftheworld.com/">brandsoftheworld.com</a>). One tip is to leverage filtering on the <a href="http://fortune.com/fortune500/">Fortune website</a> to find a company within a specific industry that interests you.
+
+### 2. Begin your document
+
+hat you'll be turning in by the end of this lesson is what is called a dummy layout. A <strong>dummy layout</strong> is a term that simply refers to a document that has only placeholder text and images. They can look like this.
+
+<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png"></a>
+
+It may be beneficial to rewatch this video from Bootcamp:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gdEgaOzrjLE" frameborder="0" allowfullscreen></iframe>
+
+<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png" alt="A sample InDesign dialogue box to get you started"></a>
+
+A sample InDesign dialogue box to get you started
+
+You are required do a dummy layout this week for all of your pages. Your final design doesn't have to stick to this, of course, but it will help you visualize specifically how long each article will have to be. Again, this is the only part of the newsletter that is due at the end of this lesson.
+
+### 3. Begin to gather images, photos, and stories
+
+Start to acquire photos and stories which you can use for your newsletter. Remember: each article and photo needs to be attributed to the original author so make sure you are keeping that info. If you are struggling to find high quality photos from that company, you can use stock photos as well from free websites like <a href="http://www.stockvault.net">http://www.stockvault.net</a> or <a href="http://www.freeimages.com">http://www.freeimages.com</a>.
+
+### 4. Decide what stories will go in your newsletter
+
+I cannot say this enough. Remember: this is a print publication. Print is different than web. You will want you use large, high resolution photos. Here are some ways you can do that:
+<ul>
+	<li><a href="http://www.google.com/advanced_image_search">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
+	<li><a href="https://www.flickr.com/search/advanced/">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
+	<li><a href="http://www.morguefile.com/archive">MorgueFile</a> - Free stock image site</li>
+	<li><a href="http://www.freeimages.com">freeimages.com</a> - Name speaks for itself.</li>
+</ul>
+Now the company you are designing for may have many good quality photos that you might think could get the job the done. If you ever have the question, "How will this look when I print it out?" then the solution is simple: print it out. Look at it and examine it. Does it look pixelated or distorted? If not, you should be good to go.
+
+### 5. Decide what IMAGES will go in your newsletter
+
+I cannot say this enough. Remember: this is a print publication. Print is different than web. You will want you use large, high resolution photos. Here are some ways you can do that:
+<ul>
+	<li><a href="http://www.google.com/advanced_image_search">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
+	<li><a href="https://www.flickr.com/search/advanced/">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
+	<li><a href="http://www.morguefile.com/archive">MorgueFile</a> - Free stock image site</li>
+	<li><a href="http://www.freeimages.com">freeimages.com</a> - Name speaks for itself.</li>
+</ul>
+Now the company you are designing for may have many good quality photos that you might think could get the job the done. If you ever have the question, "How will this look when I print it out?" then the solution is simple: print it out. Look at it and examine it. Does it look pixelated or distorted? If not, you should be good to go.
+
+### 6. Write a reflection post
+
+I want you to reflect on the whole process of your fourth design project. I've included below the usual questions for reflection posts as well as some supplemental questions that you are more than welcome to answer:
+
+1. What were you asked to do?
+
+2. How did you respond to what you were asked to do?
+
+3. How did react to what you actually <em>did</em>?
+
+4. Now go one level deeper: Why do you think your reaction was what it was?
+
+Supplemental questions:
+<ul>
+	<li>How did your target public affect your overall content and design strategy?</li>
+</ul>
+<strong>Tag your blog post "Reflection</strong>."
+
+### 7. Take the quiz
+
+The quiz is due Thursday, June 23rd.
+
+### 8. Turn in your newsletter into the D2L Dropbox.
+
+The submission needs to be turned in by Thursday, June 23rd, 2016. You will need to turn in exported PDFs of both documents. If you don't remember how to export to a PDF, please re-watch the <a href="http://www.lynda.com/Illustrator-tutorials/Saving-exporting-your-final-project/419419/478894-4.html?org=ou.edu" target="_blank">Lynda video on creating PDFs</a>.
 
 ## Week 7
 
