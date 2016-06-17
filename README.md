@@ -1108,38 +1108,38 @@ Last, since we are transitioning from novice designers to more intermediate, the
 <p class="p1"><b>Typography (10 total points)</b> Appropriate style choices, type size, alignment, line length, leading. Legible. Appropriate for campaign.</p>
 <p class="p1"><b>Self-reflection post (5 total points)</b> Blog post explains your newsletter and how you leveraged your knowledge of fundamental design concepts throughout the design.<i> Students must embed the work in the post.</i> Walk the reader through the conceptualization and design process.</p>
 
-### 1. Choose a Fortune 500 company.
+### 1. Choose a Fortune 500 company
 
-For this project, we are going to pick a large company. I want you to work on a larger organization so you have more materials to start with. A good company would be 1.) one that interests you (this is actually a really big one) 2.) has a newsroom on their website that you can use stories from 3.) has a good logo (check <a href="http://www.brandsoftheworld.com/">brandsoftheworld.com</a>). One tip is to leverage filtering on the <a href="http://fortune.com/fortune500/">Fortune website</a> to find a company within a specific industry that interests you.
+For this project, we are going to pick a large company. I want you to work on a larger organization so you have more materials to start with. A good company would be 1.) one that interests you (this is actually a really big one) 2.) has a newsroom on their website that you can use stories from 3.) has a good logo (check <a href="http://www.brandsoftheworld.com/" target="_blank">brandsoftheworld.com</a>). One tip is to leverage filtering on the <a href="http://fortune.com/fortune500/" target="_blank">Fortune website</a> to find a company within a specific industry that interests you.
 
 ### 2. Begin your document
 
 hat you'll be turning in by the end of this lesson is what is called a dummy layout. A <strong>dummy layout</strong> is a term that simply refers to a document that has only placeholder text and images. They can look like this.
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png"></a>
+<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.39.44-PM.png"></a>
 
 It may be beneficial to rewatch this video from Bootcamp:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gdEgaOzrjLE" frameborder="0" allowfullscreen></iframe>
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png" alt="A sample InDesign dialogue box to get you started"></a>
+<a href="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png" target="_blank"><img src="http://prpubs.us/wp-content/uploads/2015/04/Screen-Shot-2015-04-01-at-11.35.19-PM.png" alt="A sample InDesign dialogue box to get you started"></a>
 
-A sample InDesign dialogue box to get you started
+<i>A sample InDesign dialogue box to get you started</i>.
 
 You are required do a dummy layout this week for all of your pages. Your final design doesn't have to stick to this, of course, but it will help you visualize specifically how long each article will have to be. Again, this is the only part of the newsletter that is due at the end of this lesson.
 
 ### 3. Begin to gather images, photos, and stories
 
-Start to acquire photos and stories which you can use for your newsletter. Remember: each article and photo needs to be attributed to the original author so make sure you are keeping that info. If you are struggling to find high quality photos from that company, you can use stock photos as well from free websites like <a href="http://www.stockvault.net">http://www.stockvault.net</a> or <a href="http://www.freeimages.com">http://www.freeimages.com</a>.
+Start to acquire photos and stories which you can use for your newsletter. Remember: each article and photo needs to be attributed to the original author so make sure you are keeping that info. If you are struggling to find high quality photos from that company, you can use stock photos as well from free websites like <a href="http://www.stockvault.net" target="_blank">http://www.stockvault.net</a> or <a href="http://www.freeimages.com" target="_blank">http://www.freeimages.com</a>.
 
 ### 4. Decide what stories will go in your newsletter
 
 I cannot say this enough. Remember: this is a print publication. Print is different than web. You will want you use large, high resolution photos. Here are some ways you can do that:
 <ul>
-	<li><a href="http://www.google.com/advanced_image_search">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
-	<li><a href="https://www.flickr.com/search/advanced/">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
-	<li><a href="http://www.morguefile.com/archive">MorgueFile</a> - Free stock image site</li>
-	<li><a href="http://www.freeimages.com">freeimages.com</a> - Name speaks for itself.</li>
+	<li><a href="http://www.google.com/advanced_image_search" target="_blank">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
+	<li><a href="https://www.flickr.com/search/advanced/" target="_blank">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
+	<li><a href="http://www.morguefile.com/archive" target="_blank">MorgueFile</a> - Free stock image site</li>
+	<li><a href="http://www.freeimages.com" target="_blank">freeimages.com</a> - Name speaks for itself.</li>
 </ul>
 Now the company you are designing for may have many good quality photos that you might think could get the job the done. If you ever have the question, "How will this look when I print it out?" then the solution is simple: print it out. Look at it and examine it. Does it look pixelated or distorted? If not, you should be good to go.
 
@@ -1147,10 +1147,10 @@ Now the company you are designing for may have many good quality photos that you
 
 I cannot say this enough. Remember: this is a print publication. Print is different than web. You will want you use large, high resolution photos. Here are some ways you can do that:
 <ul>
-	<li><a href="http://www.google.com/advanced_image_search">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
-	<li><a href="https://www.flickr.com/search/advanced/">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
-	<li><a href="http://www.morguefile.com/archive">MorgueFile</a> - Free stock image site</li>
-	<li><a href="http://www.freeimages.com">freeimages.com</a> - Name speaks for itself.</li>
+	<li><a href="http://www.google.com/advanced_image_search" target="_blank">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
+	<li><a href="https://www.flickr.com/search/advanced/" target="_blank">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
+	<li><a href="http://www.morguefile.com/archive" target="_blank">MorgueFile</a> - Free stock image site</li>
+	<li><a href="http://www.freeimages.com" target="_blank">freeimages.com</a> - Name speaks for itself.</li>
 </ul>
 Now the company you are designing for may have many good quality photos that you might think could get the job the done. If you ever have the question, "How will this look when I print it out?" then the solution is simple: print it out. Look at it and examine it. Does it look pixelated or distorted? If not, you should be good to go.
 
