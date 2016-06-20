@@ -1282,7 +1282,7 @@ The wisdom wall is designed to give advice to future students in PR Pubs. This i
 
 Take a screenshot of your portfolio page and submit it will the LINK to the portfolio page in the corresponding textbox.
 
-### 4 Submit your FINAL D2L QUIZ!!!!!11!111!1.
+### 4. Submit your FINAL D2L QUIZ!!!!!11!111!1.
 
 The quiz is due on Thursday, July 7, 2016 at noon.
 
