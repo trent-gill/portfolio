@@ -1288,4 +1288,4 @@ The quiz is due on Thursday, July 7, 2016 at noon.
 
 ![image](images/portalcake.png)
 
-<img src="/images/chapt6-1030x615.png)" width="200px">
+<img src="/images/portalcake.png" width="200px">
