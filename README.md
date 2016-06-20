@@ -1184,8 +1184,6 @@ The submission needs to be turned in by Thursday, June 23rd, 2016. You will need
 
 ### Introduction
 
-<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, June 30, 2016 at noon</div>
-
 You are hitting the home stretch of our time in this experience. It’s time that we start thinking about the Finals week and what will be on your Final. But, of course, we have to do this PR Pubs style, which means that the Final we will created by none other than yourself.
 
 The last assignment is going to be the mecca of the reflection post we’ve been doing all semester which is referred to as a “Summary of Learning.” You will not turn this project into a Dropbox submission, but it will be graded as part of your Final grade, which is due Wednesday, May 4.
@@ -1210,11 +1208,11 @@ This artifact can be completed in whatever medium you wish: graphic, video, pres
 
 #### 2. Design a direct mailer recruiting someone to PR Pubs in InDesign. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it)
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg"><img class=" size-full wp-image-7656 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg" alt="propaganda" width="640" height="875" /></a>
+<a href="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg" target="_blank"><img class=" size-full wp-image-7656 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg" alt="propaganda" /></a>
 
 #### 3. Create a <a href="https://support.apple.com/kb/PH14711?locale=en_US" target="_blank">movie trailer with iMovie</a> and share it on <a href="http://youtube.com" target="_blank">YouTube</a>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-DApJb_bbUo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-DApJb_bbUo" target="_blank" frameborder="0" allowfullscreen></iframe>
 
 #### 4. Use a phone app such as <a href="https://itunes.apple.com/us/app/silent-film-studio/id447304552?mt=8" target="_blank">Silent Film Studio</a> to create a video.
 
@@ -1222,21 +1220,23 @@ This artifact can be completed in whatever medium you wish: graphic, video, pres
 
 #### 5. <a href="https://docsstorybuilder.appspot.com" target="_blank">Build an interactive story</a> with Google Docs.
 
-<a href="http://goo.gl/YUqHsG">Example Here </a>
+<a href="http://goo.gl/YUqHsG" target="_blank">Example Here </a>
 
 #### 6. Create an animation (easily!) with <a href="http://goanimate.com" target="_blank">GoAnimate</a> or <a href="http://digitalfilms.com/index.php?act=4" target="_blank">Digital Films</a>.
 
-<a href="https://goanimate.com/videos/0gnJG8dRBJN4?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent">Example Here </a>
+<a href="https://goanimate.com/videos/0gnJG8dRBJN4?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent" target="_blank">Example Here </a>
 
 #### 7. Create a <a href="https://www.peanutgalleryfilms.com" target="_blank">peanut gallery</a> film.
 
-<a href="https://www.peanutgalleryfilms.com/play?video=2bugqdLUC00&title=The%20Kid&ending=5&intertitles=%5B%5B1.261,%22Guess%20what%20you’re%20going%20to%20summer%20school.%22%5D,%5B3.601,%22Oh%20you’re%20hilarious.%22%5D,%5B5.361,%22No%20I’m%20serious.%22%5D,%5B8.348,%22And%20you’ll%20have%20to%20use%20Photoshop%20and%20InDesign.%22%5D,%5B10.91,%22Now%20you’re%20pulling%20my%20leg.%22%5D,%5B14.648,%22You’ll%20do%20great%20kid.%22%5D,%5B16.908,%22I’ll%20see%20what%20I%20can%20do.%22%5D%5D">Example Here </a>
+<a href="https://www.peanutgalleryfilms.com/play?video=2bugqdLUC00&title=The%20Kid&ending=5&intertitles=%5B%5B1.261,%22Guess%20what%20you’re%20going%20to%20summer%20school.%22%5D,%5B3.601,%22Oh%20you’re%20hilarious.%22%5D,%5B5.361,%22No%20I’m%20serious.%22%5D,%5B8.348,%22And%20you’ll%20have%20to%20use%20Photoshop%20and%20InDesign.%22%5D,%5B10.91,%22Now%20you’re%20pulling%20my%20leg.%22%5D,%5B14.648,%22You’ll%20do%20great%20kid.%22%5D,%5B16.908,%22I’ll%20see%20what%20I%20can%20do.%22%5D%5D" target="_blank">Example Here </a>
 
 #### 8. Create a storyboard with <a href="https://www.storyboardthat.com/?utm_expid=58652488-7.178199R2Seue5F7W89UKvQ.0" target="_blank">StoryboardThat.</a>
 
 <img src="http://i0.wp.com/christymontenegro.oucreate.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-04-at-11.21.52-PM-1.png?zoom=2&resize=613%2C187">
 
-### 3. Create an action plan for your domain (Blog Post Required)
+### 3. Create an action plan for your domain
+
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
 
 My hope is that creating a domain or blog has been a valuable experience for you and will be something you can use beyond PR Pubs. Write a blog post about how you plan to use the domain afterwards. Will it be something that you will utilize when looking for jobs? Do you see yourself continuing the blogging reflection process for other courses or internships? Do you see yourself wiping it clean and completely redesigning it? Do you see yourself using a DIFFERENT space now that you've had this experience? Are there pages you would like to create to fill out the domain such as an "About" page or a "Contact Me" page. Write a blog post and tag it "Reflection."
 
@@ -1254,10 +1254,36 @@ Also make sure your portfolio page is LINKED to from your menu.
 
 Now that you've read your post, started to formulate your own personal Summary of Learning, and chose a medium, write a blog post describing your plan of attack for completing this project. What is the medium? What tools will you need? What will be your process for completing this assignment? Do you have further research to do and could you take advantage of processes in which we learned about this semester such as the <a href="http://www.dubberly.com/articles/interactions-the-analysis-synthesis-bridge-model.html" target="_blank">Analysis-Synthesis Bridge Model?</a>. Tag your post <strong>Summary of Learning</strong>.
 
-### 6. Take the Quiz
+### 6. DON'T TAKE A QUIZ.
 
-The quiz is due Thursday, June 30th, 2016.
+There is no quiz this week. The quiz <a href="https://www.youtube.com/watch?v=qdrs3gr_GAs">is a lie</a>.
 
 ## Week 8
 
-Coming Soon!
+<div class="alert alert-info" role="alert"><b>Quiz Due Date</b>: Thursday, July 7, 2016 at noon</div>
+
+### Introduction
+
+You did it!
+
+<a href="http://prpubs.us/wp-content/uploads/2015/04/ulj1bdwnugezvk5olm8e.gif" target="_blank"><img class=" size-full wp-image-9457 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/ulj1bdwnugezvk5olm8e.gif" alt="ulj1bdwnugezvk5olm8e"></a>
+
+### 1. Write your final reflection blog post
+
+This is it. The last piece of the puzzle for PR Pubs. Write your final blog post which will contain your Summary of Learning project. In your blog post, explain your project and what it represents. Add any final reflections you have that pertain to the course (the course format, writing with a public audience in mind, how you've seen yourself grow, etc.).
+
+### 2. Submit to the Wisdom Wall
+
+The wisdom wall is designed to give advice to future students in PR Pubs. This is going to be read by students at the beginning so it's helpful to give students practical advice on how they can best succeed in PR Pubs.
+
+<iframe src="https://docs.google.com/forms/d/1tuUvhIccFpceYYjHuJ8vldGKtyLXaUCXlwuH4kLWXts/viewform?embedded=true" width="760" height="500" frameborder="0" marginwidth="0" marginheight="0">Loading...</iframe>
+
+### 3. Submit your portfolio to the D2L Dropbox
+
+Take a screenshot of your portfolio page and submit it will the LINK to the portfolio page in the corresponding textbox.
+
+### 4 Submit your FINAL D2L QUIZ!!!!!11!111!1.
+
+The quiz is due on Thursday, July 7, 2016 at noon.
+
+![image](images/portalcake.png)
