@@ -1206,9 +1206,10 @@ This artifact can be completed in whatever medium you wish: graphic, video, pres
 
 #### 1. Design an infographic using <a href="http://canva.com" target="_blank">Canva</a>. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it).
 
-<img src="http://aliviadekker.oucreate.com/wp-content/uploads/2016/05/MyPR-PUBS-EXPERIENCE.jpg"></img>
+<img src="http://aliviadekker.oucreate.com/wp-content/uploads/2016/05/MyPR-PUBS-EXPERIENCE.jpg">
 
-#### 2. Design a direct mailer recruiting someone to PR Pubs in InDesign. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it)</h2>
+#### 2. Design a direct mailer recruiting someone to PR Pubs in InDesign. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it)
+
 <a href="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg"><img class=" size-full wp-image-7656 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg" alt="propaganda" width="640" height="875" /></a>
 
 #### 3. Create a <a href="https://support.apple.com/kb/PH14711?locale=en_US" target="_blank">movie trailer with iMovie</a> and share it on <a href="http://youtube.com" target="_blank">YouTube</a>.
@@ -1233,7 +1234,7 @@ This artifact can be completed in whatever medium you wish: graphic, video, pres
 
 #### 8. Create a storyboard with <a href="https://www.storyboardthat.com/?utm_expid=58652488-7.178199R2Seue5F7W89UKvQ.0" target="_blank">StoryboardThat.</a>
 
-<img src="http://i0.wp.com/christymontenegro.oucreate.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-04-at-11.21.52-PM-1.png?zoom=2&resize=613%2C187"></img>
+<img src="http://i0.wp.com/christymontenegro.oucreate.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-04-at-11.21.52-PM-1.png?zoom=2&resize=613%2C187">
 
 ### 3. Create an action plan for your domain (Blog Post Required)
 
