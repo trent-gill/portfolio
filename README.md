@@ -1194,49 +1194,46 @@ These summaries of learning are typically a 3-5 minutes reflection/presentation/
 
 ### 1. Read through all your blog posts
 
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
 Seriously. Do it. But read it backwards (or chronologically). The "Summary of Learning" is a shortened version of your story and, luckily for you, your entire story is right in front you. The only way to start to think about your summary is to relive the process. It's sort of like watching a movie. What can you pick up on now that you didn't before?  What were those early days like? Did you ever turn a corner? Can you identify a project in which you take a lot of pride in the outcome of it? Or can you look back now, be a little honest with yourself, and see a project where you wish you would have given it slightly more effort? Most importantly your story needs to answer the question: <strong>How did you grow (or not grow) this semester as a public relations practitioner? Why or why not?</strong>
 
 ### 2. Decide a medium for your summary of learning
 
+<div class="alert alert-warning" role="alert">Blog Post Required</div>
+
 This artifact can be completed in whatever medium you wish: graphic, video, presentation, etc. The only requirement is that it needs to be able to be embedded or linked to on your blog once its completed. I've included some ideas are below (hint: I really like the idea of a video),<strong> but you are NOT limited to choosing one of these</strong>. The more CREATIVE the better. Videos need to stay around 3 minutes long.
 
-#### 1. Design an infographic using <a href="http://canva.com" target="_blank">Canva</a>. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it)</h2>
+#### 1. Design an infographic using <a href="http://canva.com" target="_blank">Canva</a>. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it).
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/the-magic-of-the-humble-christmas-card_52a7f2f7b6d11_w587.png.jpeg"><img class="size-full wp-image-7652" src="http://prpubs.us/wp-content/uploads/2015/04/the-magic-of-the-humble-christmas-card_52a7f2f7b6d11_w587.png.jpeg" alt="canva.com" width="587" height="505" /></a> <a href="canva.com">canva.com</a>[/caption]
+<img src="http://aliviadekker.oucreate.com/wp-content/uploads/2016/05/MyPR-PUBS-EXPERIENCE.jpg"></img>
 
 #### 2. Design a direct mailer recruiting someone to PR Pubs in InDesign. (required to do <a href="https://www.screenr.com" target="_blank">screencast</a> explaining it)</h2>
 <a href="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg"><img class=" size-full wp-image-7656 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/propaganda.jpg" alt="propaganda" width="640" height="875" /></a>
 
-#### 3. Create a <a href="https://support.apple.com/kb/PH14711?locale=en_US" target="_blank">movie trailer with iMovie</a> and share it on <a href="http://youtube.com" target="_blank">YouTube</a>.</h2>
-https://www.youtube.com/watch?v=4VISh0t47dQ&feature=youtu.be
+#### 3. Create a <a href="https://support.apple.com/kb/PH14711?locale=en_US" target="_blank">movie trailer with iMovie</a> and share it on <a href="http://youtube.com" target="_blank">YouTube</a>.
 
-#### 4. Use a phone app such as <a href="https://itunes.apple.com/us/app/silent-film-studio/id447304552?mt=8" target="_blank">Silent Film Studio</a> to create a video.</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-DApJb_bbUo" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=ZSeT7iGNmR0
+#### 4. Use a phone app such as <a href="https://itunes.apple.com/us/app/silent-film-studio/id447304552?mt=8" target="_blank">Silent Film Studio</a> to create a video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/II7Se55mtnc" frameborder="0" allowfullscreen></iframe>
 
 #### 5. <a href="https://docsstorybuilder.appspot.com" target="_blank">Build an interactive story</a> with Google Docs.
 
-<a href="http://goo.gl/0YKLu4">Example Here </a>
+<a href="http://goo.gl/YUqHsG">Example Here </a>
 
-#### 6. Create an animation (easily!) with <a href="http://goanimate.com" target="_blank">GoAnimate</a> or <a href="http://digitalfilms.com/index.php?act=4" target="_blank">Digital Films</a>.</h2>
+#### 6. Create an animation (easily!) with <a href="http://goanimate.com" target="_blank">GoAnimate</a> or <a href="http://digitalfilms.com/index.php?act=4" target="_blank">Digital Films</a>.
 
-https://www.youtube.com/watch?v=JE3-q3DNNwI
+<a href="https://goanimate.com/videos/0gnJG8dRBJN4?utm_source=linkshare&utm_medium=linkshare&utm_campaign=usercontent">Example Here </a>
 
-#### 7. Create a <a href="https://www.peanutgalleryfilms.com" target="_blank">peanut gallery</a> film.</h2>
+#### 7. Create a <a href="https://www.peanutgalleryfilms.com" target="_blank">peanut gallery</a> film.
 
-https://youtu.be/hd8HzLCIstE
+<a href="https://www.peanutgalleryfilms.com/play?video=2bugqdLUC00&title=The%20Kid&ending=5&intertitles=%5B%5B1.261,%22Guess%20what%20you’re%20going%20to%20summer%20school.%22%5D,%5B3.601,%22Oh%20you’re%20hilarious.%22%5D,%5B5.361,%22No%20I’m%20serious.%22%5D,%5B8.348,%22And%20you’ll%20have%20to%20use%20Photoshop%20and%20InDesign.%22%5D,%5B10.91,%22Now%20you’re%20pulling%20my%20leg.%22%5D,%5B14.648,%22You’ll%20do%20great%20kid.%22%5D,%5B16.908,%22I’ll%20see%20what%20I%20can%20do.%22%5D%5D">Example Here </a>
 
-#### 8. Create a <a href="https://www.bitstrips.com/create/comic/" target="_blank">comic book strip</a>.</h2>
+#### 8. Create a storyboard with <a href="https://www.storyboardthat.com/?utm_expid=58652488-7.178199R2Seue5F7W89UKvQ.0" target="_blank">StoryboardThat.</a>
 
-<a href="http://prpubs.us/wp-content/uploads/2015/04/TheFutureHasArrived.png"><img class=" size-full wp-image-7691 aligncenter" src="http://prpubs.us/wp-content/uploads/2015/04/TheFutureHasArrived.png" alt="TheFutureHasArrived" width="752" height="605" /></a>
-
-#### 9. Create an <a href="http://www.meograph.com" target="_blank">interactive timeline</a> with pictures and maps with Meograph.
-
-https://www.youtube.com/watch?v=sIosZuvcols
-
-#### 10. Create a storyboard with <a href="https://www.storyboardthat.com/?utm_expid=58652488-7.178199R2Seue5F7W89UKvQ.0" target="_blank">StoryboardThat.</a></h2>
-
-<a href="http://prpubs.us/wp-content/uploads/2015/04/creator-classroom.jpg"><img class="size-full wp-image-7651" src="http://prpubs.us/wp-content/uploads/2015/04/creator-classroom.jpg" alt="storyboardthat.com" width="570" height="493" /></a> <a href="&quot;http://storyboardthat.com">storyboardthat.com</a>
+<img src="http://i0.wp.com/christymontenegro.oucreate.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-04-at-11.21.52-PM-1.png?zoom=2&resize=613%2C187"></img>
 
 ### 3. Create an action plan for your domain (Blog Post Required)
 
