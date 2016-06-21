@@ -1134,14 +1134,9 @@ Start to acquire photos and stories which you can use for your newsletter. Remem
 
 ### 4. Decide what stories will go in your newsletter
 
-I cannot say this enough. Remember: this is a print publication. Print is different than web. You will want you use large, high resolution photos. Here are some ways you can do that:
-<ul>
-	<li><a href="http://www.google.com/advanced_image_search" target="_blank">Google Image Advanced Search</a> - Change size to large and, preferably, change usage rights to "free to use or share"</li>
-	<li><a href="https://www.flickr.com/search/advanced/" target="_blank">Flickr Advanced Search</a> - Check "<label for="ccsearch">Only search within <strong>Creative Commons</strong>-licensed content"</label></li>
-	<li><a href="http://www.morguefile.com/archive" target="_blank">MorgueFile</a> - Free stock image site</li>
-	<li><a href="http://www.freeimages.com" target="_blank">freeimages.com</a> - Name speaks for itself.</li>
-</ul>
-Now the company you are designing for may have many good quality photos that you might think could get the job the done. If you ever have the question, "How will this look when I print it out?" then the solution is simple: print it out. Look at it and examine it. Does it look pixelated or distorted? If not, you should be good to go.
+As mentioned above, you should base your content and graphic design decisions on the target public, purpose and key messages to produce an effective, as well as good-looking, newsletter. One key ingredient to know before you start to embed your stories into your newsletter is how much space you have. Make sure your columns are linked together (even if they jump to a new page). If you aren’t sure on how to do that, I’ve created a video to show you how I do that:
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/OT4235ZN22Q" frameborder="0" allowfullscreen></iframe>
 
 ### 5. Decide what IMAGES will go in your newsletter
 
