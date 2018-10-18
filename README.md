@@ -17,8 +17,7 @@ I am proud to be a Brandon University alumnus and for the work that I do daily t
 
 Regards,
 
-Trent Gill, MA
-Academic Advisor
+Trent Gill
 
 ## About
 
