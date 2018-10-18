@@ -1,7 +1,5 @@
 # Trent Gill - Dossier
 
-Testing.
-
 ## About
 
 ## Advising Philosophy
