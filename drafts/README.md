@@ -19,6 +19,8 @@ Regards,
 
 Trent Gill
 
+## Table of Contents
+
 ## About
 
 My role in student services is academic advising. It is my responsibility to support students in pursuit of their academic goals. I am an educator and a facilitator to the learning process inherent to academic advising. Common duties include:
@@ -36,6 +38,8 @@ My advising philosophy is a work in progress. I am eager to learn more and make 
 
 Following developments in professional academic advising, I see myself as an educator whose primary role is to facilitate learning among Brandon University’s students. Today’s post-secondary learners face complex decisions about their education and how to navigate our institutions in order to pursue their goals _and_ create a successful life. I encourage students to think critically about how they define success, how their families and communities define success, and how our learning institutions define success. Students must create an educational plan that aligns with their interests, their goals, their values, and their personal definitions of success. In my capacity as an advisor, helping students think at a deeper level about these choices is at the heart of everything I do.
 
+### Advising as Integrated Learning
+
 The framework for my advising practice is influenced by a variety of sources, including Marc Lowenstein’s [theory of advising as integrative learning](https://dus.psu.edu/mentor/2014/08/toward-a-theory-of-advising/). In this theory, he identifies six guiding principles that help me think about my role and my responsibilities in academic advising:
 
 > 1. Advising is an academic endeavor. Its purposes are specific to institutions of higher learning.
@@ -48,13 +52,14 @@ Lowenstein’s general principles, outlined here, are useful for any advisor bec
 
 Furthermore, the theory of integrative learning is a _normative_, or _prescriptive_, theory. It instructs rather than explain. This means that it does not necessarily attempt to understand the practice of advising — the emphasis is more on creating _guiding principles_ and outlining what advising should or ought to be. Although the reality doesn’t always align with our ideals, as we will see, our guiding principles serve as a foundation for my interactions with students and with Brandon University.
 
-Academic Advising at Brandon University
-In NACADA’s Statement of Core Values for academic advisors, the third value says, “Advisors are responsible to their institutions.” This core value can be understood in a variety of ways. For example, as an academic advisor at Brandon University, part of my role is to explain and confirm the inherent value of a BU degree, and the value of post-secondary study more broadly. This is one way in which I am “responsible to my institution.” Other ways I am responsible to my institution include:
+### Academic Advising at Brandon University
+
+In NACADA’s Statement of Core Values for academic advisors, the third value speaks to the broader learning environment in which advising occurs: “Advisors are responsible to their institutions.” This core value can be understood in a variety of ways. For example, as an academic advisor at Brandon University, part of my role is to explain and confirm the inherent value of a BU degree, and the value of post-secondary study more broadly. This is one way in which I am “responsible to my institution.” Other ways I am responsible to my institution include:
 
 * Doing the job that the university expects me to do
 * Working with other members of the institution in a productive way
 * Remaining fair-minded with issues of personnel, faculty, curriculum planning, and institutional strategy
-Contributing to the institution’s success above and beyond my official responsibilities
+* Contributing to the institution’s success above and beyond my official responsibilities
 * Representing Brandon University in the community
 * Serving students according to the needs of the institution
 
@@ -129,7 +134,7 @@ Students who are using provincial, federal, or sponsored funding for their educa
 
 When I hear back from these students, the majority of them are successful in their appeals. Students are appreciative of academic advisors in these scenarios because we offer direct institutional support that they can use when dealing with external organizations.
 
-* Participate in the development, maintenance, and assessment of student support systems and programs;
+<div class="alert alert-info" role="alert">Participate in the development, maintenance, and assessment of student support systems and programs</div>
 
 In the fall semester of 2018, I was one of several early alert advisors in Student Services who were available to students who under-performed on the first midterm test or assignment in high-enrollment, high-failure courses. The purpose of early alert advising is not to replace the support of faculty and staff that already exists but to strengthen the support provided. This was an important learning experience in becoming more versatile as an advisor. It is designed to help get students back on track by giving them an overview of the resources and services they can use to enhance their learning.
 
@@ -154,18 +159,16 @@ I created this resource so advisors can work from a shared understanding of advi
 ### Advisors
 
 **Office:** Student Services (McKenzie Building 102-105)
+
 **Advising Appointments:** 204.727.9737
 
 General Advisors for Bachelors programs in Arts, Science, Physical Education Studies, Fine Arts, and Environmental Science:
 
-Alex Braun
-brauna@brandonu.ca
+Alex Braun (brauna@brandonu.ca)
 
-Laurie Shewchuk
-shewchuk@brandonu.ca
+Laurie Shewchuk (shewchuk@brandonu.ca)
 
-Trent Gill
-gillt@brandonu.ca
+Trent Gill (gillt@brandonu.ca)
 
 ### What is Academic Advising?
 
@@ -252,6 +255,8 @@ Before an advising appointment, you should:
 arrive on time for your advising appointment.
 
 ## Advising Statistics
+
+## Professional Development
 
 ## Other Projects
 
